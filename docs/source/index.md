@@ -9,10 +9,23 @@
 this library is under development.
 
 ```
+Some text 
+
+
+an `inline` code block
+
+## here's a code block
+
+```python
+for i in myList:
+    print(i)
+```
 
 ```{toctree}
 :caption: 'Contents:'
 :maxdepth: 2
+
+usage
 ```
 
 
