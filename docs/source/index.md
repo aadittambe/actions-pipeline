@@ -21,6 +21,10 @@ for i in myList:
     print(i)
 ```
 
+## and this is another h2 heading
+
+some more text 
+
 ```{toctree}
 :caption: 'Contents:'
 :maxdepth: 2
