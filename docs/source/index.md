@@ -23,7 +23,7 @@ A GitHub repository is a place to store your projects files and keep track of th
 
 In your profile on [GitHub](https://github.com/), navigate to the "repositories" tab.
 
-![create a repo](./_static/image1.png)
+<img src="./_static/image1.png" alt="create a repo" width="200"/>
 
 Click the green "new" button.
 
