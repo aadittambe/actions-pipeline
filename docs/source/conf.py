@@ -42,7 +42,7 @@ exclude_patterns = []
 
 source_suffix = '.rst'
 
-master_doc = 'index'
+master_doc = 'test'
 
 # -- Options for HTML output -------------------------------------------------
 
