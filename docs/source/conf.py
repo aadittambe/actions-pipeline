@@ -40,10 +40,11 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
-source_suffix = '.md'
+source_suffix = '.rst'
 
 root_doc = 'index'
 
+master_doc = 'index'
 
 # -- Options for HTML output -------------------------------------------------
 
