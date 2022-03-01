@@ -24,13 +24,13 @@ This chapter will walk you through how to create a repository. A GitHub reposito
 
 In your profile on [GitHub](https://github.com/), navigate to the "repositories" tab.
 
-<img src="./_static/image1.png" alt="create a repo" width="300"/>
+<img src="./_static/image1.png" alt="create a repo" style="width:500; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
 
 Click the green "new" button.
 
 Create a repository name, use dashes instead of spaces.
 
-<img src="./_static/image2.png" alt="create a repo" width="300"/>
+<img src="./_static/image2.png" alt="create a repo" style="width:500; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
 
 Select public repository, meaning other people who visit your profile can see it. 
 
@@ -48,15 +48,15 @@ This chapter will walk you through how to create a GitHub Action that executes a
 
 In your repository, click on the “Actions” tab.
 
-<img src="./_static/image3.png" alt="create a repo" width="300"/>
+<img src="./_static/image3.png" alt="create a repo" style="width:500; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
 
 Once you’re in the “Actions” tab, click on “set up a workflow yourself.”
 
-<img src="./_static/image4.png" alt="create a repo" width="300"/>
+<img src="./_static/image4.png" alt="create a repo" style="width:500; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
 
 You will be directed to a YAML file, with a screen that looks like this: 
 
-<img src="./_static/image5.png" alt="create a repo" width="300"/>
+<img src="./_static/image5.png" alt="create a repo" style="width:500; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
 
 ### 2.2. Writing the workflow
 
@@ -113,7 +113,7 @@ Then, we commit the results to our repository and push them, in the next step.
 
 Save this file ... and you’re done! You’ve written a scraper that runs automatically every 10 minutes. 
 
-<img src="./_static/image6.png" alt="create a repo" width="300"/>
+<img src="./_static/image6.png" alt="create a repo" style="width:500; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
 
 
 ### 2.5. Watch the Action run and log results in the repository
@@ -131,18 +131,18 @@ Open up the google collab notebook [here]().
 
 First push `File` and then `Save a copy in Github`.
 
-<img src="./_static/image7.png" alt="create a repo" width="300"/>
+<img src="./_static/image7.png" alt="create a repo" style="width:500; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
 
 Choose the appropriate repository to commit the file to and then push `OK`.
 
-<img src="./_static/image8.png" alt="create a repo" width="300"/>
+<img src="./_static/image8.png" alt="create a repo" style="width:500; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
 
 
 ### 3.2. View the notebook commited to your repository
 
 Now, whenever you need to edit this Collab notebook, you can push the `Open in Collab` badge.
 
-<img src="./_static/image9.png" alt="create a repo" width="300"/>
+<img src="./_static/image9.png" alt="create a repo" style="width:500; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
 
 ### 3.3. Connect scraped data to notebook
 
@@ -150,19 +150,19 @@ Connect the data scraped in your repository to the Colab notebook.
 
 In your repository, click on the `usgs.json` file.
 
-<img src="./_static/image10.png" alt="create a repo" width="300"/>
+<img src="./_static/image10.png" alt="create a repo" style="width:500; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
 
 Then, click the three dots and then `View raw`.
 
-<img src="./_static/image11.png" alt="create a repo" width="300"/>
+<img src="./_static/image11.png" alt="create a repo" style="width:500; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
 
 This URL points to the raw json data. Copy the URL and paste it in the `URL` variable in the notebook
 
-<img src="./_static/image12.png" alt="create a repo" width="300"/>
+<img src="./_static/image12.png" alt="create a repo" style="width:500; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
 
 tktk
 
-<img src="./_static/image13.png" alt="create a repo" style="width:300; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
+<img src="./_static/image13.png" alt="create a repo" style="width:500; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
 <h1 style="color:blue;">A Blue Heading</h1>
 
 
