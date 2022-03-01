@@ -19,7 +19,7 @@ else:
 
   # deduplicate based on unique id
 
-  df_main_new_drop_dupes = df_main_new.drop_duplicates(subset = "id", keep = True)
+  df_main_new_drop_dupes = df_main_new.drop_duplicates(subset = "id", keep = "first")
 
   # save to dataframe and overwrite the old usgs_main file
 
