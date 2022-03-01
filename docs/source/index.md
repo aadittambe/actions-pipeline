@@ -12,7 +12,13 @@ This tutorial will teach you how to automate basic data collection, analysis and
 This guide was prepared for training sessions of Investigative Reporters and Editors (IRE) and the [National Institute for Computer-Assisted Reporting (NICAR)](https://www.ire.org/training/conferences/nicar-2022/) by [Nicholas McMillan](https://www.nickmcmillan.com/) and [Aadit Tambe](https://aadittambe.com/).
 
 ## What you will scrape
-tktktktkktk
+We are going to build a Git scraper using just a GitHub account and the web browser. We will scrape earthquake data provided by USGS. This records all earthquakes in the past day and is updated every minute. The file can be found at [this](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php) page, and [this](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv) is the download link.
+
+<img src="./_static/image2.png" alt="what you are scraping" style="width: 50%"/>
+
+We have a two-part goal here:
+- We are first going to use GitHub to scrape this file every 5 minutes, and overwrite it each time. 
+- Then, we are going to execute a Python script to bind the new data to a main file, so that we bind and save our data. 
 
 ## Predule: Prerequisites
 
@@ -58,7 +64,7 @@ You will be directed to a YAML file, with a screen that looks like this:
 
 <img src="./_static/image5.png" alt="create a repo" style="width: 50%"/>
 
-### 2.2. Writing the workflow
+### 2.2. Write the workflow
 
 In this file, we will write step-by-step instructions for GitHub to execute commands. GitHub Actions uses [YAML](https://en.wikipedia.org/wiki/YAML) syntax to define the workflow. Delete everything in the file, and paste the text from here into the file.
 
@@ -90,7 +96,7 @@ jobs:
         git push
 ```
 
-### 2.3. Understanding the Action
+### 2.3. Understand the Action
 
 GitHub calls this a “workflow.” It is a set of instructions written in a language called YAML that tells GitHub which commands to execute. 
 
@@ -119,7 +125,6 @@ Save this file ... and you’re done! You’ve written a scraper that runs autom
 ### 2.5. Watch the Action run and log results in the repository
 
 tktktktktktktktk
-
 
 ## Act 3: Hello, analysis!
 
