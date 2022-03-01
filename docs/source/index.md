@@ -79,7 +79,7 @@ jobs:
         fetch-depth: 0
     - name: Fetch latest data
       run: |-
-        curl "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson" | jq > usgs.json
+        cURL "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson" | jq > usgs.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
@@ -105,7 +105,7 @@ The `name` keyword lets you give an optional name to the step.
 
 The `uses` keyword specifies that this step will run v2 of the actions/checkout action. This is an action that checks out our repository onto the runner, allowing us to run scripts or other actions against your code (such as build and test tools).
 
-The `run` keyword tells the job to execute a command on the runner. In this `run`, the Action will download that earthquake file using the curl tool, then pipe it through jq in order to pretty-print the JSON - this makes for a more useful display of file differences.
+The `run` keyword tells the job to execute a command on the runner. In this `run`, the Action will download that earthquake file using the cURL tool, then pipe it through jq in order to pretty-print the JSON - this makes for a more useful display of file differences.
 
 Then, we commit the results to our repository and push them, in the next step.
 
@@ -154,9 +154,17 @@ In your repository, click on the `usgs.json` file.
 
 Then, click the three dots and then `View raw`.
 
+<img src="./_static/image11.png" alt="create a repo" width="300"/>
 
+This URL points to the raw json data. Copy the URL and paste it in the `URL` variable in the notebook
 
+<img src="./_static/image12.png" alt="create a repo" width="300"/>
 
+tktk
+
+<img src="./_static/image13.png" alt="create a repo" width="300"/>
+
+Now we need to commit our analysis notebook to our GitHub, repeat step 4.1
 
 
 ```{warning}
