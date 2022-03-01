@@ -162,7 +162,16 @@ This URL points to the raw json data. Copy the URL and paste it in the `URL` var
 
 tktk
 
-<img src="./_static/image13.png" alt="create a repo" width="300"/>
+<img src="./_static/image13.png" alt="create a repo" style="width:300; display:block; margin-left: auto; margin-right: auto; width: 50%"/>
+<h1 style="color:blue;">A Blue Heading</h1>
+
+
+```
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+```
 
 Now we need to commit our analysis notebook to our GitHub, repeat step 4.1
 
