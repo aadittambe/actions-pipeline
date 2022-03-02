@@ -350,3 +350,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T19:22:21.360Z,38.7916679,-122.7598343,1.51,0.36,md,8.0,114.0,0.008944,0.02,nc,nc73700141,2022-03-02T19:23:54.196Z,"2km N of The Geysers, CA",earthquake,0.36,0.93,,1.0,automatic,nc,nc
 2022-03-02T15:27:33.600Z,17.9753333333333,-66.9213333333333,11.38,1.39,md,5.0,178.0,,0.1,pr,pr71338578,2022-03-02T19:29:00.000Z,"1 km WNW of Guánica, Puerto Rico",earthquake,0.67,1.05,0.035142668287696,4.0,reviewed,pr,pr
 2022-03-02T16:37:09.370Z,39.4178333,-110.3001667,-3.0,1.71,md,9.0,199.0,0.0203,0.14,uu,uu60483937,2022-03-02T19:35:55.170Z,"16 km SSE of Sunnyside, Utah",earthquake,0.52,1.53,0.224,6.0,reviewed,uu,uu
+2022-03-02T17:01:34.050Z,39.4193333,-110.305,-2.05,1.63,md,7.0,197.0,0.01628,0.11,uu,uu60483947,2022-03-02T19:39:04.960Z,"16 km SSE of Sunnyside, Utah",earthquake,0.75,0.91,0.22,7.0,reviewed,uu,uu
+2022-03-02T16:49:56.770Z,39.4213333,-110.3153333,-1.43,1.61,md,7.0,194.0,0.008054,0.05,uu,uu60483942,2022-03-02T19:37:30.050Z,"15 km SSE of Sunnyside, Utah",earthquake,0.69,0.35,0.326,7.0,reviewed,uu,uu
