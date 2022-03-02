@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-02T16:37:30.007Z,63.5195,-147.7428,17.3,1.4,ml,,,,0.94,ak,ak0222t5j3m5,2022-03-02T16:45:13.455Z,"61 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-02T16:35:23.814Z,60.2577,-150.706,50.4,2.2,ml,,,,0.81,ak,ak0222t5inpj,2022-03-02T16:45:13.303Z,"27 km S of Funny River, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-03-02T16:29:08.780Z,38.7973328,-122.7994995,0.58,0.74,md,16,62,0.009416,0.03,nc,nc73700046,2022-03-02T16:37:11.043Z,"4km WNW of The Geysers, CA",earthquake,0.21,0.52,0.11,2,automatic,nc,nc
+2022-03-02T16:29:08.780Z,38.7973328,-122.7994995,0.58,0.74,md,16,62,0.009416,0.03,nc,nc73700046,2022-03-02T16:47:16.100Z,"4km WNW of The Geysers, CA",earthquake,0.21,0.52,0.11,2,automatic,nc,nc
 2022-03-02T16:21:09.390Z,38.8219986,-122.7645035,1.68,1.18,md,8,193,0.009457,0.01,nc,nc73700041,2022-03-02T16:36:13.039Z,"4km W of Cobb, CA",earthquake,0.53,1.15,,1,automatic,nc,nc
 2022-03-02T16:20:53.419Z,61.7964,-149.6942,41.9,1.3,ml,,,,0.78,ak,ak0222t5fi8t,2022-03-02T16:24:20.561Z,"18 km ENE of Willow, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-03-02T16:15:49.110Z,35.771,-117.5458333,11.47,0.86,ml,7,270,0.0613,0.18,ci,ci40197944,2022-03-02T16:19:14.562Z,"13km W of Searles Valley, CA",earthquake,1.25,31.61,0.275,8,automatic,ci,ci
@@ -124,11 +124,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T04:31:54.846Z,62.3698,-148.6068,28,2.4,ml,,,,0.67,ak,ak0222sycnzm,2022-03-02T04:45:12.903Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-02T04:30:28.062Z,59.502,-152.7681,75.2,1.4,ml,,,,0.94,ak,ak0222syce6u,2022-03-02T04:35:11.358Z,"50 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-02T04:22:20.960Z,38.8048333,-122.7915,1.01,1.11,md,42,43,0.004316,0.03,nc,nc73699771,2022-03-02T08:51:11.308Z,"4km NW of The Geysers, CA",earthquake,0.11,0.22,0.087,10,reviewed,nc,nc
-2022-03-02T04:17:44.569Z,38.5061,-119.4863,6.4,1.4,ml,16,165.74,0.038,0.2414,nn,nn00834736,2022-03-02T04:21:07.959Z,"Central California",earthquake,,0.4,0.21,7,automatic,nn,nn
+2022-03-02T04:17:44.569Z,38.5061,-119.4863,6.4,1.4,ml,16,165.74,0.038,0.2414,nn,nn00834736,2022-03-02T04:21:07.959Z,"1 km SW of Walker, California",earthquake,,0.4,0.21,7,automatic,nn,nn
 2022-03-02T04:16:47.504Z,-14.3194,-76.5117,10,4.5,mb,,202,2.34,0.55,us,us6000h1ah,2022-03-02T04:30:51.847Z,"56 km SSW of Paracas, Peru",earthquake,7.4,2,0.181,9,reviewed,us,us
 2022-03-02T04:13:38.649Z,35.82666667,-97.2905,6.23,1.08,ml,66,44,0.08458340185,0.18,ok,ok2022efyo,2022-03-02T14:56:55.609Z,"4 km WSW of Meridian, Oklahoma",earthquake,,0.4,0.25,30,reviewed,ok,ok
 2022-03-02T04:06:01.130Z,18.0016666666667,-66.9201666666667,11.58,2.25,md,3,212,,0.05,pr,pr71338443,2022-03-02T05:44:27.160Z,"1 km NNW of Fuig, Puerto Rico",earthquake,2.55,1.17,0.0456787290719496,3,reviewed,pr,pr
-2022-03-02T03:49:23.630Z,18.0426666666667,-66.8941666666667,18.04,1.51,md,6,122,,0.05,pr,pr71338438,2022-03-02T04:21:14.400Z,"Puerto Rico",earthquake,0.41,0.91,0.141768527998169,4,reviewed,pr,pr
+2022-03-02T03:49:23.630Z,18.0426666666667,-66.8941666666667,18.04,1.51,md,6,122,,0.05,pr,pr71338438,2022-03-02T04:21:14.400Z,"1 km ENE of Lluveras, Puerto Rico",earthquake,0.41,0.91,0.141768527998169,4,reviewed,pr,pr
 2022-03-02T03:44:50.467Z,43.9084,148.6341,10,4.8,mb,,185,4.362,0.76,us,us6000h1a6,2022-03-02T03:58:07.040Z,"154 km E of Shikotan, Russia",earthquake,10.2,1.9,0.076,53,reviewed,us,us
 2022-03-02T03:34:24.160Z,37.8795,-122.2536667,9.16,1.23,md,50,36,0.00426,0.05,nc,nc73699761,2022-03-02T07:59:20.995Z,"2km ENE of Berkeley, CA",earthquake,0.15,0.21,0.288,27,reviewed,nc,nc
 2022-03-02T03:31:19.234Z,59.9587,-150.817,13.3,2,ml,,,,0.76,ak,ak0222sxr5mg,2022-03-02T03:44:53.165Z,"13 km NE of Fox River, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -268,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-01T16:54:33.850Z,35.6386667,-117.4488333,6.88,0.21,ml,8,118,0.05318,0.1,ci,ci40197120,2022-03-01T17:43:06.340Z,"15km SSW of Searles Valley, CA",earthquake,0.3,0.37,0.028,2,reviewed,ci,ci
 2022-03-01T16:51:12.230Z,37.1243333,-121.9951667,14.48,2.68,md,106,83,0.04944,0.14,nc,nc73699581,2022-03-02T15:39:43.213Z,"5km SSW of Lexington Hills, CA",earthquake,0.14,0.25,0.148,111,reviewed,nc,nc
 2022-03-01T16:48:46.235Z,60.8548,-148.4368,19,1.5,ml,,,,0.68,ak,ak0222ri258v,2022-03-01T17:07:23.006Z,"16 km ENE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-01T16:47:07.650Z,37.6228333,-119.4028333,25.15,1.72,md,7,213,0.3037,0.46,nc,nc73699576,2022-03-01T20:08:10.786Z,"20km SE of Yosemite Valley, CA",earthquake,1.86,4.9,0.039,7,reviewed,nc,nc
