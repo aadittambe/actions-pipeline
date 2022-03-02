@@ -288,3 +288,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T01:25:28.400Z,44.2825,-110.4571667,6.69,1.23,md,12.0,99.0,0.05403,0.16,uu,uu60483752,2022-03-02T16:34:38.930Z,"66 km SE of West Yellowstone, Montana",earthquake,0.39,1.26,0.419,10.0,reviewed,uu,uu
 2022-03-02T16:37:30.007Z,63.5195,-147.7428,17.3,1.5,ml,,,,0.94,ak,ak0222t5j3m5,2022-03-02T16:41:52.673Z,"61 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-02T01:55:52.360Z,44.2856667,-110.4553333,4.33,0.94,md,10.0,98.0,0.0564,0.11,uu,uu60483762,2022-03-02T16:41:25.220Z,"66 km SE of West Yellowstone, Montana",earthquake,0.38,0.56,0.428,8.0,reviewed,uu,uu
+2022-03-02T02:01:57.190Z,44.2761667,-110.4525,5.38,1.04,md,12.0,101.0,0.05547,0.18,uu,uu60483772,2022-03-02T16:44:31.650Z,"67 km SE of West Yellowstone, Montana",earthquake,0.66,1.18,0.081,8.0,reviewed,uu,uu
