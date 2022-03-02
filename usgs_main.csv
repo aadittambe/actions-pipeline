@@ -321,3 +321,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T08:15:42.520Z,44.6875,-110.4321667,2.01,0.82,md,8.0,231.0,0.1716,0.19,uu,uu60483877,2022-03-02T17:47:52.450Z,"38 km SSE of Mammoth, Wyoming",earthquake,1.85,1.44,0.613,8.0,reviewed,uu,uu
 2022-03-02T07:59:40.100Z,44.2936667,-110.4571667,6.46,0.64,md,6.0,189.0,0.05879,0.08,uu,uu60483872,2022-03-02T17:45:15.920Z,"65 km SE of West Yellowstone, Montana",earthquake,0.6,1.6,0.104,5.0,reviewed,uu,uu
 2022-03-02T07:07:47.340Z,44.276,-110.4445,6.23,1.45,md,11.0,198.0,0.06105,0.17,uu,uu60483862,2022-03-02T17:43:10.130Z,"67 km SE of West Yellowstone, Montana",earthquake,1.04,1.12,0.123,10.0,reviewed,uu,uu
+2022-03-02T08:25:33.190Z,44.2873333,-110.4586667,5.42,0.57,md,8.0,196.0,0.05489,0.08,uu,uu60483887,2022-03-02T17:50:59.740Z,"66 km SE of West Yellowstone, Montana",earthquake,0.53,1.27,0.21,7.0,reviewed,uu,uu
