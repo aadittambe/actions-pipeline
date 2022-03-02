@@ -31,6 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T00:49:01.176Z,61.0328,-152.2101,114.9,2.3,ml,,,,0.56,ak,ak0222sw2oae,2022-03-02T01:24:05.040Z,"58 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-02T00:35:08.873Z,38.202,-117.7398,8.2,1.4,ml,10,125.51,0.128,0.0984,nn,nn00834724,2022-03-02T00:38:55.164Z,"38 km ESE of Mina, Nevada",earthquake,,2,0.33,6,automatic,nn,nn
 2022-03-02T00:34:20.997Z,61.2744,-146.852,18.3,2.7,ml,,,,0.84,ak,ak0222svzi2p,2022-03-02T00:46:46.570Z,"31 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-02T00:24:23.700Z,38.8233333,-122.7995,2.78,0.41,md,21,52,0.00826,0.02,nc,nc73699676,2022-03-02T03:50:19.114Z,"6km NW of The Geysers, CA",earthquake,0.23,0.41,0.131,3,reviewed,nc,nc
 2022-03-02T00:21:18.440Z,19.2229995727539,-155.395660400391,32.9000015258789,2.00999999,md,36,148,,0.119999997,hv,hv72934302,2022-03-02T00:24:33.210Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.69,0.730000019,0.140000001,9,automatic,hv,hv
 2022-03-02T00:18:48.916Z,35.8151,95.7833,10,4.8,mb,,59,11.98,0.57,us,us6000h198,2022-03-02T01:34:27.040Z,"Southern Qinghai, China",earthquake,9.9,1.9,0.058,91,reviewed,us,us
 2022-03-02T00:12:29.810Z,34.2773333,-118.9911667,0.86,2.03,ml,33,66,0.05868,0.3,ci,ci40197512,2022-03-02T00:29:40.120Z,"8km NNE of Camarillo, CA",earthquake,0.46,31.61,0.145,28,automatic,ci,ci
@@ -38,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T00:09:11.999Z,65.0058,-147.4884,0,1.6,ml,,,,0.89,ak,ak0222svu4hv,2022-03-02T00:39:15.286Z,"8 km NE of Fox, Alaska",explosion,,0.4,,,automatic,ak,ak
 2022-03-02T00:05:43.354Z,60.7792,-151.4246,68.3,1.8,ml,,,,0.85,ak,ak0222svtc1r,2022-03-02T00:16:01.093Z,"12 km NW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-02T00:05:24.973Z,62.4556,-151.1685,79.4,1.2,ml,,,,0.38,ak,ak0222svtaqr,2022-03-02T00:37:04.741Z,"21 km WSW of Petersville, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2022-03-02T00:05:20.870Z,36.5806667,-121.1355,8.51,1.42,md,19,147,0.04115,0.1,nc,nc73699671,2022-03-02T03:46:48.636Z,"6km N of Pinnacles, CA",earthquake,0.34,0.33,0.248,20,reviewed,nc,nc
+2022-03-02T00:05:20.870Z,36.5806667,-121.1355,8.51,1.42,md,19,147,0.04115,0.1,nc,nc73699671,2022-03-02T03:52:11.475Z,"6km N of Pinnacles, CA",earthquake,0.34,0.33,0.248,20,reviewed,nc,nc
 2022-03-02T00:03:47.300Z,34.0291667,-116.7191667,11.45,0.8,ml,17,49,0.05987,0.15,ci,ci40197496,2022-03-02T00:07:26.265Z,"13km W of Morongo Valley, CA",earthquake,0.28,0.75,0.116,19,automatic,ci,ci
 2022-03-01T23:54:22.120Z,12.1862,144.2345,10,5,mb,,168,1.525,0.68,us,us6000h18x,2022-03-02T02:04:24.115Z,"128 km SSW of Merizo Village, Guam",earthquake,11.6,1.9,0.047,145,reviewed,us,us
 2022-03-01T23:51:27.090Z,33.1106667,-117.0346667,16.57,1.37,ml,8,141,0.1688,0.24,ci,ci40197472,2022-03-01T23:55:05.584Z,"5km ESE of Escondido, CA",earthquake,1.04,31.61,0.471,13,automatic,ci,ci
@@ -345,4 +346,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-01T04:00:12.415Z,43.9213,148.5065,10,4.5,mb,,181,4.269,0.61,us,us6000h0zp,2022-03-01T04:19:14.040Z,"144 km E of Shikotan, Russia",earthquake,7.8,1.9,0.108,25,reviewed,us,us
 2022-03-01T03:59:13.640Z,38.8323326,-122.8156662,1.4,0.85,md,8,86,0.009936,0.02,nc,nc73699256,2022-03-01T04:15:15.710Z,"8km NW of The Geysers, CA",earthquake,0.34,1.1,,1,automatic,nc,nc
 2022-03-01T03:55:06.280Z,37.6975,-113.1773333,9.47,1.49,ml,8,176,0.1244,0.07,uu,uu60483607,2022-03-01T16:27:45.830Z,"10 km WNW of Cedar City, Utah",earthquake,0.67,0.76,0.336,3,reviewed,uu,uu
-2022-03-01T03:52:45.250Z,39.3215,-123.247,4.88,2.03,md,27,64,0.04189,0.07,nc,nc73699251,2022-03-01T09:14:16.687Z,"7km NNW of Redwood Valley, CA",earthquake,0.19,0.41,0.143,24,reviewed,nc,nc
