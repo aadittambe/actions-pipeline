@@ -265,7 +265,7 @@ Navigate back to `code` tab of your repository. And notice the newly created `us
 
 ## Epilogue: Hello, analysis!
 
-Now that we are downloading the most current CSV (`usgs_current.csv`) and also aggregating all the data we collect (`usgs_main.csv`), we can run some basic analysis, and connect it to our workflow with GitHub Actions. We will accomplish this using a code notebook and run it every time our workflow runs.
+Now that we are downloading the most current CSV (`usgs_current.csv`) and also aggregating all the data we collect (`usgs_main.csv`), we can run some basic analysis on the file.
 
 In our GitHub repository, click on the `usgs_main.csv` file.
 
@@ -300,13 +300,3 @@ This is a simple notebook designed to get you started to think about the potenti
 <img src="./_static/image_21.png" style="width: 50%"/>
 
 This notebook performs some basic filtering operations on our `usgs_main.csv` file, to print out a simple sentence.
-
-This notebook can be modified to perform advanced analyses on the data.
-
-Let's add this notebook to our workflow, so that every time the Action runs, it will execute this notebook.
-
-Edit the YAML file, so that it looks like this: 
-
-```
-
-```
