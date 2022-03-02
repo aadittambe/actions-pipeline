@@ -369,3 +369,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T20:51:15.470Z,38.8346672,-122.8103333,2.11,0.85,md,11.0,62.0,0.01126,0.01,nc,nc73700161,2022-03-02T20:52:50.307Z,"8km W of Cobb, CA",earthquake,0.4,1.19,,1.0,automatic,nc,nc
 2022-03-02T12:13:08.870Z,39.349,-123.234,7.64,1.45,md,18.0,63.0,0.05247,0.09,nc,nc73699926,2022-03-02T20:51:35.221Z,"10km NNW of Redwood Valley, CA",earthquake,0.25,0.5,0.266,18.0,reviewed,nc,nc
 2022-03-02T00:35:24.544Z,38.193,-117.7418,11.0,1.7,ml,14.0,124.01,0.119,0.1155,nn,nn00834781,2022-03-02T20:59:50.564Z,"38 km SE of Mina, Nevada",earthquake,,1.9,0.28,6.0,reviewed,nn,nn
+2022-03-02T16:16:19.020Z,35.7558333,-117.5648333,11.21,0.53,ml,7.0,141.0,0.06542,0.16,ci,ci37489197,2022-03-02T21:20:23.024Z,"15km W of Searles Valley, CA",earthquake,0.7,1.01,0.162,4.0,reviewed,ci,ci
+2022-03-02T11:07:20.010Z,35.4896667,-120.7951667,6.98,1.4,md,36.0,61.0,0.08235,0.08,nc,nc73699896,2022-03-02T21:20:50.244Z,"10km ENE of Cayucos, CA",earthquake,0.16,0.42,0.217,22.0,reviewed,nc,nc
