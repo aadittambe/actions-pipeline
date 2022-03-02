@@ -352,3 +352,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T16:37:09.370Z,39.4178333,-110.3001667,-3.0,1.71,md,9.0,199.0,0.0203,0.14,uu,uu60483937,2022-03-02T19:35:55.170Z,"16 km SSE of Sunnyside, Utah",earthquake,0.52,1.53,0.224,6.0,reviewed,uu,uu
 2022-03-02T17:01:34.050Z,39.4193333,-110.305,-2.05,1.63,md,7.0,197.0,0.01628,0.11,uu,uu60483947,2022-03-02T19:39:04.960Z,"16 km SSE of Sunnyside, Utah",earthquake,0.75,0.91,0.22,7.0,reviewed,uu,uu
 2022-03-02T16:49:56.770Z,39.4213333,-110.3153333,-1.43,1.61,md,7.0,194.0,0.008054,0.05,uu,uu60483942,2022-03-02T19:37:30.050Z,"15 km SSE of Sunnyside, Utah",earthquake,0.69,0.35,0.326,7.0,reviewed,uu,uu
+2022-03-02T19:54:45.960Z,37.8413315,-121.9909973,8.66,1.52,md,19.0,98.0,0.01753,0.03,nc,nc73700146,2022-03-02T19:56:20.424Z,"2km NNE of Danville, CA",earthquake,0.24,0.35,0.15,14.0,automatic,nc,nc
