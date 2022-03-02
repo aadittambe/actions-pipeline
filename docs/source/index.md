@@ -292,7 +292,7 @@ Next, make a copy of [this notebook](https://github.com/aadittambe/actions-pipel
 - Paste the text you copied in the file. Save and commit the file.
 
 ```{note}
-To learn more about getting started with Python notebooks using an incredible browser-based notebook called a Jupyter notebook, check out [this](firstpythonnotebook.org) other IRE textbook.
+To learn more about getting started with Python notebooks using an incredible browser-based notebook called a Jupyter notebook, check out [this](https://www.firstpythonnotebook.org/about/index.html) textbook made for another NICAR class.
 ```
 
 This is a simple notebook designed to get you started to think about the potential of data analysis. After committing, the notebook should look like this: 
