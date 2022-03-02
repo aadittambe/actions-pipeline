@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-02T19:22:21.360Z,38.7916679,-122.7598343,1.51,0.36,md,8,114,0.008944,0.02,nc,nc73700141,2022-03-02T19:28:10.063Z,"2km N of The Geysers, CA",earthquake,0.36,0.93,,1,automatic,nc,nc
 2022-03-02T19:13:49.764Z,64.1223,-150.5888,10.9,1.3,ml,,,,0.54,ak,ak0222t76are,2022-03-02T19:19:01.441Z,"69 km WSW of Clear, Alaska, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-02T19:10:20.458Z,38.5952,-119.4213,5.7,2.6,ml,21,74.84,0.078,0.3001,nn,nn00834770,2022-03-02T19:18:10.995Z,"8 km ENE of Coleville, California",earthquake,,0.6,0.26,14,automatic,nn,nn
+2022-03-02T19:10:20.458Z,38.5952,-119.4213,5.7,2.6,ml,21,74.84,0.078,0.3001,nn,nn00834770,2022-03-02T19:32:14.095Z,"8 km ENE of Coleville, California",earthquake,,0.6,0.26,14,automatic,nn,nn
 2022-03-02T18:57:23.593Z,60.7182,-149.9452,31.3,1.6,ml,,,,0.73,ak,ak0222t6u8n1,2022-03-02T19:17:20.984Z,"26 km NNW of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-02T18:52:47.660Z,35.6945,-121.1311646,7.89,2.17,md,32,156,0.1437,0.08,nc,nc73700126,2022-03-02T19:00:10.881Z,"8km NE of San Simeon, CA",earthquake,0.34,1.2,0.09,20,automatic,nc,nc
+2022-03-02T18:52:47.660Z,35.6945,-121.1311646,7.89,2.17,md,32,156,0.1437,0.08,nc,nc73700126,2022-03-02T19:32:13.095Z,"8km NE of San Simeon, CA",earthquake,0.34,1.2,0.09,20,automatic,nc,nc
 2022-03-02T18:45:47.590Z,17.9465,-67.0145,10.01,1.64,md,4,273,,0.05,pr,pr71338573,2022-03-02T18:59:53.860Z,"4 km SE of La Parguera, Puerto Rico",earthquake,0.65,0.83,0.067505831886056,3,reviewed,pr,pr
 2022-03-02T18:44:05.340Z,38.833168,-122.8170013,1.58,0.85,md,17,56,0.01116,0.02,nc,nc73700111,2022-03-02T19:11:18.102Z,"8km NW of The Geysers, CA",earthquake,0.24,0.63,,1,automatic,nc,nc
 2022-03-02T18:32:21.860Z,34.0376667,-116.317,9.09,1.25,ml,31,62,0.06828,0.22,ci,ci40198088,2022-03-02T18:42:58.690Z,"11km S of Joshua Tree, CA",earthquake,0.35,0.84,0.222,27,automatic,ci,ci
@@ -24,6 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T17:02:35.717Z,49.4341,155.812,71.79,4.9,mb,,129,3.865,0.78,us,us6000h1ga,2022-03-02T17:26:29.040Z,"139 km S of Severo-Kuril’sk, Russia",earthquake,9.4,3.6,0.038,223,reviewed,us,us
 2022-03-02T17:00:18.340Z,33.6705,-116.711,14.02,0.73,ml,18,105,0.04349,0.24,ci,ci40197968,2022-03-02T17:03:50.336Z,"8km S of Idyllwild, CA",earthquake,0.54,1.1,0.193,14,automatic,ci,ci
 2022-03-02T16:37:30.007Z,63.5195,-147.7428,17.3,1.4,ml,,,,0.94,ak,ak0222t5j3m5,2022-03-02T16:45:13.455Z,"61 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-02T16:37:09.370Z,39.4178333,-110.3001667,-3,1.71,md,9,199,0.0203,0.14,uu,uu60483937,2022-03-02T19:35:55.170Z,"16 km SSE of Sunnyside, Utah",earthquake,0.52,1.53,0.224,6,reviewed,uu,uu
 2022-03-02T16:35:23.814Z,60.2577,-150.706,50.4,2.2,ml,,,,0.81,ak,ak0222t5inpj,2022-03-02T16:45:13.303Z,"27 km S of Funny River, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-03-02T16:29:08.780Z,38.7973328,-122.7994995,0.58,0.74,md,16,62,0.009416,0.03,nc,nc73700046,2022-03-02T18:05:11.555Z,"4km WNW of The Geysers, CA",earthquake,0.21,0.52,0.11,2,automatic,nc,nc
 2022-03-02T16:21:09.390Z,38.8219986,-122.7645035,1.68,1.18,md,8,193,0.009457,0.01,nc,nc73700041,2022-03-02T17:51:14.471Z,"4km W of Cobb, CA",earthquake,0.53,1.15,,1,automatic,nc,nc
@@ -284,4 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-01T19:59:44.180Z,33.0045,-116.2853333,4.06,1.06,ml,31,87,0.05202,0.23,ci,ci40197288,2022-03-01T20:03:19.401Z,"21km SW of Ocotillo Wells, CA",earthquake,0.34,0.76,0.154,25,automatic,ci,ci
 2022-03-01T19:54:24.506Z,38.1714,-117.8276,7.7,1.3,ml,15,145.71,0.109,0.1091,nn,nn00834676,2022-03-02T02:37:59.894Z,"34 km SE of Mina, Nevada",earthquake,,2.7,0.71,4,reviewed,nn,nn
 2022-03-01T19:41:00.736Z,60.9875,-151.1297,4.9,1.9,ml,,,,0.58,ak,ak0222rjsujh,2022-03-01T19:54:09.808Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-01T19:35:47.158Z,16.3265,-96.3764,42.88,5.3,mww,,75,2.43,0.87,us,us6000h179,2022-03-02T19:18:16.111Z,"3 km S of San Francisco Logueche, Mexico",earthquake,6.1,5.2,0.098,10,reviewed,us,us
