@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-02T07:35:12.150Z,38.7983322,-122.7983322,0.13,1,md,19,52,0.009909,0.05,nc,nc73699831,2022-03-02T07:36:50.502Z,"4km WNW of The Geysers, CA",earthquake,0.2,0.45,0.16,5,automatic,nc,nc
+2022-03-02T07:37:19.630Z,19.1909999847412,-155.384170532227,31.6399993896484,1.99000001,md,36,186,,0.119999997,hv,hv72934677,2022-03-02T07:40:24.400Z,"10 km E of Pāhala, Hawaii",earthquake,0.77,0.779999971,0.00999999978,5,automatic,hv,hv
+2022-03-02T07:35:12.150Z,38.7983322,-122.7983322,0.13,1,md,19,52,0.009909,0.05,nc,nc73699831,2022-03-02T07:44:10.900Z,"4km WNW of The Geysers, CA",earthquake,0.2,0.45,0.16,5,automatic,nc,nc
 2022-03-02T07:34:02.930Z,19.218334197998,-155.397827148438,32.5,2.22000003,md,41,150,,0.119999997,hv,hv72934672,2022-03-02T07:37:10.990Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.59,0.75,0.629999995,5,automatic,hv,hv
 2022-03-02T07:25:02.857Z,59.1249,-153.0187,76.7,1.4,ml,,,,0.24,ak,ak0222t03kh9,2022-03-02T07:28:41.054Z,"67 km WSW of Nanwalek, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2022-03-02T07:22:07.490Z,36.8526649,-121.579834,6.21,1.65,md,26,96,0.03319,0.13,nc,nc73699826,2022-03-02T07:31:10.822Z,"4km WNW of San Juan Bautista, CA",earthquake,0.31,0.68,0.25,23,automatic,nc,nc
+2022-03-02T07:22:07.490Z,36.8526649,-121.579834,6.21,1.65,md,26,96,0.03319,0.13,nc,nc73699826,2022-03-02T07:41:19.889Z,"4km WNW of San Juan Bautista, CA",earthquake,0.31,0.68,0.25,23,automatic,nc,nc
 2022-03-02T07:15:21.980Z,34.0133333,-116.9653333,12.97,0.77,ml,15,127,0.08367,0.14,ci,ci40197736,2022-03-02T07:18:45.804Z,"8km ESE of Yucaipa, CA",earthquake,0.37,0.79,0.148,14,automatic,ci,ci
 2022-03-02T07:08:26.500Z,17.9463333333333,-66.9638333333333,15.83,1.62,md,3,217,,0.04,pr,pr71338458,2022-03-02T07:29:24.110Z,"6 km WSW of Guánica, Puerto Rico",earthquake,2.76,1.12,0.0192411304287829,3,reviewed,pr,pr
 2022-03-02T06:55:12.910Z,38.7906685,-122.8034973,3.36,0.74,md,22,68,0.002363,0.03,nc,nc73699816,2022-03-02T07:19:14.764Z,"4km WNW of The Geysers, CA",earthquake,0.28,0.63,0.11,4,automatic,nc,nc
@@ -37,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T03:44:50.467Z,43.9084,148.6341,10,4.8,mb,,185,4.362,0.76,us,us6000h1a6,2022-03-02T03:58:07.040Z,"154 km E of Shikotan, Russia",earthquake,10.2,1.9,0.076,53,reviewed,us,us
 2022-03-02T03:34:24.160Z,37.8795,-122.2536667,9.16,1.23,md,50,36,0.00426,0.05,nc,nc73699761,2022-03-02T06:26:10.425Z,"2km ENE of Berkeley, CA",earthquake,0.15,0.21,0.288,27,reviewed,nc,nc
 2022-03-02T03:31:19.234Z,59.9587,-150.817,13.3,2,ml,,,,0.76,ak,ak0222sxr5mg,2022-03-02T03:44:53.165Z,"13 km NE of Fox River, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-02T03:31:05.980Z,37.695,-122.1163333,7.91,1.11,md,36,64,0.05914,0.08,nc,nc73699756,2022-03-02T06:00:10.250Z,"2km NNE of San Lorenzo, CA",earthquake,0.18,0.45,0.156,24,reviewed,nc,nc
+2022-03-02T03:31:05.980Z,37.695,-122.1163333,7.91,1.11,md,36,64,0.05914,0.08,nc,nc73699756,2022-03-02T07:44:11.041Z,"2km NNE of San Lorenzo, CA",earthquake,0.18,0.45,0.156,24,reviewed,nc,nc
 2022-03-02T03:25:17.740Z,43.8388,148.6653,10,4.5,mb,,206,4.391,0.63,us,us6000h1a3,2022-03-02T03:41:22.040Z,"156 km E of Shikotan, Russia",earthquake,7.8,1.9,0.118,21,reviewed,us,us
 2022-03-02T03:20:40.755Z,64.7301,-150.8374,9.2,1.6,ml,,,,0.56,ak,ak0222sxouj9,2022-03-02T03:25:24.148Z,"31 km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-02T03:11:41.003Z,63.6009,-147.6376,6.9,1.5,ml,,,,0.39,ak,ak0222sxmwz8,2022-03-02T03:25:24.008Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
