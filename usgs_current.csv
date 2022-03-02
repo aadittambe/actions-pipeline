@@ -42,12 +42,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T04:41:08.325Z,-0.4536,-19.8025,10,5.3,mww,,100,9.199,0.76,us,us6000h1an,2022-03-02T04:58:53.040Z,"central Mid-Atlantic Ridge",earthquake,10,1.9,0.093,11,reviewed,us,us
 2022-03-02T04:31:54.846Z,62.3698,-148.6068,28,2.4,ml,,,,0.67,ak,ak0222sycnzm,2022-03-02T04:45:12.903Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-02T04:30:28.062Z,59.502,-152.7681,75.2,1.4,ml,,,,0.94,ak,ak0222syce6u,2022-03-02T04:35:11.358Z,"50 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-03-02T04:22:20.960Z,38.8048333,-122.7915,1.01,1.11,md,42,43,0.004316,0.03,nc,nc73699771,2022-03-02T08:39:15.244Z,"4km NW of The Geysers, CA",earthquake,0.11,0.22,0.087,10,reviewed,nc,nc
-2022-03-02T04:17:44.569Z,38.5061,-119.4863,6.4,1.4,ml,16,165.74,0.038,0.2414,nn,nn00834736,2022-03-02T04:21:07.959Z,"Central California",earthquake,,0.4,0.21,7,automatic,nn,nn
+2022-03-02T04:22:20.960Z,38.8048333,-122.7915,1.01,1.11,md,42,43,0.004316,0.03,nc,nc73699771,2022-03-02T08:51:11.308Z,"4km NW of The Geysers, CA",earthquake,0.11,0.22,0.087,10,reviewed,nc,nc
+2022-03-02T04:17:44.569Z,38.5061,-119.4863,6.4,1.4,ml,16,165.74,0.038,0.2414,nn,nn00834736,2022-03-02T04:21:07.959Z,"1 km SW of Walker, California",earthquake,,0.4,0.21,7,automatic,nn,nn
 2022-03-02T04:16:47.504Z,-14.3194,-76.5117,10,4.5,mb,,202,2.34,0.55,us,us6000h1ah,2022-03-02T04:30:51.847Z,"56 km SSW of Paracas, Peru",earthquake,7.4,2,0.181,9,reviewed,us,us
 2022-03-02T04:13:38.481Z,35.8282547,-97.31749725,3.960182428,1.5,ml,12,231.9730034,0.09251490235,0.1691836489,ok,ok2022efyo,2022-03-02T04:16:21.093Z,"6 km WSW of Meridian, Oklahoma",earthquake,14.3919394,4.712722744,,9,automatic,ok,ok
 2022-03-02T04:06:01.130Z,18.0016666666667,-66.9201666666667,11.58,2.25,md,3,212,,0.05,pr,pr71338443,2022-03-02T05:44:27.160Z,"1 km NNW of Fuig, Puerto Rico",earthquake,2.55,1.17,0.0456787290719496,3,reviewed,pr,pr
-2022-03-02T03:49:23.630Z,18.0426666666667,-66.8941666666667,18.04,1.51,md,6,122,,0.05,pr,pr71338438,2022-03-02T04:21:14.400Z,"Puerto Rico",earthquake,0.41,0.91,0.141768527998169,4,reviewed,pr,pr
+2022-03-02T03:49:23.630Z,18.0426666666667,-66.8941666666667,18.04,1.51,md,6,122,,0.05,pr,pr71338438,2022-03-02T04:21:14.400Z,"1 km ENE of Lluveras, Puerto Rico",earthquake,0.41,0.91,0.141768527998169,4,reviewed,pr,pr
 2022-03-02T03:44:50.467Z,43.9084,148.6341,10,4.8,mb,,185,4.362,0.76,us,us6000h1a6,2022-03-02T03:58:07.040Z,"154 km E of Shikotan, Russia",earthquake,10.2,1.9,0.076,53,reviewed,us,us
 2022-03-02T03:34:24.160Z,37.8795,-122.2536667,9.16,1.23,md,50,36,0.00426,0.05,nc,nc73699761,2022-03-02T07:59:20.995Z,"2km ENE of Berkeley, CA",earthquake,0.15,0.21,0.288,27,reviewed,nc,nc
 2022-03-02T03:31:19.234Z,59.9587,-150.817,13.3,2,ml,,,,0.76,ak,ak0222sxr5mg,2022-03-02T03:44:53.165Z,"13 km NE of Fox River, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -302,6 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-01T09:10:46.269Z,66.1154,-148.8268,2.4,1.5,ml,,,,1.01,ak,ak0222rdnysy,2022-03-01T09:15:17.139Z,"17 km NE of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-01T09:08:46.540Z,38.7703323,-122.737999,0.33,0.46,md,8,74,0.01292,0.01,nc,nc73699391,2022-03-01T09:25:14.756Z,"2km ESE of The Geysers, CA",earthquake,0.25,0.74,0.41,2,automatic,nc,nc
 2022-03-01T09:05:05.850Z,33.9866667,-118.4911667,11.27,1.23,ml,12,119,0.05132,0.25,ci,ci40196872,2022-03-01T09:08:41.260Z,"4km S of Santa Monica, CA",earthquake,0.76,1.6,0.251,29,automatic,ci,ci
-2022-03-01T08:50:01.969Z,63.8458,-148.513,102.2,1.4,ml,,,,0.44,ak,ak0222rdb0f5,2022-03-01T09:15:16.982Z,"22 km E of Healy, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-03-01T08:49:41.350Z,19.2366,-64.0946,39,3.81,md,10,339,1.5081,0.39,pr,pr2022060001,2022-03-01T09:47:21.040Z,"124 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,4.88,25.09,0.07,3,reviewed,pr,pr
-2022-03-01T08:49:12.760Z,38.8268318,-122.8014984,1.93,0.35,md,10,101,0.007526,0.01,nc,nc73699386,2022-03-01T09:14:15.687Z,"7km NW of The Geysers, CA",earthquake,0.47,0.8,,1,automatic,nc,nc
