@@ -10,7 +10,7 @@ path = Path("usgs_main.csv")
 
 if path.is_file() == False:
   # if false, save initial main file  
-  df_current.to_csv("usgs_main.csv")
+  df_current.to_csv("usgs_main.csv", index = False)
 
 else:
   # if the file already exists, save it to a dataframe and then append to a new one    
