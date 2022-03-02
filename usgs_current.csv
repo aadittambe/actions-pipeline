@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-02T11:39:41.610Z,38.8118324,-122.7776642,0.38,0.84,md,10,110,0.002757,0.02,nc,nc73699906,2022-03-02T11:41:16.299Z,"4km NNW of The Geysers, CA",earthquake,0.33,0.64,,1,automatic,nc,nc
 2022-03-02T11:30:27.702Z,59.9378,-152.738,83.6,1.4,ml,,,,0.35,ak,ak0222t2i8zh,2022-03-02T11:34:38.622Z,"53 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-02T11:20:23.660Z,35.944,-118.8153333,27.47,1.31,ml,10,79,0.2205,0.21,ci,ci40197824,2022-03-02T11:23:59.151Z,"23km SE of Porterville, CA",earthquake,0.67,1.21,0.249,9,automatic,ci,ci
 2022-03-02T11:10:02.818Z,-58.4725,-24.9371,35,5,mb,,91,7.66,0.81,us,us6000h1cl,2022-03-02T11:28:36.040Z,"South Sandwich Islands region",earthquake,7.3,2,0.111,26,reviewed,us,us
@@ -182,7 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-01T18:55:19.470Z,46.195166666666665,-122.18733333333333,4.41,0.33,ml,9,132,0.005223,0.22,uw,uw61819676,2022-03-01T19:51:49.880Z,"37 km NNE of Amboy, Washington",earthquake,0.51,1.74,0.054874889980527974,4,reviewed,uw,uw
 2022-03-01T18:53:24.640Z,34.383,-118.7715,10.01,1.56,ml,42,30,0.09948,0.26,ci,ci40197224,2022-03-01T20:58:43.525Z,"4km SSE of Piru, CA",earthquake,0.26,0.79,0.141,8,reviewed,ci,ci
 2022-03-01T18:52:36.200Z,33.3415,-116.9045,15.38,0.81,ml,34,36,0.03705,0.27,ci,ci40197216,2022-03-01T18:56:12.001Z,"4km WSW of Palomar Observatory, CA",earthquake,0.39,1.14,0.147,21,automatic,ci,ci
-2022-03-01T18:47:39.480Z,60.1533,-153.4745,159.7,2.4,ml,,,,0.59,ak,ak0222rj8s6i,2022-03-01T23:01:55.040Z,"47 km E of Port Alsworth, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2022-03-01T18:47:39.480Z,60.1533,-153.4745,159.7,2.4,ml,,,,0.59,ak,ak0222rj8s6i,2022-03-01T23:01:55.040Z,"Southern Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-03-01T18:45:57.550Z,35.4835,-120.61,1.42,1.46,md,36,84,0.09211,0.08,nc,nc73699601,2022-03-01T22:55:10.804Z,"6km E of Atascadero, CA",earthquake,0.23,1.25,0.194,23,reviewed,nc,nc
 2022-03-01T18:44:57.020Z,39.423,-110.3233333,-1.16,1.48,md,4,191,0.001755,0.01,uu,uu60483702,2022-03-01T19:12:51.680Z,"15 km SSE of Sunnyside, Utah",earthquake,1.54,0.2,0.218,4,reviewed,uu,uu
 2022-03-01T18:37:56.420Z,36.85366667,-97.78416667,7.79,1.76,ml,83,64,0.0602881694,0.25,ok,ok2022effo,2022-03-01T18:57:32.883Z,"6 km NW of Medford, Oklahoma",earthquake,,0.5,0.21,36,reviewed,ok,ok
@@ -296,4 +297,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-01T12:09:06.840Z,46.193333333333335,-122.18566666666666,5.66,0.55,ml,8,135,0.007388,0.19,uw,uw61819521,2022-03-01T19:22:14.170Z,"37 km NNE of Amboy, Washington",earthquake,0.52,1.14,0.11990645616485313,4,reviewed,uw,uw
 2022-03-01T12:04:47.790Z,46.19583333333333,-122.187,6.02,0.44,ml,8,133,0.004771,0.2,uw,uw61819516,2022-03-01T19:25:04.930Z,"37 km NNE of Amboy, Washington",earthquake,0.55,1.34,0.06149343691903475,4,reviewed,uw,uw
 2022-03-01T11:59:13.420Z,34.06,-117.2726667,11.97,1.5,ml,54,46,0.04919,0.18,ci,ci40196960,2022-03-01T12:09:56.720Z,"2km NW of Loma Linda, CA",earthquake,0.23,0.62,0.137,27,automatic,ci,ci
-2022-03-01T11:42:39.300Z,36.7251667,-121.3851667,1.88,1.82,md,37,76,0.03574,0.09,nc,nc73699446,2022-03-01T20:32:10.931Z,"9km SW of Tres Pinos, CA",earthquake,0.23,0.58,0.179,34,reviewed,nc,nc
