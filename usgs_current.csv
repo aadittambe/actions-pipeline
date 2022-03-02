@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-02T09:28:42.750Z,33.0491667,-115.592,4.59,0.94,ml,11,108,0.01379,0.17,ci,ci40197792,2022-03-02T09:32:12.387Z,"3km ENE of Westmorland, CA",earthquake,0.39,0.51,0.199,11,automatic,ci,ci
 2022-03-02T09:09:24.710Z,34.2403333,-118.5985,2.84,1.05,ml,10,92,0.03528,0.22,ci,ci40197784,2022-03-02T09:13:05.389Z,"2km SSE of Chatsworth, CA",earthquake,0.63,0.96,0.251,21,automatic,ci,ci
-2022-03-02T09:08:11.680Z,38.6035004,-112.231163,-3.41,3.52,ml,48,45,0.1007,0.46,uu,uu60483892,2022-03-02T09:25:57.389Z,"2 km SSW of Joseph, Utah",earthquake,0.56,6.15,0.25,17,automatic,uu,uu
+2022-03-02T09:08:11.680Z,38.6035004,-112.231163,-3.41,3.52,ml,48,45,0.1007,0.46,uu,uu60483892,2022-03-02T09:31:03.601Z,"2 km SSW of Joseph, Utah",earthquake,0.56,6.15,0.25,17,automatic,uu,uu
 2022-03-02T09:07:13.930Z,38.7608337,-122.7348328,0.66,0.61,md,11,116,0.007833,0.03,nc,nc73699846,2022-03-02T09:23:19.479Z,"3km SE of The Geysers, CA",earthquake,0.25,0.48,0.24,3,automatic,nc,nc
 2022-03-02T09:06:09.670Z,62.6481,-152.0775,117.6,1.6,ml,,,,0.51,ak,ak0222t16dhd,2022-03-02T09:18:02.793Z,"69 km WNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-03-02T09:01:42.720Z,35.7666667,-117.534,6.22,0.56,ml,6,269,0.07116,0.19,ci,ci40197776,2022-03-02T09:05:13.330Z,"12km W of Searles Valley, CA",earthquake,1.2,1.05,0.136,9,automatic,ci,ci
@@ -35,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T06:22:28.150Z,63.4932,-147.5601,0,1.4,ml,,,,1.12,ak,ak0222szhjof,2022-03-02T06:26:03.931Z,"70 km E of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-02T06:17:34.572Z,62.5573,-151.2829,88.6,1.4,ml,,,,0.37,ak,ak0222szghld,2022-03-02T06:20:43.153Z,"27 km WNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-02T06:12:25.443Z,61.9572,-149.0623,27.2,1.9,ml,,,,0.82,ak,ak0222szfebm,2022-03-02T06:23:23.541Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-02T06:01:04.250Z,36.0498333,-120.6148333,2.83,1.11,md,26,80,0.02422,0.06,nc,nc73699801,2022-03-02T06:47:20.567Z,"24km NW of Parkfield, CA",earthquake,0.24,0.55,0.194,15,reviewed,nc,nc
+2022-03-02T06:01:04.250Z,36.0498333,-120.6148333,2.83,1.11,md,26,80,0.02422,0.06,nc,nc73699801,2022-03-02T09:31:14.525Z,"24km NW of Parkfield, CA",earthquake,0.24,0.55,0.194,15,reviewed,nc,nc
 2022-03-02T05:35:30.550Z,38.8398323,-122.8089981,1.28,0.85,md,7,120,0.01464,0.05,nc,nc73699796,2022-03-02T06:04:16.277Z,"8km WNW of Cobb, CA",earthquake,0.53,1.74,,1,automatic,nc,nc
 2022-03-02T05:31:02.970Z,38.836834,-122.8063354,1.99,0.71,md,16,62,0.01259,0.01,nc,nc73699791,2022-03-02T05:54:17.215Z,"7km WNW of Cobb, CA",earthquake,0.24,0.48,0.14,2,automatic,nc,nc
 2022-03-02T05:17:21.320Z,35.763,-117.5661667,6.8,0.88,ml,11,165,0.05847,0.13,ci,ci40197712,2022-03-02T05:20:51.074Z,"15km W of Searles Valley, CA",earthquake,0.45,0.75,0.269,8,automatic,ci,ci
