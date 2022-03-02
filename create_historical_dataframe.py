@@ -23,4 +23,4 @@ else:
 
   # save to dataframe and overwrite the old usgs_main file
 
-  df_main_new_drop_dupes.to_csv("usgs_main.csv")
+  df_main_new_drop_dupes.to_csv("usgs_main.csv", index = False)
