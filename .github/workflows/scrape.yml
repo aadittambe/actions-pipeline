@@ -22,9 +22,10 @@ jobs:
         curl "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv" -o usgs_current.csv
     # Step 3
     - name: Install requirements
-    - uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
+    # - uses: actions/setup-python@v2
+    #  with:
+    #    python-version: '3.x'
+      run: python -m pip install requests pandas jupyterlab
      
     # Step 4    
     - name: run historical creation script
