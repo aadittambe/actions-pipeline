@@ -317,3 +317,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T17:39:47.700Z,35.6311684,-117.5780029,10.86,1.48,ml,23.0,71.0,0.07061,0.14,ci,ci40198016,2022-03-02T17:41:53.694Z,"9km E of Ridgecrest, CA",earthquake,0.32,0.53,0.221,11.0,automatic,ci,ci
 2022-03-02T07:00:16.920Z,44.283,-110.457,4.86,0.66,md,7.0,202.0,0.05431,0.09,uu,uu60483857,2022-03-02T17:39:01.340Z,"66 km SE of West Yellowstone, Montana",earthquake,0.76,0.9,0.286,7.0,reviewed,uu,uu
 2022-03-02T01:37:56.040Z,31.4233333,-115.3621667,5.52,3.38,ml,13.0,135.0,0.3621,0.27,ci,ci40197608,2022-03-02T17:38:13.549Z,"91km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.36,31.61,0.198,144.0,reviewed,ci,ci
+2022-03-02T17:39:19.313Z,60.934,-149.2584,17.7,1.4,ml,,,,0.31,ak,ak0222t64xtn,2022-03-02T17:44:20.867Z,"5 km W of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-02T08:15:42.520Z,44.6875,-110.4321667,2.01,0.82,md,8.0,231.0,0.1716,0.19,uu,uu60483877,2022-03-02T17:47:52.450Z,"38 km SSE of Mammoth, Wyoming",earthquake,1.85,1.44,0.613,8.0,reviewed,uu,uu
+2022-03-02T07:59:40.100Z,44.2936667,-110.4571667,6.46,0.64,md,6.0,189.0,0.05879,0.08,uu,uu60483872,2022-03-02T17:45:15.920Z,"65 km SE of West Yellowstone, Montana",earthquake,0.6,1.6,0.104,5.0,reviewed,uu,uu
+2022-03-02T07:07:47.340Z,44.276,-110.4445,6.23,1.45,md,11.0,198.0,0.06105,0.17,uu,uu60483862,2022-03-02T17:43:10.130Z,"67 km SE of West Yellowstone, Montana",earthquake,1.04,1.12,0.123,10.0,reviewed,uu,uu
