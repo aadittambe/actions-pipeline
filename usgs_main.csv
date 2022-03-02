@@ -341,3 +341,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T18:19:15.190Z,44.6453333,-109.7533333,8.55,1.11,md,4.0,277.0,0.1481,0.2,uu,uu60483967,2022-03-02T18:49:43.440Z,Wyoming,earthquake,3.11,3.92,0.058,4.0,reviewed,uu,uu
 2022-03-02T14:52:24.290Z,44.284,-110.4541667,3.98,0.82,md,9.0,174.0,0.05657,0.1,uu,uu60483932,2022-03-02T18:47:06.850Z,"66 km SE of West Yellowstone, Montana",earthquake,0.4,0.44,0.286,8.0,reviewed,uu,uu
 2022-03-02T18:52:47.660Z,35.6945,-121.1311646,7.89,2.17,md,32.0,156.0,0.1437,0.08,nc,nc73700126,2022-03-02T18:56:26.899Z,"8km NE of San Simeon, CA",earthquake,0.34,1.2,0.09,20.0,automatic,nc,nc
+2022-03-02T18:57:23.593Z,60.7182,-149.9452,31.3,1.6,ml,,,,0.73,ak,ak0222t6u8n1,2022-03-02T19:02:09.311Z,"26 km NNW of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-02T18:45:47.590Z,17.9465,-67.0145,10.01,1.64,md,4.0,273.0,,0.05,pr,pr71338573,2022-03-02T18:59:53.860Z,"4 km SE of La Parguera, Puerto Rico",earthquake,0.65,0.83,0.067505831886056,3.0,reviewed,pr,pr
