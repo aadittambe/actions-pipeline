@@ -1,7 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-02T08:07:15.932Z,61.6453,-151.029,71,1,ml,,,,0.2,ak,ak0222t0l67d,2022-03-02T08:09:35.430Z,"29 km WNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-03-02T08:07:09.734Z,60.741,-143.646,8.6,1.7,ml,,,,0.52,ak,ak0222t0l5px,2022-03-02T08:09:35.302Z,"86 km SSW of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-02T08:23:56.230Z,35.9886667,-117.6708333,2.55,1.17,ml,17,95,0.04393,0.13,ci,ci40197768,2022-03-02T08:27:33.077Z,"22km ENE of Little Lake, CA",earthquake,0.34,0.29,0.126,15,automatic,ci,ci
+2022-03-02T08:16:23.750Z,35.6801667,-117.512,5.56,0.69,ml,8,164,0.1521,0.21,ci,ci40197760,2022-03-02T08:19:55.231Z,"14km SW of Searles Valley, CA",earthquake,0.87,31.61,0.208,8,automatic,ci,ci
+2022-03-02T08:13:51.341Z,38.118,-117.8585,15,0.9,ml,9,120.71,0.082,0.3507,nn,nn00834739,2022-03-02T08:17:27.433Z,"37 km SE of Mina, Nevada",earthquake,,1,0.42,4,automatic,nn,nn
+2022-03-02T08:12:39.300Z,33.4903333,-116.7561667,6.44,0.49,ml,16,50,0.07452,0.2,ci,ci40197752,2022-03-02T08:16:08.213Z,"10km SW of Anza, CA",earthquake,0.36,0.9,0.129,16,automatic,ci,ci
+2022-03-02T08:07:16.380Z,61.6144,-150.994,66.8,1.4,ml,,,,0.55,ak,ak0222t0l67d,2022-03-02T08:11:15.859Z,"26 km WNW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-02T08:07:09.734Z,60.741,-143.646,8.6,1.8,ml,,,,0.52,ak,ak0222t0l5px,2022-03-02T08:11:15.714Z,"86 km SSW of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-02T07:59:54.640Z,33.366,-116.8728333,9.64,0.9,ml,26,40,0.01501,0.21,ci,ci40197744,2022-03-02T08:03:30.567Z,"1km NW of Palomar Observatory, CA",earthquake,0.29,0.67,0.171,25,automatic,ci,ci
+2022-03-02T07:56:01.875Z,-6.2638,130.0637,123.27,4.5,mb,,74,2.101,0.55,us,us6000h1bn,2022-03-02T08:15:47.040Z,"Banda Sea",earthquake,6.4,7.7,0.119,29,reviewed,us,us
 2022-03-02T07:53:17.020Z,17.9795,-66.7513333333333,16.65,1.96,md,7,203,,0.1,pr,pr71338463,2022-03-02T08:09:16.580Z,"4 km WSW of Tallaboa, Puerto Rico",earthquake,0.5,0.97,0.0778559489591122,4,reviewed,pr,pr
 2022-03-02T07:44:20.546Z,62.5845,-151.9275,101.6,1.6,ml,,,,0.27,ak,ak0222t07oky,2022-03-02T07:48:23.093Z,"60 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-02T07:37:19.630Z,19.1909999847412,-155.384170532227,31.6399993896484,1.99000001,md,36,186,,0.119999997,hv,hv72934677,2022-03-02T07:40:24.400Z,"10 km E of Pāhala, Hawaii",earthquake,0.77,0.779999971,0.00999999978,5,automatic,hv,hv
@@ -29,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T05:10:16.300Z,38.7975006,-122.7526703,0.96,0.36,md,8,160,0.01892,0.02,nc,nc73699781,2022-03-02T05:43:15.144Z,"2km N of The Geysers, CA",earthquake,0.6,1.84,,1,automatic,nc,nc
 2022-03-02T05:08:23.800Z,35.8998333,-117.6776667,6.08,0.72,ml,8,118,0.05283,0.14,ci,ci40197696,2022-03-02T05:11:53.566Z,"21km E of Little Lake, CA",earthquake,0.73,1.52,0.171,7,automatic,ci,ci
 2022-03-02T04:59:16.903Z,61.4627,-146.5638,30.2,1.3,ml,,,,0.58,ak,ak0222syil3e,2022-03-02T05:02:34.750Z,"38 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-02T04:55:38.480Z,36.8331667,-121.4276667,10.12,1.92,md,60,52,0.02649,0.11,nc,nc73699776,2022-03-02T06:26:14.426Z,"3km WSW of Hollister, CA",earthquake,0.2,0.29,0.211,55,reviewed,nc,nc
+2022-03-02T04:55:38.480Z,36.8331667,-121.4276667,10.12,1.92,md,60,52,0.02649,0.11,nc,nc73699776,2022-03-02T08:25:11.152Z,"3km WSW of Hollister, CA",earthquake,0.2,0.29,0.211,55,reviewed,nc,nc
 2022-03-02T04:41:39.030Z,19.4759998321533,-155.397994995117,-0.910000026226044,2.56,ml,39,57,,0.270000011,hv,hv72934542,2022-03-02T05:02:56.988Z,"17 km WNW of Volcano, Hawaii",earthquake,0.28,0.300000012,2,21,automatic,hv,hv
 2022-03-02T04:41:08.325Z,-0.4536,-19.8025,10,5.3,mww,,100,9.199,0.76,us,us6000h1an,2022-03-02T04:58:53.040Z,"central Mid-Atlantic Ridge",earthquake,10,1.9,0.093,11,reviewed,us,us
 2022-03-02T04:31:54.846Z,62.3698,-148.6068,28,2.4,ml,,,,0.67,ak,ak0222sycnzm,2022-03-02T04:45:12.903Z,"64 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -300,10 +305,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-01T08:36:51.370Z,38.8311653,-122.815834,1.68,0.85,md,16,50,0.008969,0.01,nc,nc73699376,2022-03-01T08:53:23.563Z,"8km NW of The Geysers, CA",earthquake,0.23,0.43,,1,automatic,nc,nc
 2022-03-01T08:34:16.720Z,35.5991667,-117.4033333,5.54,0.87,ml,11,160,0.04961,0.2,ci,ci40196864,2022-03-01T08:37:42.710Z,"18km S of Trona, CA",earthquake,0.53,0.81,0.103,9,automatic,ci,ci
 2022-03-01T08:31:24.020Z,18.3786,-68.7956,164,3.88,md,18,132,0.4357,0.58,pr,pr2022060002,2022-03-01T09:53:51.040Z,"14 km WSW of San Rafael del Yuma, Dominican Republic",earthquake,6.53,2.77,0.15,5,reviewed,pr,pr
-2022-03-01T08:25:25.370Z,19.2343330383301,-155.41716003418,32.25,2.05999994,md,43,134,,0.129999995,hv,hv72933467,2022-03-01T08:28:43.470Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.6,0.720000029,0.74000001,11,automatic,hv,hv
-2022-03-01T08:19:00.018Z,54.5667,-160.0933,5.2,2,ml,,,,0.56,ak,ak0222rd4dmr,2022-03-01T14:59:08.346Z,"89 km SSE of Sand Point, Alaska",earthquake,,5.8,,,reviewed,ak,ak
-2022-03-01T08:16:43.069Z,63.3327,-150.016,101.1,1.4,ml,,,,0.34,ak,ak0222rd3t90,2022-03-01T08:31:06.659Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
-2022-03-01T08:15:02.930Z,44.432,-110.3251667,7.7,1.48,md,12,101,0.04941,0.09,uu,uu60483662,2022-03-01T16:40:45.760Z,"66 km ESE of West Yellowstone, Montana",earthquake,0.39,0.53,0.341,7,reviewed,uu,uu
-2022-03-01T08:13:13.380Z,34.4455,-119.2855,8.11,1.2,ml,13,123,0.04963,0.24,ci,ci40196832,2022-03-01T08:16:48.397Z,"4km W of Ojai, CA",earthquake,0.67,1.6,0.157,16,automatic,ci,ci
-2022-03-01T08:11:26.830Z,33.3546667,-117.0405,4.33,0.51,ml,14,88,0.1489,0.26,ci,ci40196824,2022-03-01T08:15:01.960Z,"4km ESE of Pala, CA",earthquake,0.72,2.44,0.063,10,automatic,ci,ci
-2022-03-01T08:10:56.960Z,54.6443333333333,-163.5585,11,1.07,ml,4,238,,0.03,av,av91050703,2022-03-02T04:59:48.490Z,"25 km SSW of False Pass, Alaska",earthquake,0.67,0.43,0.132228799319325,4,reviewed,av,av
