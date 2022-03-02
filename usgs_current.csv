@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T19:54:45.960Z,37.8413315,-121.9909973,8.66,1.52,md,19,98,0.01753,0.03,nc,nc73700146,2022-03-02T20:11:19.348Z,"2km NNE of Danville, CA",earthquake,0.24,0.35,0.15,14,automatic,nc,nc
 2022-03-02T19:22:21.360Z,38.7916679,-122.7598343,1.51,0.36,md,8,114,0.008944,0.02,nc,nc73700141,2022-03-02T19:42:13.179Z,"2km N of The Geysers, CA",earthquake,0.36,0.93,,1,automatic,nc,nc
 2022-03-02T19:13:49.764Z,64.1223,-150.5888,10.9,1.3,ml,,,,0.54,ak,ak0222t76are,2022-03-02T19:19:01.441Z,"69 km WSW of Clear, Alaska, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-02T19:10:21.150Z,38.5778333,-119.4486667,6.22,2.83,md,19,60,0.05638,0.09,nc,nc73700131,2022-03-02T20:54:13.559Z,"8km NNE of Walker, CA",earthquake,0.31,0.51,0.224,72,reviewed,nc,nc
+2022-03-02T19:10:21.150Z,38.5778333,-119.4486667,6.22,2.83,md,19,60,0.05638,0.09,nc,nc73700131,2022-03-02T21:09:10.646Z,"8km NNE of Walker, CA",earthquake,0.31,0.51,0.224,72,reviewed,nc,nc
 2022-03-02T18:57:23.593Z,60.7182,-149.9452,31.3,1.6,ml,,,,0.73,ak,ak0222t6u8n1,2022-03-02T19:17:20.984Z,"26 km NNW of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-02T18:52:47.660Z,35.6945,-121.1311646,7.89,2.17,md,32,156,0.1437,0.08,nc,nc73700126,2022-03-02T20:53:11.553Z,"8km NE of San Simeon, CA",earthquake,0.34,1.2,0.09,20,automatic,nc,nc
 2022-03-02T18:45:47.590Z,17.9465,-67.0145,10.01,1.64,md,4,273,,0.05,pr,pr71338573,2022-03-02T18:59:53.860Z,"4 km SE of La Parguera, Puerto Rico",earthquake,0.65,0.83,0.067505831886056,3,reviewed,pr,pr
@@ -46,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T16:15:49.110Z,35.771,-117.5458333,11.47,0.86,ml,7,270,0.0613,0.18,ci,ci40197944,2022-03-02T16:19:14.562Z,"13km W of Searles Valley, CA",earthquake,1.25,31.61,0.275,8,automatic,ci,ci
 2022-03-02T16:15:35.360Z,47.643166666666666,-120.21633333333334,6.39,0.35000000000000003,md,7,136,0.02219,0.02,uw,uw61819821,2022-03-02T19:14:40.040Z,"3 km S of Entiat, Washington",earthquake,0.32,0.32,0.6052396387159129,5,reviewed,uw,uw
 2022-03-02T16:13:29.380Z,35.6465,-117.5591667,7.17,1.27,ml,11,137,0.1624,0.1,ci,ci40197936,2022-03-02T16:16:58.058Z,"11km ENE of Ridgecrest, CA",earthquake,0.32,31.61,0.211,14,automatic,ci,ci
-2022-03-02T16:09:46.970Z,34.2333333,-116.9495,5.71,1.12,ml,24,111,0.03744,0.24,ci,ci40197928,2022-03-02T16:13:23.450Z,"4km WSW of Big Bear Lake, CA",earthquake,0.53,0.96,0.217,30,automatic,ci,ci
+2022-03-02T16:09:46.860Z,34.2311667,-116.9478333,7.52,1.06,ml,31,54,0.03831,0.15,ci,ci40197928,2022-03-02T21:09:59.691Z,"4km WSW of Big Bear Lake, CA",earthquake,0.23,0.44,0.122,15,reviewed,ci,ci
 2022-03-02T16:00:57.783Z,62.87,-149.9549,81.9,1.5,ml,,,,0.46,ak,ak0222t5b89e,2022-03-02T16:03:38.366Z,"47 km N of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-02T15:56:26.060Z,38.8356667,-122.805336,2.03,0.85,md,11,108,0.01202,0.02,nc,nc73700036,2022-03-02T17:26:13.322Z,"7km WNW of Cobb, CA",earthquake,0.39,1.03,,1,automatic,nc,nc
 2022-03-02T15:27:33.600Z,17.9753333333333,-66.9213333333333,11.38,1.39,md,5,178,,0.1,pr,pr71338578,2022-03-02T19:29:00.000Z,"1 km WNW of Guánica, Puerto Rico",earthquake,0.67,1.05,0.035142668287696,4,reviewed,pr,pr
@@ -285,4 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-01T21:27:08.956Z,58.2866,-154.8542,0,2.3,ml,,,,1.06,ak,ak0222rkwqcv,2022-03-01T21:38:34.240Z,"83 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-01T21:22:14.615Z,60.9523,-151.2577,0,2.2,ml,,,,0.91,ak,ak0222rkvo7r,2022-03-01T21:26:42.710Z,"14 km SSW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-01T21:16:45.780Z,39.4253333,-110.3196667,-1.21,1.42,md,5,192,0.004385,0.04,uu,uu60483722,2022-03-01T22:46:44.500Z,"15 km SSE of Sunnyside, Utah",earthquake,1.33,0.22,0.212,4,reviewed,uu,uu
-2022-03-01T21:08:58.910Z,38.8351669,-122.8000031,2.22,0.85,md,11,77,0.008209,0.01,nc,nc73699636,2022-03-01T21:26:18.107Z,"7km WNW of Cobb, CA",earthquake,0.4,0.9,,1,automatic,nc,nc
