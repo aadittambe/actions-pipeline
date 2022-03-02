@@ -309,3 +309,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T04:39:04.560Z,44.2818333,-110.4558333,4.75,1.0,md,8.0,203.0,0.05471,0.08,uu,uu60483832,2022-03-02T17:21:55.160Z,"66 km SE of West Yellowstone, Montana",earthquake,0.47,0.41,0.192,8.0,reviewed,uu,uu
 2022-03-02T04:17:12.090Z,44.2866667,-110.4601667,4.77,0.88,md,9.0,171.0,0.05363,0.08,uu,uu60483822,2022-03-02T17:18:47.850Z,"66 km SE of West Yellowstone, Montana",earthquake,0.4,0.71,0.228,8.0,reviewed,uu,uu
 2022-03-02T04:10:21.380Z,44.2878333,-110.4595,3.85,0.84,md,7.0,171.0,0.05456,0.11,uu,uu60483817,2022-03-02T17:16:42.170Z,"66 km SE of West Yellowstone, Montana",earthquake,0.44,1.04,0.315,6.0,reviewed,uu,uu
+2022-03-02T16:20:24.230Z,18.3508,-66.0946,57.0,3.28,md,18.0,188.0,0.0432,0.18,pr,pr2022061003,2022-03-02T17:34:20.446Z,"1 km ESE of Guaynabo, Puerto Rico",earthquake,1.25,1.06,0.08,12.0,reviewed,pr,pr
+2022-03-02T11:16:34.433Z,63.5375,-153.2914,14.8,1.2,ml,,,,0.66,ak,ak0222t2fg6q,2022-03-02T17:31:48.961Z,"61 km SW of Lake Minchumina, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2022-03-02T06:55:25.310Z,44.2835,-110.4571667,4.28,1.69,md,10.0,201.0,0.05438,0.08,uu,uu60483852,2022-03-02T17:36:56.490Z,"66 km SE of West Yellowstone, Montana",earthquake,0.49,0.63,0.103,9.0,reviewed,uu,uu
+2022-03-02T05:29:05.450Z,44.286,-110.462,4.03,0.7,md,8.0,196.0,0.05215,0.13,uu,uu60483847,2022-03-02T17:33:49.210Z,"66 km SE of West Yellowstone, Montana",earthquake,0.64,1.0,0.356,7.0,reviewed,uu,uu
+2022-03-02T05:24:27.450Z,44.2766667,-110.453,4.86,2.01,ml,15.0,195.0,0.05523,0.12,uu,uu60483842,2022-03-02T17:32:14.120Z,"67 km SE of West Yellowstone, Montana",earthquake,0.52,0.61,0.289,3.0,reviewed,uu,uu
