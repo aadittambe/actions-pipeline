@@ -391,3 +391,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T21:34:27.790Z,44.665,-110.4613333,6.58,1.99,ml,17.0,97.0,0.05963,0.21,uu,uu60484002,2022-03-02T22:11:59.460Z,"39 km SSE of Mammoth, Wyoming",earthquake,0.58,1.15,0.483,3.0,reviewed,uu,uu
 2022-03-02T18:56:23.910Z,19.1925,-155.415,30.49,1.43,md,13.0,242.0,,0.1,hv,hv72935207,2022-03-02T22:21:57.260Z,"6 km E of Pāhala, Hawaii",earthquake,0.99,0.78,0.0506062695846669,6.0,reviewed,hv,hv
 2022-03-02T11:00:21.062Z,36.6118,-116.0549,7.4,-0.1,ml,7.0,282.22,0.091,0.0527,nn,nn00834790,2022-03-02T22:20:14.822Z,"34 km W of Indian Springs, Nevada",earthquake,,5.9,0.14,2.0,reviewed,nn,nn
+2022-03-02T11:33:31.420Z,36.7046,-116.3307,8.7,-0.2,ml,10.0,180.13,0.06,0.1154,nn,nn00834792,2022-03-02T22:26:30.142Z,"44 km ESE of Beatty, Nevada",earthquake,,1.9,0.12,3.0,reviewed,nn,nn
