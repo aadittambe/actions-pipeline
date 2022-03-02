@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-02T22:36:12.980Z,48.1015014648438,-121.932167053223,1.46000003814697,2.5999999,md,27,87,,0.219999999,uw,uw61819876,2022-03-02T22:39:22.380Z,"3 km NE of Granite Falls, Washington",earthquake,0.39,1,0.340000004,3,automatic,uw,uw
+2022-03-02T22:35:37.670Z,38.7919998,-122.7815018,3.2,0.84,md,15,92,0.00515,0.02,nc,nc73700201,2022-03-02T22:37:14.583Z,"3km NW of The Geysers, CA",earthquake,0.42,0.66,0.48,3,automatic,nc,nc
 2022-03-02T22:17:47.790Z,38.8371658,-122.8235016,1.18,1.47,md,27,62,0.009468,0.03,nc,nc73700191,2022-03-02T22:25:11.130Z,"9km NW of The Geysers, CA",earthquake,0.16,0.33,0.12,7,automatic,nc,nc
 2022-03-02T22:16:06.370Z,38.2734985,-121.9778366,3.54,2.3,md,6,180,0.7831,0.07,nc,nc73700176,2022-03-02T22:25:17.253Z,"5km NE of Suisun City, CA",earthquake,3.49,8.91,,1,automatic,nc,nc
 2022-03-02T22:12:15.935Z,61.2805,-149.4928,28.5,1.5,ml,,,,0.72,ak,ak0222t8yb95,2022-03-02T22:31:33.313Z,"6 km SE of Eagle River, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -9,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T20:51:15.470Z,38.8346672,-122.8103333,2.11,0.85,md,11,62,0.01126,0.01,nc,nc73700161,2022-03-02T22:25:18.131Z,"8km W of Cobb, CA",earthquake,0.4,1.19,,1,automatic,nc,nc
 2022-03-02T20:43:19.560Z,61.3805,-146.7523,25.5,1.3,ml,,,,0.79,ak,ak0222t7y3gz,2022-03-02T21:51:07.308Z,"35 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-02T20:40:13.080Z,19.858,-156.271,42.28,3.01,ml,43,285,,0.21,hv,hv72935302,2022-03-02T21:58:16.136Z,"33 km WNW of Kalaoa, Hawaii",earthquake,0.86,1.57,0.219285819251499,22,reviewed,hv,hv
+2022-03-02T20:33:24.180Z,51.8855,-176.587833333333,5.65,1.79,ml,5,254,,0.15,av,av91503276,2022-03-02T22:38:15.070Z,"3 km ENE of Adak, Alaska",earthquake,0.89,1.87,0.197369590389555,5,reviewed,av,av
 2022-03-02T20:22:09.520Z,19.1991672515869,-155.394836425781,29.8600006103516,1.85000002,md,40,160,,0.119999997,hv,hv72935292,2022-03-02T20:25:31.950Z,"8 km E of Pāhala, Hawaii",earthquake,0.57,1.02999997,1.23000002,26,automatic,hv,hv
 2022-03-02T20:12:54.300Z,38.792,-122.7621667,2.04,0.15,md,20,77,0.008823,0.02,nc,nc73700156,2022-03-02T21:54:16.930Z,"2km NNW of The Geysers, CA",earthquake,0.18,0.33,0.191,3,reviewed,nc,nc
 2022-03-02T20:11:54.120Z,19.174,-155.506833333333,36.51,3.15,ml,55,93,,0.12,hv,hv72935282,2022-03-02T22:17:51.116Z,"4 km SW of Pāhala, Hawaii",earthquake,0.41,0.49,0.185839649381281,39,reviewed,hv,hv
@@ -293,6 +296,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-01T22:49:24.590Z,33.7186667,-116.7568333,17.45,0.71,ml,16,107,0.03773,0.14,ci,ci40197432,2022-03-02T14:29:19.355Z,"4km SW of Idyllwild, CA",earthquake,0.37,0.52,0.243,17,reviewed,ci,ci
 2022-03-01T22:43:53.440Z,38.7933333,-122.8005,0.22,0.24,md,10,134,0.005388,0.03,nc,nc73699651,2022-03-02T01:05:21.415Z,"4km WNW of The Geysers, CA",earthquake,0.34,0.26,0.219,3,reviewed,nc,nc
 2022-03-01T22:42:27.095Z,60.3297,-142.9867,15,1.5,ml,,,,1.21,ak,ak0222rllf3s,2022-03-01T22:47:11.952Z,"123 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-01T22:38:34.929Z,35.98666667,-97.197,6.42,1.7,ml,94,27,0.08188393158,0.22,ok,ok2022efnm,2022-03-02T16:39:02.925Z,"4 km NE of Coyle, Oklahoma",earthquake,,0.4,0.25,4,reviewed,ok,ok
-2022-03-01T22:38:28.733Z,59.4256,-152.7659,75.9,2,ml,,,,0.53,ak,ak0222rlkkd5,2022-03-01T22:43:21.213Z,"48 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-03-01T22:34:21.717Z,60.3523,-140.1436,2.5,1.4,ml,,,,0.72,ak,ak0222rljoyj,2022-03-01T22:43:21.083Z,"92 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
