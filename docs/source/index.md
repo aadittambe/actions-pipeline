@@ -141,7 +141,7 @@ From your repository, click on the "Add file" button and then "Create new file" 
 
 <img src="./_static/image_9.png" alt="create a repo" style="width: 50%"/>
 
-Let's call this script `create_historical_dataframe.py`. Paste the following code in the file:
+Let's call this script `get_all_data.py`. Paste the following code in the file:
 
 ```python
 import pandas as pd # import pandas library for data manipulation and analysis
@@ -229,8 +229,8 @@ jobs:
     - name: Install requirements
       run: python -m pip install requests pandas jupyterlab
     # Step 4    
-    - name: run historical creation script
-      run: python create_historical_dataframe.py     
+    - name: Run script to create main csv
+      run: python get_all_data.py     
     # Step 5
     - name: Commit and push if it changed
       run: |-
@@ -240,11 +240,12 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
+
 ```
 
 In step 3, we are asking the Actions workflow to install some requirements — the libraries our Python script used — to the virtual machine running the Action. 
 
-In step 4, we are are asking the workflow to run our Python script `create_historical_dataframe.py`, much like you would execute a Python script from the command line. 
+In step 4, we are are asking the workflow to run our Python script `get_all_data.py`, much like you would execute a Python script from the command line. 
 
 Step 5 is the same as before, where we `add`, `commit` and `push` our changes.
 
