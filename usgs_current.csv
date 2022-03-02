@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T13:22:10.230Z,33.918,-116.8671667,11.15,0.84,ml,28,45,0.09437,0.23,ci,ci40197880,2022-03-02T14:21:56.656Z,"1km SE of Banning, CA",earthquake,0.35,0.87,0.197,23,reviewed,ci,ci
 2022-03-02T13:16:41.569Z,61.0093,-147.2498,22.7,1.6,ml,,,,0.4,ak,ak0222t3mbng,2022-03-02T13:27:21.361Z,"34 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-02T13:13:30.950Z,38.8364983,-122.8213348,1.42,0.97,md,23,57,0.01125,0.06,nc,nc73699966,2022-03-02T14:00:13.125Z,"9km W of Cobb, CA",earthquake,0.21,0.47,0.25,4,automatic,nc,nc
-2022-03-02T13:12:21.880Z,38.8348351,-122.8051682,2.23,0.36,md,10,61,0.01205,0.01,nc,nc73699961,2022-03-02T13:50:15.078Z,"7km WNW of Cobb, CA",earthquake,0.37,1.41,,1,automatic,nc,nc
+2022-03-02T13:12:21.880Z,38.8348351,-122.8051682,2.23,0.36,md,10,61,0.01205,0.01,nc,nc73699961,2022-03-02T14:40:14.379Z,"7km WNW of Cobb, CA",earthquake,0.37,1.41,,1,automatic,nc,nc
 2022-03-02T13:01:18.550Z,38.8028336,-122.770668,0.62,0.35,md,9,103,0.00884,0.02,nc,nc73699951,2022-03-02T13:40:14.019Z,"3km NNW of The Geysers, CA",earthquake,0.38,0.7,,1,automatic,nc,nc
 2022-03-02T12:59:50.919Z,63.8864,-148.2773,19.1,1.7,ml,,,,1.73,ak,ak0222t3a4jz,2022-03-02T13:09:29.156Z,"34 km E of Healy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-02T12:58:15.280Z,38.8279991,-122.8011703,2.07,0.33,md,15,46,0.008337,0.01,nc,nc73699946,2022-03-02T13:29:20.938Z,"7km W of Cobb, CA",earthquake,0.27,0.55,0.35,2,automatic,nc,nc
@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T09:28:42.750Z,33.0491667,-115.592,4.59,0.94,ml,11,108,0.01379,0.17,ci,ci40197792,2022-03-02T09:32:12.387Z,"3km ENE of Westmorland, CA",earthquake,0.39,0.51,0.199,11,automatic,ci,ci
 2022-03-02T09:11:27.540Z,19.1213,-66.6275,23,4.11,md,28,218,0.6516,0.32,pr,pr2022061001,2022-03-02T11:17:44.694Z,"72 km N of Arecibo, Puerto Rico",earthquake,1.11,20.07,0.07,16,reviewed,pr,pr
 2022-03-02T09:09:24.710Z,34.2403333,-118.5985,2.84,1.05,ml,10,92,0.03528,0.22,ci,ci40197784,2022-03-02T09:13:05.389Z,"2km SSE of Chatsworth, CA",earthquake,0.63,0.96,0.251,21,automatic,ci,ci
-2022-03-02T09:08:11.670Z,38.5848333,-112.2125,-2.24,3.44,ml,24,47,0.08101,0.22,uu,uu60483892,2022-03-02T14:33:53.717Z,"4 km S of Joseph, Utah",earthquake,0.33,0.82,0.199,27,reviewed,uu,uu
+2022-03-02T09:08:11.670Z,38.5848333,-112.2125,-2.24,3.44,ml,24,47,0.08101,0.22,uu,uu60483892,2022-03-02T14:35:43.129Z,"4 km S of Joseph, Utah",earthquake,0.33,0.82,0.199,27,reviewed,uu,uu
 2022-03-02T09:07:13.930Z,38.7608337,-122.7348328,0.66,0.61,md,11,116,0.007833,0.03,nc,nc73699846,2022-03-02T09:23:19.479Z,"3km SE of The Geysers, CA",earthquake,0.25,0.48,0.24,3,automatic,nc,nc
 2022-03-02T09:06:09.670Z,62.6481,-152.0775,117.6,1.6,ml,,,,0.51,ak,ak0222t16dhd,2022-03-02T09:18:02.793Z,"69 km WNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-03-02T09:01:42.720Z,35.7666667,-117.534,6.22,0.56,ml,6,269,0.07116,0.19,ci,ci40197776,2022-03-02T09:05:13.330Z,"12km W of Searles Valley, CA",earthquake,1.2,1.05,0.136,9,automatic,ci,ci
@@ -280,4 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-01T14:46:00.850Z,54.658,-163.553666666667,9.3,0.49,ml,4,234,,0.16,av,av91050713,2022-03-02T05:57:29.170Z,"Unimak Island region, Alaska",earthquake,1.29,1,0.188585201309497,4,reviewed,av,av
 2022-03-01T14:44:17.560Z,47.7905,-121.95933333333333,24.41,1.52,ml,27,67,0.06075,0.21,uw,uw61819551,2022-03-01T19:17:17.890Z,"5 km NNE of Duvall, Washington",earthquake,0.33,0.44,0.15347289483924853,7,reviewed,uw,uw
 2022-03-01T14:44:13.770Z,18.0206666666667,-67.0091666666667,4.61,2.21,md,4,134,,0.06,pr,pr71338278,2022-03-01T15:09:44.550Z,"6 km ESE of Lajas, Puerto Rico",earthquake,2.18,3.28,0.289068987770093,4,reviewed,pr,pr
-2022-03-01T14:38:02.930Z,38.8305,-122.8123333,1.83,-0.18,md,5,260,0.007311,0.02,nc,nc73699491,2022-03-01T18:42:33.296Z,"8km NW of The Geysers, CA",earthquake,1.37,0.6,,1,reviewed,nc,nc
