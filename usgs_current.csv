@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T10:25:02.690Z,17.9336666666667,-66.8168333333333,13.73,2,md,7,219,,0.06,pr,pr71338508,2022-03-02T11:16:23.910Z,"6 km S of Indios, Puerto Rico",earthquake,0.79,0.27,0.0995717855587898,6,reviewed,pr,pr
 2022-03-02T10:23:59.914Z,61.922,-152.1704,2,1.6,ml,,,,0.54,ak,ak0222t1vk81,2022-03-02T10:32:21.856Z,"41 km W of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-02T10:18:11.340Z,38.7905006,-122.803833,3.22,0.81,md,19,75,0.002252,0.03,nc,nc73699876,2022-03-02T10:41:19.927Z,"4km WNW of The Geysers, CA",earthquake,0.28,0.72,0.28,3,automatic,nc,nc
-2022-03-02T10:16:26.642Z,60.976,-147.2706,17,3.8,ml,,,,0.63,ak,ak0222t1tzlu,2022-03-02T13:51:39.779Z,"34 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2022-03-02T10:16:26.642Z,60.976,-147.2706,17,3.8,ml,,,,0.63,ak,ak0222t1tzlu,2022-03-02T14:42:42.693Z,"34 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-03-02T10:14:20.417Z,-18.3624,-173.584,35,5,mb,,130,4.754,0.81,us,us6000h1ce,2022-03-02T10:32:08.040Z,"52 km NE of Neiafu, Tonga",earthquake,10.1,1.8,0.105,29,reviewed,us,us
 2022-03-02T10:11:49.040Z,19.191333770752,-155.45182800293,36.1500015258789,2.06,ml,45,124,,0.129999995,hv,hv72934747,2022-03-02T10:37:55.040Z,"3 km ESE of Pāhala, Hawaii",earthquake,0.54,0.49000001,4.63,6,automatic,hv,hv
 2022-03-02T10:05:23.760Z,19.0548,-66.6015,47,3.54,md,19,248,0.5822,0.41,pr,pr2022061002,2022-03-02T10:51:03.515Z,"65 km N of Arecibo, Puerto Rico",earthquake,1.66,4.79,0.13,12,reviewed,pr,pr
@@ -278,5 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-01T14:47:39.920Z,37.5821667,-118.7903333,4.96,0.08,md,6,296,0.03179,0.02,nc,nc73699506,2022-03-01T16:47:35.443Z,"10km WNW of Toms Place, CA",earthquake,1.49,0.66,0.181,6,reviewed,nc,nc
 2022-03-01T14:47:10.720Z,33.5163333,-116.5023333,13.23,2,ml,55,31,0.04753,0.21,ci,ci40197048,2022-03-01T14:58:11.800Z,"16km ESE of Anza, CA",earthquake,0.22,0.38,0.251,26,automatic,ci,ci
 2022-03-01T14:46:00.850Z,54.658,-163.553666666667,9.3,0.49,ml,4,234,,0.16,av,av91050713,2022-03-02T05:57:29.170Z,"Unimak Island region, Alaska",earthquake,1.29,1,0.188585201309497,4,reviewed,av,av
-2022-03-01T14:44:17.560Z,47.7905,-121.95933333333333,24.41,1.52,ml,27,67,0.06075,0.21,uw,uw61819551,2022-03-01T19:17:17.890Z,"5 km NNE of Duvall, Washington",earthquake,0.33,0.44,0.15347289483924853,7,reviewed,uw,uw
-2022-03-01T14:44:13.770Z,18.0206666666667,-67.0091666666667,4.61,2.21,md,4,134,,0.06,pr,pr71338278,2022-03-01T15:09:44.550Z,"6 km ESE of Lajas, Puerto Rico",earthquake,2.18,3.28,0.289068987770093,4,reviewed,pr,pr
