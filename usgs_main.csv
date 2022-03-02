@@ -289,3 +289,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T16:37:30.007Z,63.5195,-147.7428,17.3,1.5,ml,,,,0.94,ak,ak0222t5j3m5,2022-03-02T16:41:52.673Z,"61 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-02T01:55:52.360Z,44.2856667,-110.4553333,4.33,0.94,md,10.0,98.0,0.0564,0.11,uu,uu60483762,2022-03-02T16:41:25.220Z,"66 km SE of West Yellowstone, Montana",earthquake,0.38,0.56,0.428,8.0,reviewed,uu,uu
 2022-03-02T02:01:57.190Z,44.2761667,-110.4525,5.38,1.04,md,12.0,101.0,0.05547,0.18,uu,uu60483772,2022-03-02T16:44:31.650Z,"67 km SE of West Yellowstone, Montana",earthquake,0.66,1.18,0.081,8.0,reviewed,uu,uu
+2022-03-02T02:15:22.250Z,44.2866667,-110.4566667,4.4,0.85,md,8.0,172.0,0.05592,0.07,uu,uu60483787,2022-03-02T17:00:03.720Z,"66 km SE of West Yellowstone, Montana",earthquake,0.4,0.51,0.354,6.0,reviewed,uu,uu
+2022-03-02T02:09:54.570Z,44.283,-110.4551667,5.65,0.76,md,11.0,99.0,0.05555,0.13,uu,uu60483782,2022-03-02T16:56:55.510Z,"66 km SE of West Yellowstone, Montana",earthquake,0.46,1.36,0.217,9.0,reviewed,uu,uu
+2022-03-02T02:06:11.720Z,44.2813333,-110.4598333,7.08,0.81,md,11.0,100.0,0.05183,0.2,uu,uu60483777,2022-03-02T16:54:49.820Z,"66 km SE of West Yellowstone, Montana",earthquake,0.55,1.48,0.141,9.0,reviewed,uu,uu
+2022-03-02T00:14:27.330Z,35.0495,-117.6768333,-0.78,1.33,ml,25.0,82.0,0.1159,0.18,ci,ci40197520,2022-03-02T16:51:24.761Z,"6km NNW of Boron, CA",quarry blast,0.38,31.61,0.137,15.0,reviewed,ci,ci
+2022-03-01T20:29:15.449Z,34.735,-98.4515,0.0,1.63,ml,28.0,122.0,0.271746674,0.5,ok,ok2022efjg,2022-03-02T16:58:53.924Z,"4 km E of Medicine Park, Oklahoma",quarry blast,,0.9,0.26,4.0,reviewed,ok,ok
