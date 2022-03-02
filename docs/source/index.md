@@ -1,8 +1,3 @@
-<!-- % GitHub Actions Data Pipeline documentation master file, created by
-% sphinx-quickstart on Mon Feb 28 18:59:11 2022.
-% You can adapt this file completely to your liking, but it should at least
-% contain the root `toctree` directive.
- -->
 # Building a data pipeline with GitHub Actions
 
 This tutorial will teach you how to automate basic data collection and analysis with GitHub Actions.
@@ -14,11 +9,20 @@ This guide was prepared for training sessions of Investigative Reporters and Edi
 ## What you will scrape
 We are going to build a Git scraper using just a GitHub account and the web browser. We will scrape earthquake data provided by USGS. This records all earthquakes in the past day and is updated every minute. The file can be found at [this](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php) page, and [this](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv) is the download link.
 
-<img src="./_static/image_1.png" alt="what you are scraping" style="width: 50%"/>
+<img src="./_static/image_1.png" style="width: 50%"/>
 
 We have a two-part goal here:
 - We are first going to use GitHub to scrape this file every 5 minutes, and overwrite it each time. 
 - Then, we are going to execute a Python script to bind the new data to a main file, so that we bind and save our data. 
+
+At the end of this tutorial, your repository will have — and be updating — two files: 
+- a `usgs_current.csv` file that has the current data scraped from the USGS website. 
+- a `usgs_main.csv` file that stores all the data since you began scraping.
+
+<img src="./_static/image_16.png" style="width: 50%"/>
+
+<img src="./_static/image_17.png" style="width: 50%"/>
+
 
 ## Predule: Prerequisites
 
@@ -30,7 +34,7 @@ This chapter will walk you through how to create a repository. A GitHub reposito
 
 In your profile on [GitHub](https://github.com/), navigate to the "repositories" tab and click the green "new" button.
 
-<img src="./_static/image_2.png" alt="create a repo" style="width: 50%"/>
+<img src="./_static/image_2.png" style="width: 50%"/>
 
 Create a repository name — make sure to use dashes instead of spaces.
 
@@ -42,7 +46,7 @@ Select “Add .gitignore”: this is a file where you can tell Git what files to
 
 For the .gitignore template, choose Python. This will populate the .gitignore file with common files associated with Python projects that don’t need to be committed to Git history. 
 
-<img src="./_static/image_3.png" alt="create a repo" style="width: 50%"/>
+<img src="./_static/image_3.png" style="width: 50%"/>
 
 ## Act 2: Hello, Action!
 
@@ -52,15 +56,15 @@ This chapter will walk you through how to create a GitHub Action that executes a
 
 In your repository, click on the “Actions” tab.
 
-<img src="./_static/image_4.png" alt="create a repo" style="width: 50%"/>
+<img src="./_static/image_4.png" style="width: 50%"/>
 
 Once you’re in the “Actions” tab, click on “set up a workflow yourself.”
 
-<img src="./_static/image_5.png" alt="create a repo" style="width: 50%"/>
+<img src="./_static/image_5.png" style="width: 50%"/>
 
 You will be directed to a YAML file, with a screen that looks like this: 
 
-<img src="./_static/image_6.png" alt="create a repo" style="width: 50%"/>
+<img src="./_static/image_6.png" style="width: 50%"/>
 
 ### 2.2. Write the workflow
 
@@ -122,14 +126,14 @@ Then, we commit the results to our repository and push them, in the next step.
 
 Save this file. Click on the green box "Start commit", enter a commit message such as "created file," and click on "commit new file." You’re done! You’ve written a scraper that runs automatically every 5 minutes. 
 
-<img src="./_static/image_7.png" alt="create a repo" style="width: 50%"/>
+<img src="./_static/image_7.png" style="width: 50%"/>
 
 
 ### 2.5. Watch the Action run and log results in the repository
 
 Wait a second or two, and navigate back to the "code" tab of your repository. You will notice a newly created `usgs_current.csv` file.
 
-<img src="./_static/image_8.png" alt="create a repo" style="width: 50%"/>
+<img src="./_static/image_8.png" style="width: 50%"/>
 
 ## Act 3: Hello, Python!
 
@@ -139,7 +143,7 @@ We have downloaded the CSV file from USGS, however, every time that the Action r
 
 From your repository, click on the "Add file" button and then "Create new file" button. 
 
-<img src="./_static/image_9.png" alt="create a repo" style="width: 50%"/>
+<img src="./_static/image_9.png" style="width: 50%"/>
 
 Let's call this script `get_all_data.py`. Paste the following code in the file:
 
@@ -171,7 +175,7 @@ else:
 
 Give it a commit message — something like "create python script" — and push the `Commit new file` button.
 
-<img src="./_static/image_10.png" alt="create a repo" style="width: 50%"/>
+<img src="./_static/image_10.png" style="width: 50%"/>
 
 
 ### 3.2. Understand the Python script
@@ -188,15 +192,15 @@ Then, we are dropping duplicate rows from the "main" CSV, such that if there is 
 
 In your GitHub repository, click on the folder `.github/workflows`.
 
-<img src="./_static/image_11.png" alt="create a repo" style="width: 50%"/>
+<img src="./_static/image_11.png" style="width: 50%"/>
 
 Then, click on the `main.yml` file.
 
-<img src="./_static/image_12.png" alt="create a repo" style="width: 50%"/>
+<img src="./_static/image_12.png" style="width: 50%"/>
 
 Then, click on the "pencil" icon to edit the file.
 
-<img src="./_static/image_13.png" alt="create a repo" style="width: 50%"/>
+<img src="./_static/image_13.png" style="width: 50%"/>
 
 In the file, we are going to add steps to execute the Python script we just saved immediately after the scraper runs. 
 
@@ -251,11 +255,58 @@ Step 5 is the same as before, where we `add`, `commit` and `push` our changes.
 
 Let's commit this file. Push the green `start commit` button, then write a message, something like "update main.yml," and push the `commit changes` button.
 
-<img src="./_static/image_14.png" alt="create a repo" style="width: 50%"/>
+<img src="./_static/image_14.png" style="width: 50%"/>
 
 ### 3.3. Watch the workflow run
 
 Navigate back to `code` tab of your repository. And notice the newly created `usgs_main.csv` file. Every time our scraper runs, it will add rows to this file.
 
+<img src="./_static/image_15.png" style="width: 50%"/>
+
 ## Epilogue: Hello, analysis!
 
+Now that we are downloading the most current CSV (`usgs_current.csv`) and also aggregating all the data we collect (`usgs_main.csv`), we can run some basic analysis, and connect it to our workflow with GitHub Actions. We will accomplish this using a code notebook and run it every time our workflow runs.
+
+In our GitHub repository, click on the `usgs_main.csv` file.
+
+<img src="./_static/image_18.png" style="width: 50%"/>
+
+Then, click on the `Raw` button.
+
+<img src="./_static/image_19.png" style="width: 50%"/>
+
+This will bring you to the "raw" CSV, that looks like this: 
+
+<img src="./_static/image_20.png" style="width: 50%"/>
+
+We will be using this CSV (and the URL to this CSV, in particular) for our analysis of data. The URL to this raw CSV will always remain the same, until you move the file to another directory, even if the CSV updates.
+
+```{note}
+This URL can be used to load the CSV data into a JavaScript visualization — using libraries such as D3 or Chart.js. The visualizations will update in real time as the data changes. 
+```
+
+Next, make a copy of [this notebook](https://github.com/aadittambe/actions-pipeline/blob/main/usgs_analysis.ipynb). This is a Python notebook (created with Google Colab) that allows you to run "chunks" of code, one step at a time. 
+- Go to [this](https://raw.githubusercontent.com/aadittambe/actions-pipeline/main/usgs_analysis.ipynb) URL. This is the "raw" version of the notebook mentioned above.
+- Copy everything to your clipboard.
+- Create a new file in your repository called `usgs_analysis.ipynb`.
+- Paste the text you copied in the file. Save and commit the file.
+
+```{note}
+To learn more about getting started with Python notebooks using an incredible browser-based notebook called a Jupyter notebook, check out [this](firstpythonnotebook.org) other IRE textbook.
+```
+
+This is a simple notebook designed to get you started to think about the potential of data analysis. After committing, the notebook should look like this: 
+
+<img src="./_static/image_21.png" style="width: 50%"/>
+
+This notebook performs some basic filtering operations on our `usgs_main.csv` file, to print out a simple sentence.
+
+This notebook can be modified to perform advanced analyses on the data.
+
+Let's add this notebook to our workflow, so that every time the Action runs, it will execute this notebook.
+
+Edit the YAML file, so that it looks like this: 
+
+```
+
+```
