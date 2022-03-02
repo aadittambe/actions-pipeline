@@ -137,7 +137,11 @@ We have downloaded the CSV file from USGS, however, every time that the Action r
 
 ### 3.1. Create a Python file from the GitHub repository
 
-From your repository, click on the "Add file" button and then "Create new file" button. Let's call this script `create_historical_dataframe.py`. Paste the following code in the file:
+From your repository, click on the "Add file" button and then "Create new file" button. 
+
+<img src="./_static/image_9.png" alt="create a repo" style="width: 50%"/>
+
+Let's call this script `create_historical_dataframe.py`. Paste the following code in the file:
 
 ```python
 import pandas as pd # import pandas library for data manipulation and analysis
@@ -146,7 +150,6 @@ import json # import json library to handle json files
 from pathlib import Path # import path library to work with file paths
 
 df_current = pd.read_csv('usgs_current.csv')
-
 
 path = Path("usgs_main.csv")
 
@@ -160,107 +163,98 @@ else:
   df_main_new = pd.concat([df_main_old,df_current])
 
   # deduplicate based on unique id
-
   df_main_new_drop_dupes = df_main_new.drop_duplicates(subset = "id", keep = "first")
 
   # save to dataframe and overwrite the old usgs_main file
-
   df_main_new_drop_dupes.to_csv("usgs_main.csv")
 ```
 
-Give it a commit message — something like "create python script" and push the `Commit new file` button.
+Give it a commit message — something like "create python script" — and push the `Commit new file` button.
 
-<img src="./_static/image_9.png" alt="create a repo" style="width: 50%"/>
-
-
+<img src="./_static/image_10.png" alt="create a repo" style="width: 50%"/>
 
 
+### 3.2. Understand the Python script
 
+In the Python script, we are first importing libraries that will help us create the file called `usgs_main.csv`. These libraries include `pandas`, `requests`, `json` and `pathlib`.
 
-dont -----------------------
+Then, we will load in the `usgs_current.csv` file, as `df_current`. This file is the one that is being overwritten each time our Action runs. 
 
-## Act 3: Hello, analysis!
+Then, we are creating a `usgs_main.csv` file, the first time this script runs. Every time the script runs after that, we are binding the "current" CSV, `usgs_current.csv` to our "main" CSV, `usgs_main.csv`.
 
-This step will walk you through automating basic analysis using a Python notebook that's connected to GitHub Actions.
+Then, we are dropping duplicate rows from the "main" CSV, such that if there is an overlap between data that is scraped, the `usgs_main.csv` will only have unique rows.
 
-### 3.1. Create notebook
+### 3.2. Add the Python script to the workflow file
 
-Open up the google collab notebook [here]().
+In your GitHub repository, click on the folder `.github/workflows`.
 
-First push `File` and then `Save a copy in Github`.
+<img src="./_static/image_11.png" alt="create a repo" style="width: 50%"/>
 
-<img src="./_static/image7.png" alt="create a repo" style="width: 50%"/>
+Then, click on the `main.yml` file.
 
-Choose the appropriate repository to commit the file to and then push `OK`.
+<img src="./_static/image_12.png" alt="create a repo" style="width: 50%"/>
 
-<img src="./_static/image8.png" alt="create a repo" style="width: 50%"/>
+Then, click on the "pencil" icon to edit the file.
 
+<img src="./_static/image_13.png" alt="create a repo" style="width: 50%"/>
 
-### 3.2. View the notebook commited to your repository
+In the file, we are going to add steps to execute the Python script we just saved immediately after the scraper runs. 
 
-Now, whenever you need to edit this Collab notebook, you can push the `Open in Collab` badge.
+Add steps 3 and 4 (as shown below) to the workflow file, after step 2 and before committing and pushing. The complete workflow file will look like this: 
 
-<img src="./_static/image9.png" alt="create a repo" style="width: 50%"/>
+```yaml
+name: Scrape latest data
 
-### 3.3. Connect scraped data to notebook
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '*/5 * * * *'
 
-Connect the data scraped in your repository to the Colab notebook.
-
-In your repository, click on the `usgs.json` file.
-
-<img src="./_static/image10.png" alt="create a repo" style="width: 50%"/>
-
-Then, click the three dots and then `View raw`.
-
-<img src="./_static/image11.png" alt="create a repo" style="width: 50%"/>
-
-This URL points to the raw json data. Copy the URL and paste it in the `URL` variable in the notebook
-
-<img src="./_static/image12.png" alt="create a repo" style="width: 50%"/>
-
-tktk
-
-<img src="./_static/image13.png" alt="create a repo" style="width: 50%"/>
-
-
-```
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-```
-
-Now we need to commit our analysis notebook to our GitHub, repeat step 4.1
-
-
-```{warning}
-this library is under development.
-
-```
-Some text 
-
-
-an `inline` code block
-
-## here's a code block
-
-
-![goooooogle](./_static/google.png)
-
-```python
-for i in myList:
-    print(i)
+jobs:
+  # Set up
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+    # Step 1
+    - name: Check out this repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    # Step 2
+    - name: Fetch latest data
+      run: |-        
+        curl "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv" -o usgs_current.csv
+    # Step 3
+    - name: Install requirements
+      run: python -m pip install requests pandas jupyterlab
+    # Step 4    
+    - name: run historical creation script
+      run: python create_historical_dataframe.py     
+    # Step 5
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
 ```
 
-## and this is another h2 heading
+In step 3, we are asking the Actions workflow to install some requirements — the libraries our Python script used — to the virtual machine running the Action. 
 
-some more text 
+In step 4, we are are asking the workflow to run our Python script `create_historical_dataframe.py`, much like you would execute a Python script from the command line. 
 
-```{toctree}
-:caption: 'Contents:'
-:maxdepth: 2
+Step 5 is the same as before, where we `add`, `commit` and `push` our changes.
 
-usage
-```
+Let's commit this file. Push the green `start commit` button, then write a message, something like "update main.yml," and push the `commit changes` button.
 
+<img src="./_static/image_14.png" alt="create a repo" style="width: 50%"/>
+
+### 3.3. Watch the workflow run
+
+Navigate back to `code` tab of your repository. And notice the newly created `usgs_main.csv` file. Every time our scraper runs, it will add rows to this file.
+
+## Epilogue: Hello, analysis!
 
