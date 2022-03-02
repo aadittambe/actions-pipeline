@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-02T09:07:13.930Z,38.7608337,-122.7348328,0.66,0.61,md,11,116,0.007833,0.03,nc,nc73699846,2022-03-02T09:08:50.700Z,"3km SE of The Geysers, CA",earthquake,0.25,0.48,0.24,3,automatic,nc,nc
-2022-03-02T09:06:09.670Z,62.6481,-152.0775,117.6,1.6,ml,,,,0.51,ak,ak0222t16dhd,2022-03-02T09:10:21.962Z,"69 km WNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2022-03-02T09:09:24.710Z,34.2403333,-118.5985,2.84,1.05,ml,10,92,0.03528,0.22,ci,ci40197784,2022-03-02T09:13:05.389Z,"2km SSE of Chatsworth, CA",earthquake,0.63,0.96,0.251,21,automatic,ci,ci
+2022-03-02T09:08:11.680Z,38.6035004,-112.231163,-3.41,3.52,ml,48,45,0.1007,0.46,uu,uu60483892,2022-03-02T09:25:57.389Z,"2 km SSW of Joseph, Utah",earthquake,0.56,6.15,0.25,17,automatic,uu,uu
+2022-03-02T09:07:13.930Z,38.7608337,-122.7348328,0.66,0.61,md,11,116,0.007833,0.03,nc,nc73699846,2022-03-02T09:23:19.479Z,"3km SE of The Geysers, CA",earthquake,0.25,0.48,0.24,3,automatic,nc,nc
+2022-03-02T09:06:09.670Z,62.6481,-152.0775,117.6,1.6,ml,,,,0.51,ak,ak0222t16dhd,2022-03-02T09:18:02.793Z,"69 km WNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-03-02T09:01:42.720Z,35.7666667,-117.534,6.22,0.56,ml,6,269,0.07116,0.19,ci,ci40197776,2022-03-02T09:05:13.330Z,"12km W of Searles Valley, CA",earthquake,1.2,1.05,0.136,9,automatic,ci,ci
 2022-03-02T08:45:45.560Z,38.8343315,-122.809166,2.06,0.36,md,7,99,0.01094,0.02,nc,nc73699841,2022-03-02T09:02:13.366Z,"8km W of Cobb, CA",earthquake,0.51,2.1,,1,automatic,nc,nc
 2022-03-02T08:32:46.233Z,38.1555,-117.9676,10.1,1.8,ml,19,114.12,0.018,0.1999,nn,nn00834741,2022-03-02T08:36:20.887Z,"28 km SSE of Mina, Nevada",earthquake,,0.3,0.15,7,automatic,nn,nn
@@ -41,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T05:10:16.300Z,38.7975006,-122.7526703,0.96,0.36,md,8,160,0.01892,0.02,nc,nc73699781,2022-03-02T05:43:15.144Z,"2km N of The Geysers, CA",earthquake,0.6,1.84,,1,automatic,nc,nc
 2022-03-02T05:08:23.800Z,35.8998333,-117.6776667,6.08,0.72,ml,8,118,0.05283,0.14,ci,ci40197696,2022-03-02T05:11:53.566Z,"21km E of Little Lake, CA",earthquake,0.73,1.52,0.171,7,automatic,ci,ci
 2022-03-02T04:59:16.903Z,61.4627,-146.5638,30.2,1.3,ml,,,,0.58,ak,ak0222syil3e,2022-03-02T05:02:34.750Z,"38 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-02T04:55:38.480Z,36.8331667,-121.4276667,10.12,1.92,md,60,52,0.02649,0.11,nc,nc73699776,2022-03-02T09:05:19.380Z,"3km WSW of Hollister, CA",earthquake,0.2,0.29,0.211,55,reviewed,nc,nc
+2022-03-02T04:55:38.480Z,36.8331667,-121.4276667,10.12,1.92,md,60,52,0.02649,0.11,nc,nc73699776,2022-03-02T09:15:11.571Z,"3km WSW of Hollister, CA",earthquake,0.2,0.29,0.211,55,reviewed,nc,nc
 2022-03-02T04:41:39.030Z,19.4759998321533,-155.397994995117,-0.910000026226044,2.56,ml,39,57,,0.270000011,hv,hv72934542,2022-03-02T05:02:56.988Z,"17 km WNW of Volcano, Hawaii",earthquake,0.28,0.300000012,2,21,automatic,hv,hv
 2022-03-02T04:41:08.325Z,-0.4536,-19.8025,10,5.3,mww,,100,9.199,0.76,us,us6000h1an,2022-03-02T04:58:53.040Z,"central Mid-Atlantic Ridge",earthquake,10,1.9,0.093,11,reviewed,us,us
 2022-03-02T04:31:54.846Z,62.3698,-148.6068,28,2.4,ml,,,,0.67,ak,ak0222sycnzm,2022-03-02T04:45:12.903Z,"64 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -152,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-01T18:55:19.470Z,46.195166666666665,-122.18733333333333,4.41,0.33,ml,9,132,0.005223,0.22,uw,uw61819676,2022-03-01T19:51:49.880Z,"37 km NNE of Amboy, Washington",earthquake,0.51,1.74,0.054874889980527974,4,reviewed,uw,uw
 2022-03-01T18:53:24.640Z,34.383,-118.7715,10.01,1.56,ml,42,30,0.09948,0.26,ci,ci40197224,2022-03-01T20:58:43.525Z,"4km SSE of Piru, CA",earthquake,0.26,0.79,0.141,8,reviewed,ci,ci
 2022-03-01T18:52:36.200Z,33.3415,-116.9045,15.38,0.81,ml,34,36,0.03705,0.27,ci,ci40197216,2022-03-01T18:56:12.001Z,"4km WSW of Palomar Observatory, CA",earthquake,0.39,1.14,0.147,21,automatic,ci,ci
-2022-03-01T18:47:39.480Z,60.1533,-153.4745,159.7,2.4,ml,,,,0.59,ak,ak0222rj8s6i,2022-03-01T23:01:55.040Z,"Southern Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2022-03-01T18:47:39.480Z,60.1533,-153.4745,159.7,2.4,ml,,,,0.59,ak,ak0222rj8s6i,2022-03-01T23:01:55.040Z,"47 km E of Port Alsworth, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-03-01T18:45:57.550Z,35.4835,-120.61,1.42,1.46,md,36,84,0.09211,0.08,nc,nc73699601,2022-03-01T22:55:10.804Z,"6km E of Atascadero, CA",earthquake,0.23,1.25,0.194,23,reviewed,nc,nc
 2022-03-01T18:44:57.020Z,39.423,-110.3233333,-1.16,1.48,md,4,191,0.001755,0.01,uu,uu60483702,2022-03-01T19:12:51.680Z,"15 km SSE of Sunnyside, Utah",earthquake,1.54,0.2,0.218,4,reviewed,uu,uu
 2022-03-01T18:37:56.420Z,36.85366667,-97.78416667,7.79,1.76,ml,83,64,0.0602881694,0.25,ok,ok2022effo,2022-03-01T18:57:32.883Z,"6 km NW of Medford, Oklahoma",earthquake,,0.5,0.21,36,reviewed,ok,ok
@@ -299,7 +301,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-01T09:46:40.160Z,-22.0852,-179.4142,581.79,4.4,mb,,71,4.931,0.56,us,us6000h11g,2022-03-01T10:34:47.040Z,"south of the Fiji Islands",earthquake,11,7.2,0.067,65,reviewed,us,us
 2022-03-01T09:39:27.350Z,17.9645,-67.0601666666667,11.93,2.51,md,5,226,,0.14,pr,pr71338233,2022-03-01T11:01:18.350Z,"1 km SW of La Parguera, Puerto Rico",earthquake,1.45,0.61,0.0994889566176242,5,reviewed,pr,pr
 2022-03-01T09:34:57.960Z,38.258,-118.3557,10.7,0.7,ml,12,143.18,0.118,0.1187,nn,nn00834652,2022-03-02T02:37:39.261Z,"California-Nevada border region",earthquake,,2.9,0.22,2,reviewed,nn,nn
-2022-03-01T09:25:11.317Z,-17.536,-178.863,535.95,4.4,mb,,117,2.948,0.68,us,us6000h118,2022-03-01T09:43:31.040Z,"201 km ENE of Levuka, Fiji",earthquake,12.7,8.8,0.034,253,reviewed,us,us
-2022-03-01T09:24:18.170Z,18.0203333333333,-66.9091666666667,12.08,2.66,md,5,177,,0.12,pr,pr71338268,2022-03-01T11:58:29.590Z,"2 km SSW of Lluveras, Puerto Rico",earthquake,0.76,1.14,0.0816898822460048,4,reviewed,pr,pr
-2022-03-01T09:18:42.520Z,38.8388329,-122.8259964,1.61,0.86,md,18,93,0.007416,0.02,nc,nc73699396,2022-03-01T09:35:22.816Z,"9km WNW of Cobb, CA",earthquake,0.24,0.43,0.01,3,automatic,nc,nc
-2022-03-01T09:18:40.070Z,33.6825,-116.7916667,16.4,0.68,ml,26,79,0.07066,0.14,ci,ci40196880,2022-03-01T15:32:52.523Z,"9km SW of Idyllwild, CA",earthquake,0.28,0.55,0.182,19,reviewed,ci,ci
