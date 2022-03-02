@@ -365,3 +365,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T20:22:09.520Z,19.1991672515869,-155.394836425781,29.8600006103516,1.85000002,md,40.0,160.0,,0.119999997,hv,hv72935292,2022-03-02T20:25:31.950Z,"8 km E of Pāhala, Hawaii",earthquake,0.57,1.02999997,1.23000002,26.0,automatic,hv,hv
 2022-03-02T20:07:40.919Z,0.2071,-16.9524,10.0,5.4,mww,,69.0,8.488,0.76,us,us6000h1ia,2022-03-02T20:29:37.228Z,north of Ascension Island,earthquake,9.7,1.9,0.098,10.0,reviewed,us,us
 2022-03-02T20:07:26.360Z,18.4871666666667,-66.6298333333333,91.6,2.98,md,9.0,232.0,,0.29,pr,pr71338583,2022-03-02T20:27:50.900Z,"4 km N of Animas, Puerto Rico",earthquake,2.69,1.23,0.179469284336115,7.0,reviewed,pr,pr
+2022-03-02T20:43:19.560Z,61.3805,-146.7523,25.5,1.3,ml,,,,0.79,ak,ak0222t7y3gz,2022-03-02T20:46:40.410Z,"35 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
