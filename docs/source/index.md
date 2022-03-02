@@ -3,13 +3,13 @@
 % You can adapt this file completely to your liking, but it should at least
 % contain the root `toctree` directive.
  -->
-# Create a data pipeline with GitHub Actions
+# Building a data pipeline with GitHub Actions
 
-This tutorial will teach you how to automate basic data collection, analysis and visualization with GitHub Actions.
+This tutorial will teach you how to automate basic data collection and analysis with GitHub Actions.
 
 ## About the authors
 
-This guide was prepared for training sessions of Investigative Reporters and Editors (IRE) and the [National Institute for Computer-Assisted Reporting (NICAR)](https://www.ire.org/training/conferences/nicar-2022/) by [Nicholas McMillan](https://www.nickmcmillan.com/) and [Aadit Tambe](https://aadittambe.com/).
+This guide was prepared for training sessions of Investigative Reporters and Editors (IRE) and the [National Institute for Computer-Assisted Reporting (NICAR)](https://www.ire.org/training/conferences/nicar-2022/) by [Nicholas McMillan](https://www.nickmcmillan.com/) and [Aadit Tambe](https://aadittambe.com/). This guide draws inspiration from a [Git scraping course](https://docs.google.com/document/u/0/d/1TCatZP5gQNfFjZJ5M77wMlf9u_05Z3BZnjp6t1SA6UU/mobilebasic#h.9d9m67inr5k4) originally designed by [Simon Willison](simonwillison.net) to be taught at NICAR.
 
 ## What you will scrape
 We are going to build a Git scraper using just a GitHub account and the web browser. We will scrape earthquake data provided by USGS. This records all earthquakes in the past day and is updated every minute. The file can be found at [this](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php) page, and [this](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv) is the download link.
