@@ -302,3 +302,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T03:24:19.410Z,44.2875,-110.4598333,4.4,1.48,md,11.0,171.0,0.0542,0.09,uu,uu60483807,2022-03-02T17:10:27.410Z,"66 km SE of West Yellowstone, Montana",earthquake,0.42,0.38,0.121,8.0,reviewed,uu,uu
 2022-03-02T03:09:28.280Z,44.2886667,-110.4616667,5.03,0.81,md,9.0,170.0,0.05354,0.11,uu,uu60483802,2022-03-02T17:05:16.850Z,"65 km SE of West Yellowstone, Montana",earthquake,0.48,1.28,0.197,8.0,reviewed,uu,uu
 2022-03-02T02:51:33.810Z,44.2845,-110.4575,4.5,0.56,md,9.0,173.0,0.05452,0.1,uu,uu60483792,2022-03-02T17:02:09.610Z,"66 km SE of West Yellowstone, Montana",earthquake,0.42,0.78,0.26,8.0,reviewed,uu,uu
+2022-03-02T17:17:49.440Z,38.8221664,-122.8553314,2.32,0.86,md,8.0,137.0,0.005504,0.01,nc,nc73700071,2022-03-02T17:26:11.322Z,"10km WNW of The Geysers, CA",earthquake,0.51,0.79,,1.0,automatic,nc,nc
+2022-03-02T17:02:35.717Z,49.4341,155.812,71.79,4.9,mb,,129.0,3.865,0.78,us,us6000h1ga,2022-03-02T17:26:29.040Z,"139 km S of Severo-Kuril’sk, Russia",earthquake,9.4,3.6,0.038,223.0,reviewed,us,us
+2022-03-02T08:20:29.147Z,59.5686,-152.4927,78.7,1.2,ml,,,,0.29,ak,ak0222t0nygv,2022-03-02T17:25:38.189Z,"40 km NW of Nanwalek, Alaska",earthquake,,1.9,,,reviewed,ak,ak
+2022-03-02T08:14:00.582Z,63.0527,-149.5206,84.8,0.9,ml,,,,0.3,ak,ak0222t0mj2h,2022-03-02T17:20:57.511Z,"47 km SW of Cantwell, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2022-03-02T04:39:04.560Z,44.2818333,-110.4558333,4.75,1.0,md,8.0,203.0,0.05471,0.08,uu,uu60483832,2022-03-02T17:21:55.160Z,"66 km SE of West Yellowstone, Montana",earthquake,0.47,0.41,0.192,8.0,reviewed,uu,uu
+2022-03-02T04:17:12.090Z,44.2866667,-110.4601667,4.77,0.88,md,9.0,171.0,0.05363,0.08,uu,uu60483822,2022-03-02T17:18:47.850Z,"66 km SE of West Yellowstone, Montana",earthquake,0.4,0.71,0.228,8.0,reviewed,uu,uu
+2022-03-02T04:10:21.380Z,44.2878333,-110.4595,3.85,0.84,md,7.0,171.0,0.05456,0.11,uu,uu60483817,2022-03-02T17:16:42.170Z,"66 km SE of West Yellowstone, Montana",earthquake,0.44,1.04,0.315,6.0,reviewed,uu,uu
