@@ -653,3 +653,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T17:41:17.250Z,34.3395004,-116.878334,0.32,1.53,ml,16.0,73.0,0.04294,0.11,ci,ci40198928,2022-03-03T17:43:28.780Z,"9km NNW of Big Bear City, CA",earthquake,0.33,0.56,0.09,6.0,automatic,ci,ci
 2022-03-03T04:36:31.870Z,39.4198333,-110.3126667,-1.62,1.74,md,7.0,196.0,0.01053,0.11,uu,uu60484082,2022-03-03T17:39:52.110Z,"15 km SSE of Sunnyside, Utah",earthquake,1.11,0.65,0.09,6.0,reviewed,uu,uu
 2022-03-03T02:47:43.000Z,51.9075,-177.789666666667,7.05,1.16,ml,4.0,283.0,,0.13,av,av91503376,2022-03-03T17:43:04.060Z,"79 km W of Adak, Alaska",earthquake,0.87,1.63,0.237774735299316,4.0,reviewed,av,av
+2022-03-03T10:48:37.420Z,38.7603333,-122.7256667,4.17,0.13,md,12.0,67.0,0.001407,0.12,nc,nc73700456,2022-03-03T17:46:41.302Z,"3km SE of The Geysers, CA",earthquake,0.82,31.61,0.067,2.0,reviewed,nc,nc
