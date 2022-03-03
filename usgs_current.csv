@@ -157,7 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T17:01:34.050Z,39.4193333,-110.305,-2.05,1.63,md,7,197,0.01628,0.11,uu,uu60483947,2022-03-02T19:39:04.960Z,"16 km SSE of Sunnyside, Utah",earthquake,0.75,0.91,0.22,7,reviewed,uu,uu
 2022-03-02T17:00:18.030Z,33.6781667,-116.719,15.44,0.73,ml,23,94,0.03633,0.11,ci,ci40197968,2022-03-02T21:24:53.930Z,"7km S of Idyllwild, CA",earthquake,0.2,0.35,0.091,9,reviewed,ci,ci
 2022-03-02T16:57:28.830Z,38.7936667,-122.7236667,2.32,0.21,md,18,145,0.005816,0.03,nc,nc73700056,2022-03-03T05:47:11.970Z,"3km S of Cobb, CA",earthquake,0.27,0.47,0.053,3,reviewed,nc,nc
-2022-03-02T16:52:42.030Z,36.5661667,-121.1355,4.14,1.28,md,9,126,0.03556,0.02,nc,nc73700051,2022-03-03T09:39:19.342Z,"4km N of Pinnacles, CA",earthquake,0.32,0.73,0.218,8,reviewed,nc,nc
+2022-03-02T16:52:42.030Z,36.5661667,-121.1355,4.14,1.28,md,9,126,0.03556,0.02,nc,nc73700051,2022-03-03T09:50:11.394Z,"4km N of Pinnacles, CA",earthquake,0.32,0.73,0.218,8,reviewed,nc,nc
 2022-03-02T16:49:56.770Z,39.4213333,-110.3153333,-1.43,1.61,md,7,194,0.008054,0.05,uu,uu60483942,2022-03-02T19:37:30.050Z,"Utah",earthquake,0.69,0.35,0.326,7,reviewed,uu,uu
 2022-03-02T16:37:30.007Z,63.5195,-147.7428,17.3,1.4,ml,,,,0.94,ak,ak0222t5j3m5,2022-03-02T16:45:13.455Z,"61 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-02T16:37:09.370Z,39.4178333,-110.3001667,-3,1.71,md,9,199,0.0203,0.14,uu,uu60483937,2022-03-02T19:35:55.170Z,"16 km SSE of Sunnyside, Utah",earthquake,0.52,1.53,0.224,6,reviewed,uu,uu
@@ -207,7 +207,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T13:28:59.620Z,38.8084984,-122.8246689,2.11,1.02,md,17,65,0.003542,0.03,nc,nc73699981,2022-03-02T13:37:11.000Z,"7km WNW of The Geysers, CA",earthquake,0.26,0.67,0.39,3,automatic,nc,nc
 2022-03-02T13:23:10.910Z,38.8253326,-122.8564987,2.35,0.37,md,8,74,0.01692,0.01,nc,nc73699976,2022-03-02T13:32:09.963Z,"10km WNW of The Geysers, CA",earthquake,0.41,1.43,,1,automatic,nc,nc
 2022-03-02T13:22:10.230Z,33.918,-116.8671667,11.15,0.84,ml,28,45,0.09437,0.23,ci,ci40197880,2022-03-02T14:21:56.656Z,"1km SE of Banning, CA",earthquake,0.35,0.87,0.197,23,reviewed,ci,ci
-2022-03-02T13:19:57.440Z,54.6686666666667,-163.552666666667,17,2.2,ml,7,234,,0.23,av,av91050793,2022-03-03T03:20:52.440Z,"22 km SSW of False Pass, Alaska",earthquake,2.09,2.19,0.178230332337429,7,reviewed,av,av
+2022-03-02T13:19:55.031Z,54.5319,-163.4395,10,2.6,ml,,170,0.325,0.94,us,us6000h1lc,2022-03-03T09:46:39.040Z,"Unimak Island region, Alaska",earthquake,1.9,2,0.101,13,reviewed,us,us
 2022-03-02T13:16:41.569Z,61.0093,-147.2498,22.7,1.6,ml,,,,0.4,ak,ak0222t3mbng,2022-03-02T13:27:21.361Z,"34 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-02T13:13:30.950Z,38.8364983,-122.8213348,1.42,0.97,md,23,57,0.01125,0.06,nc,nc73699966,2022-03-02T14:00:13.125Z,"9km W of Cobb, CA",earthquake,0.21,0.47,0.25,4,automatic,nc,nc
 2022-03-02T13:12:21.880Z,38.8348351,-122.8051682,2.23,0.36,md,10,61,0.01205,0.01,nc,nc73699961,2022-03-02T14:53:16.469Z,"7km WNW of Cobb, CA",earthquake,0.37,1.41,,1,automatic,nc,nc
