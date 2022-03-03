@@ -597,3 +597,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T21:50:55.120Z,44.2901667,-110.4531667,3.94,0.87,md,8.0,172.0,0.05967,0.08,uu,uu60484012,2022-03-03T14:46:28.550Z,"66 km SE of West Yellowstone, Montana",earthquake,0.37,0.97,0.299,6.0,reviewed,uu,uu
 2022-03-03T13:25:53.590Z,44.289,-110.4488333,4.44,1.56,ml,14.0,98.0,0.06201,0.1,uu,uu60484142,2022-03-03T14:52:40.380Z,"66 km SE of West Yellowstone, Montana",earthquake,0.34,0.51,0.273,2.0,reviewed,uu,uu
 2022-03-02T21:52:27.079Z,36.48283333,-98.73283333,8.87,1.33,ml,25.0,54.0,0.008998234239,0.13,ok,ok2022ehhm,2022-03-03T14:51:00.899Z,"17 km SE of Waynoka, Oklahoma",earthquake,,0.4,0.26,4.0,reviewed,ok,ok
+2022-03-03T06:19:56.960Z,34.99483333,-97.582,5.85,1.13,ml,58.0,43.0,0.08008428473,0.41,ok,ok2022ehyf,2022-03-03T14:55:07.072Z,"6 km SE of Dibble, Oklahoma",earthquake,,0.8,0.2,17.0,reviewed,ok,ok
