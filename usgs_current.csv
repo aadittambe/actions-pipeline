@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-03T08:41:22.360Z,33.3803333,-116.8766667,5.09,1.18,ml,48,44,0.02912,0.22,ci,ci40198624,2022-03-03T08:44:57.722Z,"3km NNW of Palomar Observatory, CA",earthquake,0.25,0.97,0.12,25,automatic,ci,ci
 2022-03-03T08:37:32.090Z,19.1679992675781,-155.475997924805,32.0299987792969,2.01999998,md,40,88,,0.159999996,hv,hv72935962,2022-03-03T08:40:48.090Z,"3 km S of Pāhala, Hawaii",earthquake,0.61,1.01999998,1.61000001,14,automatic,hv,hv
 2022-03-03T08:36:34.980Z,33.4911667,-116.7526667,6.29,0.27,ml,12,84,0.07159,0.08,ci,ci40198616,2022-03-03T08:40:10.328Z,"10km SW of Anza, CA",earthquake,0.25,0.58,0.053,5,automatic,ci,ci
 2022-03-03T08:17:51.260Z,38.8286667,-122.8050003,2.2,0.85,md,7,108,0.006589,0.01,nc,nc73700421,2022-03-03T08:36:12.919Z,"7km NW of The Geysers, CA",earthquake,0.68,1.52,,1,automatic,nc,nc
@@ -265,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T09:07:13.930Z,38.7608337,-122.7348328,0.66,0.61,md,11,116,0.007833,0.03,nc,nc73699846,2022-03-02T09:23:19.479Z,"3km SE of The Geysers, CA",earthquake,0.25,0.48,0.24,3,automatic,nc,nc
 2022-03-02T09:06:09.670Z,62.6481,-152.0775,117.6,1.6,ml,,,,0.51,ak,ak0222t16dhd,2022-03-02T09:18:02.793Z,"69 km WNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-03-02T09:01:43.320Z,35.7753333,-117.5841667,5.45,0.51,ml,14,132,0.04175,0.16,ci,ci40197776,2022-03-02T18:37:35.799Z,"16km W of Searles Valley, CA",earthquake,0.38,0.64,0.062,7,reviewed,ci,ci
-2022-03-02T08:45:45.560Z,38.8343315,-122.809166,2.06,0.36,md,7,99,0.01094,0.02,nc,nc73699841,2022-03-02T09:02:13.366Z,"8km W of Cobb, CA",earthquake,0.51,2.1,,1,automatic,nc,nc
