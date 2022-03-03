@@ -493,3 +493,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T06:02:59.540Z,38.8253326,-122.855835,1.93,0.9,md,19.0,96.0,0.002353,0.02,nc,nc73700356,2022-03-03T06:11:10.975Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.42,0.53,3.0,automatic,nc,nc
 2022-03-03T06:01:57.575Z,64.6963,-146.9783,22.4,1.1,ml,,,,1.02,ak,ak0222umwgel,2022-03-03T06:05:38.419Z,"5 km NE of Eielson Air Force Base, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-03T05:29:43.230Z,17.9531666666667,-67.0041666666667,10.37,1.95,md,3.0,215.0,,0.04,pr,pr71338623,2022-03-03T06:14:04.680Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,1.94,0.8,0.0308489373003371,3.0,reviewed,pr,pr
+2022-03-03T06:14:58.140Z,17.9643333333333,-67.0673333333333,10.73,2.42,md,13.0,229.0,,0.14,pr,pr71338633,2022-03-03T06:25:46.600Z,"2 km WSW of La Parguera, Puerto Rico",earthquake,0.53,0.33,0.101664065507261,5.0,reviewed,pr,pr
