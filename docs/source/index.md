@@ -17,12 +17,9 @@ We have a two-part goal here:
 
 At the end of this tutorial, your repository will have — and be updating — two files: 
 - a `usgs_current.csv` file that has the current data scraped from the USGS website. 
-- a `usgs_main.csv` file that stores all the data since you began scraping.
-
 <img src="./_static/image_16.png">
-
+- a `usgs_main.csv` file that stores all the data since you began scraping.
 <img src="./_static/image_17.png">
-
 
 ## Predule: Prerequisites
 
@@ -131,7 +128,7 @@ Save this file. Click on the green box "Start commit", enter a commit message su
 
 ### 2.5. Watch the Action run and log results in the repository
 
-Wait a second or two, and navigate back to the "code" tab of your repository. You will notice a newly created `usgs_current.csv` file.
+Wait for five minutes, and navigate back to the "code" tab of your repository. You will notice a newly created `usgs_current.csv` file.
 
 <img src="./_static/image_8.png">
 
