@@ -299,4 +299,8 @@ This notebook runs simple Python code that performs basic summarizing and groupi
 - one that prints the most recent earthquake and the strongest earthquake
 - another that prints the earthquake with the highest magnitude
 
+```{note}
+To learn more about getting started with Python notebooks using an a browser-based notebook called a Jupyter notebook, check out [this](https://www.firstpythonnotebook.org/about/index.html) textbook made for another NICAR class.
+```
+
 This notebook can be modified with code to run advanced analysis on the data we scraped, or any other data set using a `raw` GitHub files.
