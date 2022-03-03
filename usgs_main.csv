@@ -592,3 +592,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T13:25:44.720Z,18.0476666666667,-66.9003333333333,3.4,1.61,md,4.0,265.0,,0.14,pr,pr71338723,2022-03-03T14:28:20.930Z,"1 km NNE of Lluveras, Puerto Rico",earthquake,1.87,11.87,0.0112348699519818,3.0,reviewed,pr,pr
 2022-03-03T13:16:44.390Z,44.286,-110.4553333,6.34,0.9,md,14.0,127.0,0.05653,0.17,uu,uu60484132,2022-03-03T14:26:54.950Z,"66 km SE of West Yellowstone, Montana",earthquake,0.53,0.95,0.151,9.0,reviewed,uu,uu
 2022-03-03T14:17:00.280Z,17.8913333333333,-66.8611666666667,13.2,2.28,md,11.0,205.0,,0.14,pr,pr71338733,2022-03-03T14:35:22.540Z,Puerto Rico region,earthquake,0.61,0.45,0.112466724559647,7.0,reviewed,pr,pr
+2022-03-03T14:40:34.000Z,18.196,-95.441,108.0,5.1,Mi,43.0,125.9999899200008,1.835258,0.84,at,at00r86bfm,2022-03-03T14:45:44.830Z,"14 km SW of El Laurel, Mexico",earthquake,0.0,0.0,,6.0,reviewed,at,at
+2022-03-02T22:19:49.700Z,44.6648333,-110.459,6.35,1.58,ml,16.0,105.0,0.06078,0.2,uu,uu60484042,2022-03-03T14:43:21.320Z,"39 km SSE of Mammoth, Wyoming",earthquake,0.86,1.05,0.206,2.0,reviewed,uu,uu
+2022-03-02T21:50:55.120Z,44.2901667,-110.4531667,3.94,0.87,md,8.0,172.0,0.05967,0.08,uu,uu60484012,2022-03-03T14:46:28.550Z,"66 km SE of West Yellowstone, Montana",earthquake,0.37,0.97,0.299,6.0,reviewed,uu,uu
