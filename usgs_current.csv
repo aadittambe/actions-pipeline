@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-03T22:35:54.870Z,17.9865,-67.0303333333333,4.54,2.07,md,3,169,,0.04,pr,pr71338828,2022-03-03T22:48:29.660Z,"2 km NE of La Parguera, Puerto Rico",earthquake,3.11,2.58,0.0382446011506752,3,reviewed,pr,pr
 2022-03-03T22:32:57.900Z,33.6973333,-116.7233333,17.19,1.31,ml,46,43,0.01577,0.19,ci,ci40199144,2022-03-03T22:43:49.790Z,"5km S of Idyllwild, CA",earthquake,0.25,0.41,0.225,26,automatic,ci,ci
 2022-03-03T22:17:09.460Z,17.9521666666667,-66.7463333333333,11.95,1.98,md,8,219,,0.09,pr,pr71338813,2022-03-03T22:44:28.840Z,"5 km SW of Tallaboa, Puerto Rico",earthquake,0.48,0.98,0.145635758901172,6,reviewed,pr,pr
 2022-03-03T22:00:11.300Z,33.5213333,-116.498,15.61,0.78,ml,26,47,0.0454,0.22,ci,ci40199120,2022-03-03T22:03:35.690Z,"17km ESE of Anza, CA",earthquake,0.43,0.54,0.12,14,automatic,ci,ci
@@ -121,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T11:41:31.120Z,38.8033333,-122.7623367,-0.7,2.37,md,8,160,0.02774,0.03,nc,nc73700496,2022-03-03T13:57:10.959Z,"3km N of The Geysers, CA",earthquake,0.47,1.2,0.26,4,automatic,nc,nc
 2022-03-03T11:41:16.050Z,38.7960014,-122.7779999,-0.83,1.31,md,17,80,0.008247,0.05,nc,nc73700491,2022-03-03T13:44:09.871Z,"3km NW of The Geysers, CA",earthquake,0.18,0.66,0.02,3,automatic,nc,nc
 2022-03-03T11:41:02.200Z,38.8023333,-122.7805,0.32,1.46,md,42,45,0.01082,0.05,nc,nc73700481,2022-03-03T19:47:21.131Z,"4km NW of The Geysers, CA",earthquake,0.12,0.21,0.246,8,reviewed,nc,nc
-2022-03-03T11:39:58.200Z,38.7805,-122.7581667,0.4,3.78,mw,96,31,0.01142,0.07,nc,nc73700486,2022-03-03T22:19:45.262Z,"0km NNW of The Geysers, CA",earthquake,0.09,0.17,,3,reviewed,nc,nc
+2022-03-03T11:39:58.200Z,38.7805,-122.7581667,0.4,3.78,mw,96,31,0.01142,0.07,nc,nc73700486,2022-03-03T22:48:22.924Z,"0km NNW of The Geysers, CA",earthquake,0.09,0.17,,3,reviewed,nc,nc
 2022-03-03T11:30:26.566Z,12.3391,-87.7538,51.82,4.9,mb,,133,0.799,0.82,us,us6000h1pf,2022-03-03T20:28:57.465Z,"55 km SW of Jiquilillo, Nicaragua",earthquake,6.6,7.5,0.037,228,reviewed,us,us
 2022-03-03T11:20:41.620Z,37.596,-118.8883333,1.22,0.14,md,7,210,0.02677,0.03,nc,nc73700476,2022-03-03T18:56:13.778Z,"9km ESE of Mammoth Lakes, CA",earthquake,0.69,1.37,0.313,6,reviewed,nc,nc
 2022-03-03T11:19:46.340Z,39.4328333,-123.0998333,4.19,1.04,md,9,133,0.06309,0.16,nc,nc71127314,2022-03-03T20:22:10.363Z,"12km WNW of Lake Pillsbury, CA",earthquake,0.56,1.25,0.539,6,reviewed,nc,nc
@@ -277,6 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T22:56:17.440Z,38.8084984,-122.8238297,2.3,0.85,md,8,120,0.004195,0.02,nc,nc73700211,2022-03-02T23:05:12.342Z,"7km WNW of The Geysers, CA",earthquake,0.57,1.13,,1,automatic,nc,nc
 2022-03-02T22:55:02.670Z,33.8533333,-115.5431667,1.78,2.73,ml,40,41,0.166,0.15,ci,ci40198320,2022-03-03T22:34:06.454Z,"20km NW of Desert Center, CA",earthquake,0.17,0.45,0.131,99,reviewed,ci,ci
 2022-03-02T22:53:59.418Z,-4.9103,152.2002,41.69,5.5,mww,,52,8.905,0.76,us,us6000h1jt,2022-03-03T00:57:00.585Z,"63 km S of Kokopo, Papua New Guinea",earthquake,9,5.2,0.065,23,reviewed,us,us
-2022-03-02T22:49:01.980Z,33.8223333,-117.9186667,2.13,0.93,ml,18,135,0.1078,0.26,ci,ci40198288,2022-03-03T15:35:42.952Z,"3km WSW of Anaheim, CA",earthquake,0.47,0.69,0.114,6,reviewed,ci,ci
-2022-03-02T22:48:12.971Z,39.3707,-120.1573,7.8,-0.1,ml,4,162.14,0.122,0.0456,nn,nn00834821,2022-03-03T00:52:10.694Z,"5 km NNE of Truckee, California",earthquake,,5.5,0.23,2,reviewed,nn,nn
-2022-03-02T22:47:36.890Z,38.91,-122.893,4,0.92,md,23,198,0.05314,0.05,nc,nc73700206,2022-03-03T05:06:10.610Z,"9km SSW of Kelseyville, CA",earthquake,0.49,0.71,0.131,5,reviewed,nc,nc

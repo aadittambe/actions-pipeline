@@ -719,3 +719,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T21:18:35.380Z,32.0253333,-114.9261667,20.68,2.82,ml,14.0,168.0,0.1434,0.29,ci,ci40199104,2022-03-03T22:07:07.040Z,"20km SSE of Estacion Coahuila, B.C., MX",earthquake,0.83,0.95,0.126,21.0,reviewed,ci,ci
 2022-03-03T22:32:57.900Z,33.6973333,-116.7233333,17.19,1.31,ml,46.0,43.0,0.01577,0.19,ci,ci40199144,2022-03-03T22:37:50.195Z,"5km S of Idyllwild, CA",earthquake,0.25,0.41,0.225,26.0,automatic,ci,ci
 2022-03-03T22:17:09.460Z,17.9521666666667,-66.7463333333333,11.95,1.98,md,8.0,219.0,,0.09,pr,pr71338813,2022-03-03T22:44:28.840Z,"5 km SW of Tallaboa, Puerto Rico",earthquake,0.48,0.98,0.145635758901172,6.0,reviewed,pr,pr
+2022-03-03T22:35:54.870Z,17.9865,-67.0303333333333,4.54,2.07,md,3.0,169.0,,0.04,pr,pr71338828,2022-03-03T22:48:29.660Z,"2 km NE of La Parguera, Puerto Rico",earthquake,3.11,2.58,0.0382446011506752,3.0,reviewed,pr,pr
