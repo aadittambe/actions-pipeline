@@ -711,3 +711,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T21:37:09.010Z,35.9871667,-117.7075,2.13,1.21,ml,15.0,102.0,0.06029,0.12,ci,ci40199112,2022-03-03T21:40:38.563Z,"19km ENE of Little Lake, CA",earthquake,0.2,0.19,0.135,15.0,automatic,ci,ci
 2022-03-03T21:17:17.280Z,18.037,-66.9848333333333,1.28,2.04,md,4.0,139.0,,0.15,pr,pr71338798,2022-03-03T21:35:20.760Z,"4 km W of Liborio Negron Torres, Puerto Rico",earthquake,0.44,0.78,0.139959493023126,3.0,reviewed,pr,pr
 2022-03-03T07:21:56.020Z,38.9086667,-122.8978333,4.67,0.79,md,21.0,196.0,0.05297,0.05,nc,nc73700411,2022-03-03T21:40:31.426Z,"9km SSW of Kelseyville, CA",earthquake,0.31,0.59,0.173,6.0,reviewed,nc,nc
+2022-03-03T20:11:19.770Z,47.37133333333333,-122.39,22.04,1.61,ml,20.0,80.0,0.06838,0.16,uw,uw61819991,2022-03-03T21:44:26.420Z,"6 km SW of Des Moines, Washington",earthquake,0.38,0.6,0.1408597775917317,7.0,reviewed,uw,uw
