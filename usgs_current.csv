@@ -1,13 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-03T13:49:13.840Z,38.8424988,-122.8413315,2.03,0.87,md,17,137,0.006006,0.02,nc,nc73700641,2022-03-03T13:50:48.078Z,"10km NW of The Geysers, CA",earthquake,0.28,0.44,0.03,4,automatic,nc,nc
+2022-03-03T14:03:56.970Z,38.7535019,-122.7301636,1.2,1.58,md,24,92,0.009081,0.05,nc,nc73700651,2022-03-03T14:05:31.402Z,"4km SE of The Geysers, CA",earthquake,0.24,0.33,0.08,9,automatic,nc,nc
+2022-03-03T13:49:13.840Z,38.8424988,-122.8413315,2.03,0.87,md,17,137,0.006006,0.02,nc,nc73700641,2022-03-03T13:57:11.070Z,"10km NW of The Geysers, CA",earthquake,0.28,0.44,0.03,4,automatic,nc,nc
 2022-03-03T13:49:09.305Z,62.5618,-149.331,57.6,1.6,ml,,,,0.74,ak,ak0222urcoag,2022-03-03T13:54:21.460Z,"41 km ENE of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-03T13:43:59.280Z,38.7868347,-122.7626648,0.88,1.17,md,18,79,0.01396,0.03,nc,nc73700636,2022-03-03T13:52:10.927Z,"1km NNW of The Geysers, CA",earthquake,0.23,0.46,0.2,5,automatic,nc,nc
 2022-03-03T13:32:42.950Z,33.2726667,-116.8095,13.83,0.42,ml,15,99,0.05609,0.16,ci,ci40198744,2022-03-03T13:36:23.982Z,"6km NW of Lake Henshaw, CA",earthquake,0.38,1,0.041,7,automatic,ci,ci
-2022-03-03T13:29:52.334Z,-30.1834,-177.8542,10,5.4,mb,,157,0.92,1.17,us,us6000h1q0,2022-03-03T13:50:19.572Z,"Kermadec Islands, New Zealand",earthquake,8.8,1.9,0.084,48,reviewed,us,us
+2022-03-03T13:29:52.334Z,-30.1834,-177.8542,10,5.4,mb,,157,0.92,1.17,us,us6000h1q0,2022-03-03T14:01:10.976Z,"Kermadec Islands, New Zealand",earthquake,8.8,1.9,0.084,48,reviewed,us,us
 2022-03-03T13:25:24.260Z,38.8441658,-122.8375015,1.9,0.37,md,10,94,0.02111,0.04,nc,nc73700631,2022-03-03T13:34:10.806Z,"10km WNW of Cobb, CA",earthquake,0.32,1.51,,1,automatic,nc,nc
 2022-03-03T13:22:18.836Z,61.3843,-150.6223,51.9,1.6,ml,,,,0.51,ak,ak0222ur6wor,2022-03-03T13:46:00.269Z,"18 km SSW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-03T13:17:09.300Z,33.2716667,-116.8078333,14.39,0.68,ml,26,71,0.05438,0.13,ci,ci40198736,2022-03-03T13:20:49.038Z,"5km NW of Lake Henshaw, CA",earthquake,0.24,0.49,0.188,17,automatic,ci,ci
-2022-03-03T13:14:16.760Z,38.7911682,-122.75,8.08,0.58,md,15,121,0.01305,0.16,nc,nc73700626,2022-03-03T13:23:10.734Z,"2km NNE of The Geysers, CA",earthquake,1.11,1.65,0.04,3,automatic,nc,nc
+2022-03-03T13:14:16.760Z,38.7911682,-122.75,8.08,0.58,md,15,121,0.01305,0.16,nc,nc73700626,2022-03-03T14:02:13.986Z,"2km NNE of The Geysers, CA",earthquake,1.11,1.65,0.04,3,automatic,nc,nc
 2022-03-03T13:08:32.500Z,38.8110008,-122.7921677,3.43,0.34,md,7,135,0.003895,0.01,nc,nc73700621,2022-03-03T13:52:12.926Z,"5km NW of The Geysers, CA",earthquake,0.54,1.53,,1,automatic,nc,nc
 2022-03-03T13:03:51.424Z,60.4837,-151.2432,32.3,1.8,ml,,,,0.97,ak,ak0222ur2wls,2022-03-03T13:17:07.112Z,"7 km NNE of Kalifornsky, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-03T13:03:50.020Z,38.7830009,-122.7610016,-0.89,0.36,md,7,136,0.01281,0.06,nc,nc73700616,2022-03-03T13:41:16.852Z,"1km NNW of The Geysers, CA",earthquake,0.33,2.63,,1,automatic,nc,nc
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T12:28:09.710Z,17.8556666666667,-67.0811666666667,5.08,2.74,md,3,285,,0.01,pr,pr71338718,2022-03-03T12:55:51.070Z,"13 km SSW of La Parguera, Puerto Rico",earthquake,2,2.3,0.126121750811552,3,reviewed,pr,pr
 2022-03-03T12:26:46.058Z,38.5481,-119.5059,6.3,1.5,ml,18,165.73,0.039,0.2425,nn,nn00834838,2022-03-03T12:30:18.373Z,"2 km S of Coleville, California",earthquake,,0.4,0.31,12,automatic,nn,nn
 2022-03-03T12:22:43.690Z,33.4995,-116.4725,9.05,0.91,ml,26,66,0.04579,0.32,ci,ci40198712,2022-03-03T12:26:18.770Z,"20km ESE of Anza, CA",earthquake,0.54,1.52,0.163,26,automatic,ci,ci
-2022-03-03T12:21:27.540Z,33.306,-116.2891667,5.76,0.86,ml,29,110,0.05876,0.2,ci,ci40198704,2022-03-03T12:25:02.711Z,"10km NE of Borrego Springs, CA",earthquake,0.33,0.85,0.155,20,automatic,ci,ci
+2022-03-03T12:21:27.540Z,33.306,-116.2891667,5.76,0.86,ml,29,110,0.05876,0.2,ci,ci40198704,2022-03-03T14:02:45.600Z,"10km NE of Borrego Springs, CA",earthquake,0.33,0.85,0.155,20,reviewed,ci,ci
 2022-03-03T12:14:36.896Z,59.418,-151.3934,47,1.8,ml,,,,0.23,ak,ak0222uqjsqx,2022-03-03T12:20:10.034Z,"16 km ESE of Seldovia Village, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-03T12:13:59.600Z,38.7799988,-122.7653351,0.16,0.36,md,6,137,0.00927,0.01,nc,nc73700586,2022-03-03T12:22:10.341Z,"1km WNW of The Geysers, CA",earthquake,0.36,0.82,,1,automatic,nc,nc
 2022-03-03T12:12:50.571Z,62.65,-147.7774,41.2,2.3,ml,,,,0.77,ak,ak0222uqjecq,2022-03-03T12:36:21.893Z,"75 km WNW of Lake Louise, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -255,8 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T14:21:43.860Z,61.4088333333333,-152.049833333333,8.65,0.02,ml,4,181,,0.04,av,av91503156,2022-03-02T22:02:07.030Z,"59 km WNW of Beluga, Alaska",earthquake,1.01,1.68,0.18958065236158,4,reviewed,av,av
 2022-03-02T14:21:10.117Z,36.5916,-116.0517,2.6,0,ml,4,333.4,0.111,0.0217,nn,nn00834794,2022-03-02T22:54:23.604Z,"California-Nevada border region",earthquake,,30,0.11,3,reviewed,nn,nn
 2022-03-02T14:12:03.920Z,19.1785,-155.501166666667,31.95,1.65,md,26,98,,0.1,hv,hv72934967,2022-03-03T03:39:22.170Z,"3 km SW of Pāhala, Hawaii",earthquake,0.52,0.79,0.0813544430544144,15,reviewed,hv,hv
-2022-03-02T14:07:07.570Z,33.5918333,-116.7325,13.27,0.4,ml,12,70,0.02667,0.14,ci,ci37489181,2022-03-02T16:18:19.312Z,"7km NW of Anza, CA",earthquake,0.41,0.7,0.208,6,reviewed,ci,ci
-2022-03-02T14:06:56.500Z,33.5928333,-116.7385,12.37,0.47,ml,19,51,0.02738,0.16,ci,ci40197888,2022-03-02T16:14:11.067Z,"7km NW of Anza, CA",earthquake,0.27,0.52,0.104,12,reviewed,ci,ci
-2022-03-02T13:58:19.280Z,61.3913333333333,-151.979833333333,11.26,-0.07,ml,4,179,,0.06,av,av91050808,2022-03-03T01:36:52.530Z,"55 km WNW of Beluga, Alaska",earthquake,1.86,1.27,0.17740660499594,4,reviewed,av,av
-2022-03-02T13:57:57.596Z,38.2289,-118.3528,10.2,0,ml,7,243.52,0.122,0.0964,nn,nn00834818,2022-03-03T00:42:52.657Z,"27 km SW of Mina, Nevada",earthquake,,13.5,0,1,reviewed,nn,nn
-2022-03-02T13:57:51.250Z,59.9936666666667,-153.062833333333,9.06,-0.8,ml,4,142,,0.22,av,av91503151,2022-03-02T21:58:35.860Z,"62 km ENE of Pedro Bay, Alaska",earthquake,1.91,1.52,0.23916195779666,4,reviewed,av,av
