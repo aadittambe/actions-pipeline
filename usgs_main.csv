@@ -720,3 +720,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T22:32:57.900Z,33.6973333,-116.7233333,17.19,1.31,ml,46.0,43.0,0.01577,0.19,ci,ci40199144,2022-03-03T22:37:50.195Z,"5km S of Idyllwild, CA",earthquake,0.25,0.41,0.225,26.0,automatic,ci,ci
 2022-03-03T22:17:09.460Z,17.9521666666667,-66.7463333333333,11.95,1.98,md,8.0,219.0,,0.09,pr,pr71338813,2022-03-03T22:44:28.840Z,"5 km SW of Tallaboa, Puerto Rico",earthquake,0.48,0.98,0.145635758901172,6.0,reviewed,pr,pr
 2022-03-03T22:35:54.870Z,17.9865,-67.0303333333333,4.54,2.07,md,3.0,169.0,,0.04,pr,pr71338828,2022-03-03T22:48:29.660Z,"2 km NE of La Parguera, Puerto Rico",earthquake,3.11,2.58,0.0382446011506752,3.0,reviewed,pr,pr
+2022-03-03T22:44:26.430Z,17.891,-66.955,10.11,2.15,md,3.0,268.0,,0.02,pr,pr71338833,2022-03-03T22:56:36.650Z,"10 km SSW of Guánica, Puerto Rico",earthquake,1.71,2.17,0.132718311464344,3.0,reviewed,pr,pr
+2022-03-03T22:30:03.520Z,17.9428333333333,-66.928,14.04,2.37,md,4.0,216.0,,0.08,pr,pr71338818,2022-03-03T22:52:35.920Z,"3 km SSW of Guánica, Puerto Rico",earthquake,2.18,0.65,0.128978383408344,2.0,reviewed,pr,pr
+2022-03-03T21:02:02.040Z,36.7011,-116.3284,8.3,0.1,ml,10.0,142.77,0.035,0.096,nn,nn00834879,2022-03-03T22:56:25.751Z,"44 km ESE of Beatty, Nevada",earthquake,,2.0,0.21,5.0,reviewed,nn,nn
