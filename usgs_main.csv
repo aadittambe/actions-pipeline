@@ -591,3 +591,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T09:03:22.850Z,36.48583333,-98.73333333,8.46,1.25,ml,47.0,37.0,0.01079788109,0.17,ok,ok2022eidp,2022-03-03T14:16:07.239Z,"16 km SE of Waynoka, Oklahoma",earthquake,,0.4,0.28,17.0,reviewed,ok,ok
 2022-03-03T13:25:44.720Z,18.0476666666667,-66.9003333333333,3.4,1.61,md,4.0,265.0,,0.14,pr,pr71338723,2022-03-03T14:28:20.930Z,"1 km NNE of Lluveras, Puerto Rico",earthquake,1.87,11.87,0.0112348699519818,3.0,reviewed,pr,pr
 2022-03-03T13:16:44.390Z,44.286,-110.4553333,6.34,0.9,md,14.0,127.0,0.05653,0.17,uu,uu60484132,2022-03-03T14:26:54.950Z,"66 km SE of West Yellowstone, Montana",earthquake,0.53,0.95,0.151,9.0,reviewed,uu,uu
+2022-03-03T14:17:00.280Z,17.8913333333333,-66.8611666666667,13.2,2.28,md,11.0,205.0,,0.14,pr,pr71338733,2022-03-03T14:35:22.540Z,Puerto Rico region,earthquake,0.61,0.45,0.112466724559647,7.0,reviewed,pr,pr
