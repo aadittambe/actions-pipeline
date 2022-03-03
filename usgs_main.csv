@@ -475,3 +475,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T22:21:17.230Z,38.8205,-122.7865,1.89,0.5,md,14.0,81.0,0.008539,0.02,nc,nc73700196,2022-03-03T05:01:11.584Z,"6km NNW of The Geysers, CA",earthquake,0.31,0.5,,1.0,reviewed,nc,nc
 2022-03-03T05:03:35.640Z,38.8165016,-122.8176651,1.1,0.84,md,10.0,73.0,0.009085,0.02,nc,nc73700341,2022-03-03T05:05:11.929Z,"7km NW of The Geysers, CA",earthquake,0.31,0.69,,1.0,automatic,nc,nc
 2022-03-03T05:03:27.750Z,38.8151665,-122.8171692,1.36,0.83,md,15.0,65.0,0.009911,0.03,nc,nc73700336,2022-03-03T05:05:02.035Z,"7km NW of The Geysers, CA",earthquake,0.23,0.54,0.46,2.0,automatic,nc,nc
+2022-03-03T05:13:33.240Z,38.8334999,-122.8773346,2.9,0.62,md,10.0,64.0,0.006714,0.02,nc,nc73700346,2022-03-03T05:15:07.636Z,"12km WNW of The Geysers, CA",earthquake,0.39,0.95,0.23,2.0,automatic,nc,nc
+2022-03-03T05:09:58.857Z,62.4648,-151.4931,66.8,2.1,ml,,,,0.77,ak,ak0222umcqk5,2022-03-03T05:18:52.990Z,"37 km W of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-03-03T04:49:14.716Z,26.81,126.5908,10.0,4.6,mb,,105.0,1.503,1.04,us,us6000h1mq,2022-03-03T05:09:02.040Z,"127 km WNW of Naha, Japan",earthquake,7.9,1.9,0.158,14.0,reviewed,us,us
