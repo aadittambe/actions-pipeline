@@ -461,3 +461,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T03:58:00.110Z,38.8199997,-122.7943344,2.79,0.84,md,13.0,67.0,0.01204,0.02,nc,nc73700311,2022-03-03T04:06:10.684Z,"6km NW of The Geysers, CA",earthquake,0.37,0.94,,1.0,automatic,nc,nc
 2022-03-03T03:56:26.850Z,35.4855,-118.1771667,7.49,0.9,ml,14.0,84.0,0.05921,0.14,ci,ci40198536,2022-03-03T04:00:04.510Z,"31km ESE of Lake Isabella, CA",earthquake,0.29,0.87,0.127,10.0,automatic,ci,ci
 2022-03-02T16:57:28.830Z,38.7936667,-122.7236667,2.32,0.21,md,18.0,145.0,0.005816,0.03,nc,nc73700056,2022-03-03T04:07:39.521Z,"3km S of Cobb, CA",earthquake,0.27,0.47,0.053,3.0,reviewed,nc,nc
+2022-03-03T02:56:32.490Z,37.4675,-118.8408333,9.94,0.97,md,19.0,91.0,0.1227,0.12,nc,nc73700291,2022-03-03T04:20:10.340Z,"18km SW of Toms Place, CA",earthquake,0.4,1.38,0.07,13.0,reviewed,nc,nc
