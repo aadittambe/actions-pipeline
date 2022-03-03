@@ -603,3 +603,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T07:18:21.280Z,36.28966667,-97.51333333,8.01,1.23,ml,82.0,27.0,0.06928640364,0.22,ok,ok2022eiad,2022-03-03T15:00:41.344Z,"5 km WNW of Lucien, Oklahoma",earthquake,,1.1,0.21,30.0,reviewed,ok,ok
 2022-03-03T03:01:58.782Z,31.99610752,-103.8497775,8.085375977,2.8,ml,25.0,48.0,0.07026951548,0.2,tx,tx2022ehrs,2022-03-03T15:09:58.872Z,"32 km SE of Malaga, New Mexico",earthquake,1.031276873,1.316309726,0.1,14.0,reviewed,tx,tx
 2022-03-02T23:16:15.289Z,36.454,-98.76516667,8.95,0.65,ml,12.0,121.0,0.02879434957,0.04,ok,ok2022ehkg,2022-03-03T14:58:17.930Z,"17 km SE of Waynoka, Oklahoma",earthquake,,0.2,0.27,3.0,reviewed,ok,ok
+2022-03-03T15:14:03.431Z,38.1911,-117.8042,0.7,0.6,ml,10.0,195.25,0.133,0.1789,nn,nn00834848,2022-03-03T15:18:14.295Z,"34 km SE of Mina, Nevada",earthquake,,14.6,0.55,4.0,automatic,nn,nn
+2022-03-03T14:41:35.634Z,52.3599,-168.1827,35.0,3.3,ml,,214.0,0.737,1.08,us,us6000h1qg,2022-03-03T15:27:13.040Z,"79 km SE of Nikolski, Alaska",earthquake,3.9,2.0,0.091,16.0,reviewed,us,us
+2022-03-03T14:13:13.122Z,36.1421,70.5643,83.78,4.9,mb,,68.0,0.981,0.79,us,us6000h1q6,2022-03-03T15:19:49.040Z,"79 km SE of Farkhār, Afghanistan",earthquake,6.5,6.1,0.051,118.0,reviewed,us,us
+2022-03-03T05:35:27.730Z,44.4518333,-115.2151667,8.15,2.51,ml,18.0,58.0,0.846,0.29,mb,mb80539489,2022-03-03T15:23:16.590Z,"34 km NW of Stanley, Idaho",earthquake,0.61,1.04,0.172,18.0,reviewed,mb,mb
