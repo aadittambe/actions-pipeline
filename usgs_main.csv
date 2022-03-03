@@ -456,3 +456,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T03:16:16.817Z,61.9086,-150.7446,12.8,0.8,ml,,,,0.33,ak,ak0222ul7a80,2022-03-03T03:39:52.186Z,Southern Alaska,earthquake,,0.8,,,reviewed,ak,ak
 2022-03-03T03:06:23.650Z,19.2675,-64.6243,63.0,3.84,md,10.0,328.0,1.164,0.44,pr,pr2022062000,2022-03-03T03:36:54.676Z,"105 km N of Cruz Bay, U.S. Virgin Islands",earthquake,8.42,18.29,0.16,6.0,reviewed,pr,pr
 2022-03-02T14:12:03.920Z,19.1785,-155.501166666667,31.95,1.65,md,26.0,98.0,,0.1,hv,hv72934967,2022-03-03T03:39:22.170Z,"3 km SW of Pāhala, Hawaii",earthquake,0.52,0.79,0.0813544430544144,15.0,reviewed,hv,hv
+2022-03-02T23:06:53.758Z,-3.396,146.3381,12.16,4.9,mb,,77.0,1.691,0.92,us,us6000h1kc,2022-03-03T03:44:27.040Z,"182 km SW of Lorengau, Papua New Guinea",earthquake,4.8,5.0,0.084,44.0,reviewed,us,us
