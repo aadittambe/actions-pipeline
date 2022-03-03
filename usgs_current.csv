@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T22:36:12.820Z,48.087666666666664,-121.93616666666667,-0.24,1.56,ml,9,121,0.01738,0.12,uw,uw61819876,2022-03-03T00:02:55.604Z,"2 km E of Granite Falls, Washington",explosion,0.48,31.61,0.06979548718268647,5,reviewed,uw,uw
 2022-03-02T22:35:37.670Z,38.7919998,-122.7815018,3.2,0.84,md,15,92,0.00515,0.02,nc,nc73700201,2022-03-02T23:17:27.421Z,"3km NW of The Geysers, CA",earthquake,0.42,0.66,0.48,3,automatic,nc,nc
 2022-03-02T22:18:25.330Z,49.391,-120.51533333333333,-0.37,2.08,ml,9,186,0.5859,0.28,uw,uw61819871,2022-03-03T04:28:35.350Z,"7 km S of Princeton, Canada",explosion,1.95,31.61,0.3050014420614158,3,reviewed,uw,uw
-2022-03-02T22:17:47.790Z,38.8381667,-122.8235,1.24,1.47,md,45,63,0.009371,0.03,nc,nc73700191,2022-03-03T04:40:43.409Z,"9km WNW of Cobb, CA",earthquake,0.11,0.2,0.156,12,reviewed,nc,nc
+2022-03-02T22:17:47.790Z,38.8381667,-122.8235,1.24,1.47,md,45,63,0.009371,0.03,nc,nc73700191,2022-03-03T04:46:10.496Z,"9km WNW of Cobb, CA",earthquake,0.11,0.2,0.156,12,reviewed,nc,nc
 2022-03-02T22:16:22.530Z,38.7985,-122.7758333,1.96,-0.1,md,16,77,0.01084,0.04,nc,nc73700176,2022-03-03T00:15:16.789Z,"3km NW of The Geysers, CA",earthquake,0.18,0.3,0.082,2,reviewed,nc,nc
 2022-03-02T22:12:15.935Z,61.2805,-149.4928,28.5,1.5,ml,,,,0.72,ak,ak0222t8yb95,2022-03-02T22:31:33.313Z,"6 km SE of Eagle River, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-03-02T22:07:30.636Z,62.0638,-151.39,72.6,2.3,ml,,,,0.82,ak,ak0222t8x9sp,2022-03-02T22:19:11.683Z,"8 km N of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
