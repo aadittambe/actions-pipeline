@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-03T11:12:33.880Z,38.8338318,-122.807663,2.14,0.85,md,11,60,0.01059,0.01,nc,nc73700466,2022-03-03T11:21:09.894Z,"7km W of Cobb, CA",earthquake,0.36,0.82,,1,automatic,nc,nc
+2022-03-03T11:12:33.880Z,38.8338318,-122.807663,2.14,0.85,md,11,60,0.01059,0.01,nc,nc73700466,2022-03-03T11:29:16.935Z,"7km W of Cobb, CA",earthquake,0.36,0.82,,1,automatic,nc,nc
 2022-03-03T11:06:53.880Z,33.653,-116.721,12.54,0.35,ml,13,92,0.05829,0.06,ci,ci40198680,2022-03-03T11:10:31.250Z,"10km S of Idyllwild, CA",earthquake,0.26,0.42,0.162,9,automatic,ci,ci
 2022-03-03T10:55:44.240Z,34.0383333,-116.8586667,15.62,0.84,ml,24,78,0.04238,0.21,ci,ci40198672,2022-03-03T10:59:20.844Z,"13km N of Banning, CA",earthquake,0.4,0.75,0.122,19,automatic,ci,ci
 2022-03-03T10:53:47.010Z,34.2661667,-117.9843333,11.14,1.33,ml,28,49,0.07455,0.21,ci,ci40198664,2022-03-03T10:57:26.176Z,"13km N of Monrovia, CA",earthquake,0.33,0.72,0.239,31,automatic,ci,ci
@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T10:40:24.717Z,61.1725,-140.3718,14.7,1.1,ml,,,,0.5,ak,ak0222upih7r,2022-03-03T10:43:29.405Z,"139 km ESE of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-03T10:33:00.940Z,38.8171654,-122.8201675,2.64,0.82,md,21,49,0.01004,0.02,nc,nc73700446,2022-03-03T10:49:13.720Z,"7km NW of The Geysers, CA",earthquake,0.22,0.51,0.28,3,automatic,nc,nc
 2022-03-03T10:22:43.470Z,18.0093333333333,-66.7558333333333,11.05,2.62,md,9,178,,0.24,pr,pr71338683,2022-03-03T11:02:42.130Z,"1 km ESE of Magas Arriba, Puerto Rico",earthquake,0.8,1.31,0.327101689166243,8,reviewed,pr,pr
-2022-03-03T10:14:40.890Z,37.3611679,-121.3503342,1.99,1.49,md,10,118,0.05861,0.13,nc,nc73700441,2022-03-03T10:29:16.768Z,"23km WSW of Patterson, CA",earthquake,0.62,4.91,0.12,8,automatic,nc,nc
+2022-03-03T10:14:40.890Z,37.3611679,-121.3503342,1.99,1.49,md,10,118,0.05861,0.13,nc,nc73700441,2022-03-03T11:32:10.945Z,"23km WSW of Patterson, CA",earthquake,0.62,4.91,0.12,8,automatic,nc,nc
 2022-03-03T10:09:28.464Z,59.0857,-152.5266,56.8,2.3,ml,,,,0.56,ak,ak0222upbub0,2022-03-03T10:43:29.264Z,"45 km SW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-03-03T09:59:41.750Z,34.0433333,-116.8758333,13.16,1.04,ml,35,43,0.0571,0.22,ci,ci40198648,2022-03-03T10:03:19.855Z,"13km N of Banning, CA",earthquake,0.3,0.69,0.126,27,automatic,ci,ci
 2022-03-03T09:57:00.420Z,38.8186684,-122.8166656,8.45,0.85,md,13,68,0.006985,0.13,nc,nc73700436,2022-03-03T11:21:12.894Z,"7km NW of The Geysers, CA",earthquake,1.16,1.63,,1,automatic,nc,nc
@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T11:45:39.810Z,38.837,-122.801,2.71,0.05,md,9,67,0.00844,0.03,nc,nc73699911,2022-03-02T21:44:16.861Z,"7km WNW of Cobb, CA",earthquake,0.33,0.53,0.117,3,reviewed,nc,nc
 2022-03-02T11:39:41.610Z,38.8118324,-122.7776642,0.38,0.84,md,10,110,0.002757,0.02,nc,nc73699906,2022-03-02T13:08:14.795Z,"4km NNW of The Geysers, CA",earthquake,0.33,0.64,,1,automatic,nc,nc
 2022-03-02T11:33:31.420Z,36.7046,-116.3307,8.7,-0.2,ml,10,180.13,0.06,0.1154,nn,nn00834792,2022-03-02T22:26:30.142Z,"44 km ESE of Beatty, Nevada",earthquake,,1.9,0.12,3,reviewed,nn,nn
-2022-03-02T11:30:27.702Z,59.9378,-152.738,83.6,1.4,ml,,,,0.35,ak,ak0222t2i8zh,2022-03-02T11:34:38.622Z,"53 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
