@@ -585,3 +585,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T13:43:59.280Z,38.7868347,-122.7626648,0.88,1.17,md,18.0,79.0,0.01396,0.03,nc,nc73700636,2022-03-03T13:45:36.690Z,"1km NNW of The Geysers, CA",earthquake,0.23,0.46,0.2,5.0,automatic,nc,nc
 2022-03-03T13:49:13.840Z,38.8424988,-122.8413315,2.03,0.87,md,17.0,137.0,0.006006,0.02,nc,nc73700641,2022-03-03T13:50:48.078Z,"10km NW of The Geysers, CA",earthquake,0.28,0.44,0.03,4.0,automatic,nc,nc
 2022-03-03T13:29:52.334Z,-30.1834,-177.8542,10.0,5.4,mb,,157.0,0.92,1.17,us,us6000h1q0,2022-03-03T13:50:19.572Z,"Kermadec Islands, New Zealand",earthquake,8.8,1.9,0.084,48.0,reviewed,us,us
+2022-03-03T13:49:09.305Z,62.5618,-149.331,57.6,1.6,ml,,,,0.74,ak,ak0222urcoag,2022-03-03T13:54:21.460Z,"41 km ENE of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
