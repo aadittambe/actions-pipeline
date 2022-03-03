@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T11:47:47.500Z,38.8153343,-122.7874985,0.11,1.16,md,9,77,0.005712,0.02,nc,nc73700546,2022-03-03T12:02:10.215Z,"5km NNW of The Geysers, CA",earthquake,0.43,1.15,,1,automatic,nc,nc
 2022-03-03T11:43:11.070Z,38.784832,-122.8014984,-0.85,1.15,md,14,215,0.003699,0.17,nc,nc73700531,2022-03-03T12:02:11.215Z,"4km WNW of The Geysers, CA",earthquake,0.93,0.66,0.26,2,automatic,nc,nc
 2022-03-03T11:42:25.720Z,38.8061676,-122.7703323,0.71,1.17,md,9,123,0.009974,0.01,nc,nc73700511,2022-03-03T14:22:11.221Z,"3km NNW of The Geysers, CA",earthquake,0.35,0.88,,1,automatic,nc,nc
-2022-03-03T11:42:13.030Z,38.7948341,-122.7788315,-0.3,1.3,md,11,142,0.00729,0.03,nc,nc73700506,2022-03-03T12:26:13.365Z,"3km NW of The Geysers, CA",earthquake,0.29,0.66,,1,automatic,nc,nc
+2022-03-03T11:42:13.030Z,38.7948341,-122.7788315,-0.3,1.3,md,11,142,0.00729,0.03,nc,nc73700506,2022-03-03T14:37:13.164Z,"3km NW of The Geysers, CA",earthquake,0.29,0.66,,1,automatic,nc,nc
 2022-03-03T11:42:05.940Z,38.7928352,-122.7646637,-0.23,1.18,md,14,94,0.008688,0.04,nc,nc73700501,2022-03-03T14:12:13.035Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.78,0.28,4,automatic,nc,nc
 2022-03-03T11:41:59.770Z,38.7781677,-122.7525024,1.04,1.87,md,21,70,0.01275,0.05,nc,nc73700526,2022-03-03T11:59:18.198Z,"0km ENE of The Geysers, CA",earthquake,0.25,0.4,0.47,3,automatic,nc,nc
 2022-03-03T11:41:31.120Z,38.8033333,-122.7623367,-0.7,2.37,md,8,160,0.02774,0.03,nc,nc73700496,2022-03-03T13:57:10.959Z,"3km N of The Geysers, CA",earthquake,0.47,1.2,0.26,4,automatic,nc,nc
@@ -254,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T14:52:24.290Z,44.284,-110.4541667,3.98,0.82,md,9,174,0.05657,0.1,uu,uu60483932,2022-03-02T18:47:06.850Z,"66 km SE of West Yellowstone, Montana",earthquake,0.4,0.44,0.286,8,reviewed,uu,uu
 2022-03-02T14:44:37.791Z,63.1557,-144.4264,13.7,1.2,ml,,,,0.51,ak,ak0222t4dr0j,2022-03-02T14:47:49.612Z,"42 km NW of Mentasta Lake, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-02T14:44:05.530Z,17.9841666666667,-66.8125,14.22,2.53,md,7,154,,0.16,pr,pr71338548,2022-03-02T16:05:52.130Z,"1 km SSE of Indios, Puerto Rico",earthquake,0.54,0.98,0.0348222971559708,4,reviewed,pr,pr
-2022-03-02T14:37:56.080Z,38.7903333,-122.8041667,3.61,0.18,md,15,85,0.00218,0.01,nc,nc73700006,2022-03-03T00:28:11.102Z,"4km WNW of The Geysers, CA",earthquake,0.4,0.62,0.396,2,reviewed,nc,nc
