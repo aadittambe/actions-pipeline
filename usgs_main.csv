@@ -668,3 +668,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T12:22:44.280Z,33.4936667,-116.481,14.11,0.89,ml,36.0,58.0,0.0549,0.12,ci,ci37489221,2022-03-03T18:40:19.427Z,"19km ESE of Anza, CA",earthquake,0.18,0.3,0.137,28.0,reviewed,ci,ci
 2022-03-03T18:38:34.037Z,65.4501,-149.9073,11.9,1.6,ml,,,,0.46,ak,ak0222uu9jcb,2022-03-03T18:46:24.690Z,"13 km ESE of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-03T18:23:49.200Z,17.9413333333333,-67.0638333333333,12.12,2.06,md,4.0,248.0,,0.1,pr,pr71338778,2022-03-03T18:57:15.720Z,"4 km SSW of La Parguera, Puerto Rico",earthquake,1.2,0.8,0.191937755769719,2.0,reviewed,pr,pr
+2022-03-03T19:01:31.788Z,62.4259,-148.3012,34.1,2.0,ml,,,,0.72,ak,ak0222uun1a2,2022-03-03T19:06:27.052Z,"70 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-03T18:58:58.340Z,38.7576675,-122.7160034,0.79,1.07,md,9.0,119.0,0.007957,0.04,nc,nc73700716,2022-03-03T19:07:11.851Z,"3km SW of Anderson Springs, CA",earthquake,0.33,0.51,0.16,4.0,automatic,nc,nc
