@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-03T19:17:47.778Z,-17.0199,-70.1823,164.99,5.1,mww,,120,0.878,1.63,us,us6000h1v2,2022-03-03T19:34:10.040Z,"23 km NE of Pujocucho, Peru",earthquake,7.4,5.5,0.078,16,reviewed,us,us
+2022-03-03T19:17:47.778Z,-17.0199,-70.1823,164.99,5.1,mww,,120,0.878,1.63,us,us6000h1v2,2022-03-03T19:41:47.276Z,"23 km NE of Pujocucho, Peru",earthquake,7.4,5.5,0.078,16,reviewed,us,us
 2022-03-03T19:14:56.239Z,61.4535,-146.6429,17.1,2.1,ml,,,,0.78,ak,ak0222uupvgt,2022-03-03T19:18:18.383Z,"39 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-03T19:01:31.788Z,62.4213,-148.3016,33.5,1.9,ml,,,,0.69,ak,ak0222uun1a2,2022-03-03T19:14:37.934Z,"70 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-03T18:58:58.340Z,38.7576675,-122.7160034,0.79,1.07,md,9,119,0.007957,0.04,nc,nc73700716,2022-03-03T19:15:14.900Z,"3km SW of Anderson Springs, CA",earthquake,0.33,0.51,0.16,4,automatic,nc,nc
