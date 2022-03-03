@@ -664,3 +664,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T12:54:56.100Z,37.8433333,-112.8505,5.96,1.14,md,6.0,228.0,0.2862,0.12,uu,uu60484127,2022-03-03T18:12:26.230Z,"1 km W of Parowan, Utah",earthquake,1.26,31.61,0.207,5.0,reviewed,uu,uu
 2022-03-03T11:57:38.670Z,38.2326667,-112.2353333,6.01,1.92,ml,9.0,171.0,0.4114,0.15,uu,uu60484122,2022-03-03T18:10:20.570Z,"1 km WSW of Junction, Utah",earthquake,0.85,31.61,0.36,2.0,reviewed,uu,uu
 2022-03-03T11:10:24.020Z,40.734,-112.0481667,6.55,0.42,md,9.0,100.0,0.0117,0.07,uu,uu60484117,2022-03-03T18:06:11.890Z,"5 km ENE of Magna, Utah",earthquake,0.39,1.3,0.133,5.0,reviewed,uu,uu
+2022-03-03T13:38:56.760Z,34.4231667,-119.3141667,14.8,1.18,ml,10.0,121.0,0.02908,0.16,ci,ci40198760,2022-03-03T18:26:39.739Z,"7km WSW of Ojai, CA",earthquake,0.55,0.93,0.186,3.0,reviewed,ci,ci
