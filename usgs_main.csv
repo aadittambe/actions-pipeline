@@ -555,3 +555,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T11:30:26.566Z,12.3391,-87.7538,51.82,4.9,mb,,133.0,0.799,0.82,us,us6000h1pf,2022-03-03T11:50:32.901Z,"55 km SW of Jiquilillo, Nicaragua",earthquake,6.6,7.5,0.037,228.0,reviewed,us,us
 2022-03-03T11:57:40.550Z,34.4524994,-119.8508301,5.82,1.87,ml,23.0,85.0,0.03997,0.2,ci,ci40198696,2022-03-03T11:59:49.750Z,"3km NW of Goleta, CA",earthquake,0.47,1.26,0.173,16.0,automatic,ci,ci
 2022-03-03T11:53:50.680Z,38.7910004,-122.7653351,-0.1,0.85,md,12.0,70.0,0.01057,0.06,nc,nc73700571,2022-03-03T11:55:28.273Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.65,0.02,4.0,automatic,nc,nc
+2022-03-03T12:22:43.260Z,33.5021667,-116.480835,14.76,1.18,ml,26.0,69.0,0.0507,0.19,ci,ci40198712,2022-03-03T12:24:49.745Z,"19km ESE of Anza, CA",earthquake,0.41,1.21,0.235,10.0,automatic,ci,ci
+2022-03-03T12:21:27.540Z,33.306,-116.2891667,5.76,0.86,ml,29.0,110.0,0.05876,0.2,ci,ci40198704,2022-03-03T12:25:02.711Z,"10km NE of Borrego Springs, CA",earthquake,0.33,0.85,0.155,20.0,automatic,ci,ci
+2022-03-03T12:14:36.896Z,59.418,-151.3934,47.0,1.8,ml,,,,0.23,ak,ak0222uqjsqx,2022-03-03T12:20:10.034Z,"16 km ESE of Seldovia Village, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-03-03T12:13:59.600Z,38.7799988,-122.7653351,0.16,0.36,md,6.0,137.0,0.00927,0.01,nc,nc73700586,2022-03-03T12:22:10.341Z,"1km WNW of The Geysers, CA",earthquake,0.36,0.82,,1.0,automatic,nc,nc
+2022-03-03T12:12:50.571Z,62.65,-147.7774,41.2,2.3,ml,,,,0.77,ak,ak0222uqjecq,2022-03-03T12:20:09.891Z,"75 km WNW of Lake Louise, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-03-03T12:05:34.040Z,38.8030014,-122.7751694,0.94,0.73,md,12.0,73.0,0.01111,0.03,nc,nc73700581,2022-03-03T12:13:10.284Z,"3km NNW of The Geysers, CA",earthquake,0.31,0.54,0.4,3.0,automatic,nc,nc
+2022-03-03T10:51:28.370Z,17.9661666666667,-66.8568333333333,15.44,2.3,md,6.0,205.0,,0.13,pr,pr71338693,2022-03-03T12:04:28.280Z,"3 km ESE of Maria Antonia, Puerto Rico",earthquake,0.8,0.79,0.24312636346401,5.0,reviewed,pr,pr
