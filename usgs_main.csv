@@ -671,3 +671,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T19:01:31.788Z,62.4259,-148.3012,34.1,2.0,ml,,,,0.72,ak,ak0222uun1a2,2022-03-03T19:06:27.052Z,"70 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-03T18:58:58.340Z,38.7576675,-122.7160034,0.79,1.07,md,9.0,119.0,0.007957,0.04,nc,nc73700716,2022-03-03T19:07:11.851Z,"3km SW of Anderson Springs, CA",earthquake,0.33,0.51,0.16,4.0,automatic,nc,nc
 2022-03-03T19:14:56.239Z,61.4535,-146.6429,17.1,2.1,ml,,,,0.78,ak,ak0222uupvgt,2022-03-03T19:18:18.383Z,"39 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-03T07:32:52.100Z,51.9981666666667,178.281833333333,3.59,2.26,ml,5.0,346.0,,0.13,av,av91050843,2022-03-03T19:25:52.290Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.92,0.66,0.214722732989352,5.0,reviewed,av,av
