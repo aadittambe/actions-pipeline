@@ -694,3 +694,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T11:19:46.340Z,39.4328333,-123.0998333,4.19,1.04,md,9.0,133.0,0.06309,0.16,nc,nc71127314,2022-03-03T20:22:10.363Z,"12km WNW of Lake Pillsbury, CA",earthquake,0.56,1.25,0.539,6.0,reviewed,nc,nc
 2022-03-03T20:26:17.510Z,36.1301667,-118.0666667,2.51,1.72,ml,17.0,80.0,0.1719,0.18,ci,ci40199056,2022-03-03T20:29:50.808Z,"14km NW of Coso Junction, CA",earthquake,0.29,1.21,0.183,24.0,automatic,ci,ci
 2022-03-03T08:55:19.420Z,52.0405,178.330333333333,8.24,1.43,ml,4.0,350.0,,0.12,av,av91050868,2022-03-03T20:29:01.930Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.19,3.47,0.218610205807088,4.0,reviewed,av,av
+2022-03-03T16:52:49.592Z,-18.6423,-177.5766,417.71,4.2,mb,,136.0,4.249,0.6,us,us6000h1ss,2022-03-03T20:34:41.040Z,Fiji region,earthquake,12.3,8.7,0.061,81.0,reviewed,us,us
