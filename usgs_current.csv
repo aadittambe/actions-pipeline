@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-03T09:30:24.134Z,-27.3809,-67.5252,134.04,4.8,mb,,35,1.529,0.76,us,us6000h1p4,2022-03-03T09:46:21.040Z,"33 km NNE of Fiambalá, Argentina",earthquake,8.3,7.6,0.073,57,reviewed,us,us
 2022-03-03T08:52:27.820Z,35.8703333,-117.6743333,4.31,1.1,ml,20,89,0.07981,0.18,ci,ci40198632,2022-03-03T08:56:05.287Z,"22km ESE of Little Lake, CA",earthquake,0.29,0.64,0.206,12,automatic,ci,ci
 2022-03-03T08:51:32.230Z,36.4831657,-121.0449982,9.51,1.16,md,9,158,0.02973,0.07,nc,nc73700426,2022-03-03T09:08:13.126Z,"10km ESE of Pinnacles, CA",earthquake,0.73,1.02,0.24,6,automatic,nc,nc
 2022-03-03T08:47:08.947Z,29.9102,95.0158,24.06,4.3,mb,,110,5.694,0.42,us,us6000h1p1,2022-03-03T09:13:44.040Z,"165 km NNE of Shi Yomi, India",earthquake,7.9,5.4,0.104,26,reviewed,us,us
@@ -258,5 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T10:05:23.760Z,19.0548,-66.6015,47,3.54,md,19,248,0.5822,0.41,pr,pr2022061002,2022-03-02T10:51:03.515Z,"65 km N of Arecibo, Puerto Rico",earthquake,1.66,4.79,0.13,12,reviewed,pr,pr
 2022-03-02T09:58:26.936Z,35.5553,69.7992,86.72,5.2,mb,,38,1.187,0.75,us,us6000h1c9,2022-03-03T01:51:52.889Z,"37 km NE of Bāzārak, Afghanistan",earthquake,7.4,6,0.046,158,reviewed,us,us
 2022-03-02T09:58:08.910Z,38.8278351,-122.8151703,2.32,0.64,md,17,49,0.005958,0.01,nc,nc73699871,2022-03-02T10:30:13.859Z,"8km NW of The Geysers, CA",earthquake,0.27,0.65,0.01,2,automatic,nc,nc
-2022-03-02T09:46:32.020Z,38.8240013,-122.7645035,2.02,0.67,md,10,124,0.007719,0.01,nc,nc73699861,2022-03-02T10:09:14.738Z,"4km W of Cobb, CA",earthquake,0.41,0.67,0.14,2,automatic,nc,nc
-2022-03-02T09:42:21.780Z,38.8223333,-122.7645,2.35,1.55,md,51,45,0.00916,0.05,nc,nc73699856,2022-03-03T01:53:30.390Z,"4km W of Cobb, CA",earthquake,0.16,0.26,0.134,18,reviewed,nc,nc
