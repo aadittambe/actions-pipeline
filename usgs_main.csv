@@ -497,3 +497,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T06:46:44.760Z,36.795166,-121.5149994,5.6,1.67,md,16.0,98.0,0.0251,0.18,nc,nc73700386,2022-03-03T06:48:21.813Z,"6km SSE of San Juan Bautista, CA",earthquake,0.51,0.76,0.36,10.0,automatic,nc,nc
 2022-03-03T06:43:09.256Z,63.054,-150.2391,34.4,1.6,ml,,,,0.95,ak,ak0222un5cer,2022-03-03T06:46:52.909Z,"67 km NNE of Petersville, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-03-03T06:55:32.610Z,19.2205009460449,-155.373840332031,30.3600006103516,1.85000002,md,34.0,188.0,,0.119999997,hv,hv72935877,2022-03-03T06:58:48.760Z,"11 km E of Pāhala, Hawaii",earthquake,0.65,0.839999974,1.61000001,6.0,automatic,hv,hv
+2022-03-03T07:04:20.170Z,38.8063316,-122.7949982,3.29,0.64,md,20.0,45.0,0.001651,0.02,nc,nc73700396,2022-03-03T07:05:57.105Z,"5km NW of The Geysers, CA",earthquake,0.28,0.61,0.15,3.0,automatic,nc,nc
+2022-03-03T06:40:09.832Z,19.2842,-65.008,22.48,4.6,mb,,166.0,1.005,0.48,us,us6000h1n5,2022-03-03T07:01:14.040Z,Puerto Rico region,earthquake,7.7,6.6,0.049,125.0,reviewed,us,us
