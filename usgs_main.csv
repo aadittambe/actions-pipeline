@@ -480,3 +480,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T04:49:14.716Z,26.81,126.5908,10.0,4.6,mb,,105.0,1.503,1.04,us,us6000h1mq,2022-03-03T05:09:02.040Z,"127 km WNW of Naha, Japan",earthquake,7.9,1.9,0.158,14.0,reviewed,us,us
 2022-03-03T05:20:59.838Z,61.3726,-150.1184,38.5,1.6,ml,,,,0.7,ak,ak0222umf3kv,2022-03-03T05:24:44.021Z,"7 km W of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-03T04:56:40.865Z,-33.5181,-70.4855,102.37,4.6,mb,,38.0,0.032,0.43,us,us6000h1mr,2022-03-03T05:28:13.040Z,"10 km SE of Villa Presidente Frei, Ñuñoa, Santiago, Chile, Chile",earthquake,3.3,3.7,0.152,13.0,reviewed,us,us
+2022-03-03T03:58:36.140Z,38.8211667,-122.797,3.85,0.4,md,23.0,50.0,0.01045,0.04,nc,nc73700316,2022-03-03T05:38:48.218Z,"6km NW of The Geysers, CA",earthquake,0.25,0.27,0.179,3.0,reviewed,nc,nc
