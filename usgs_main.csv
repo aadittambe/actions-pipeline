@@ -570,3 +570,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T12:26:46.058Z,38.5481,-119.5059,6.3,1.5,ml,18.0,165.73,0.039,0.2425,nn,nn00834838,2022-03-03T12:30:18.373Z,"2 km S of Coleville, California",earthquake,,0.4,0.31,12.0,automatic,nn,nn
 2022-03-03T12:08:44.100Z,-30.1658,-176.8208,10.0,4.9,mb,,155.0,1.313,0.65,us,us6000h1pn,2022-03-03T12:28:21.040Z,Kermadec Islands region,earthquake,10.3,1.9,0.108,27.0,reviewed,us,us
 2022-03-03T12:03:12.770Z,19.0873,-64.753,78.0,3.75,md,13.0,306.0,0.9425,0.38,pr,pr2022062002,2022-03-03T12:44:49.325Z,"83 km N of Cruz Bay, U.S. Virgin Islands",earthquake,5.18,7.65,0.06,7.0,reviewed,pr,pr
+2022-03-03T13:03:50.887Z,60.4942,-151.2333,19.2,1.8,ml,,,,0.82,ak,ak0222ur2wls,2022-03-03T13:08:26.167Z,"6 km SSE of Kenai, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-03T13:03:50.020Z,38.7830009,-122.7610016,-0.89,0.36,md,7.0,136.0,0.01281,0.06,nc,nc73700616,2022-03-03T13:05:26.131Z,"1km NNW of The Geysers, CA",earthquake,0.33,2.63,,1.0,automatic,nc,nc
+2022-03-03T12:50:34.130Z,38.7938347,-122.7815018,-0.41,0.99,md,9.0,102.0,0.005057,0.03,nc,nc73700611,2022-03-03T12:59:12.577Z,"3km NW of The Geysers, CA",earthquake,0.23,0.69,0.43,2.0,automatic,nc,nc
+2022-03-03T12:28:09.710Z,17.8556666666667,-67.0811666666667,5.08,2.74,md,3.0,285.0,,0.01,pr,pr71338718,2022-03-03T12:55:51.070Z,"13 km SSW of La Parguera, Puerto Rico",earthquake,2.0,2.3,0.126121750811552,3.0,reviewed,pr,pr
