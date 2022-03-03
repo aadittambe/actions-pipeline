@@ -580,3 +580,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T13:14:16.760Z,38.7911682,-122.75,8.08,0.58,md,15.0,121.0,0.01305,0.16,nc,nc73700626,2022-03-03T13:23:10.734Z,"2km NNE of The Geysers, CA",earthquake,1.11,1.65,0.04,3.0,automatic,nc,nc
 2022-03-03T13:08:32.500Z,38.8110008,-122.7921677,3.43,0.34,md,7.0,135.0,0.003895,0.01,nc,nc73700621,2022-03-03T13:17:10.696Z,"5km NW of The Geysers, CA",earthquake,0.54,1.53,,1.0,automatic,nc,nc
 2022-03-03T08:21:09.970Z,35.2576667,-84.4858333,14.76,1.93,md,17.0,93.0,0.0727,0.23,se,se60375157,2022-03-03T13:15:12.680Z,"8 km SSE of Etowah, Tennessee",earthquake,0.69,0.99,0.088,14.0,reviewed,se,se
+2022-03-03T13:32:42.870Z,33.2716675,-116.8103333,14.09,1.52,ml,23.0,47.0,0.05598,0.2,ci,ci40198744,2022-03-03T13:36:21.136Z,"6km NW of Lake Henshaw, CA",earthquake,0.39,1.16,0.602,13.0,automatic,ci,ci
+2022-03-03T02:31:43.850Z,35.4786667,-84.2393333,15.13,1.53,md,7.0,83.0,0.1526,0.04,se,se60375132,2022-03-03T13:33:42.530Z,"12 km ESE of Madisonville, Tennessee",earthquake,0.4,0.83,0.146,6.0,reviewed,se,se
