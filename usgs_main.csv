@@ -633,3 +633,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T22:09:45.760Z,44.6883333,-110.5326667,3.1,0.41,md,7.0,193.0,0.0285,0.16,uu,uu60030039,2022-03-03T16:43:36.900Z,"34 km SSE of Mammoth, Wyoming",earthquake,1.58,3.44,0.283,4.0,reviewed,uu,uu
 2022-03-02T21:01:14.390Z,38.5546667,-112.238,-0.54,1.49,ml,9.0,92.0,0.05473,0.11,uu,uu60483997,2022-03-03T16:44:11.510Z,"8 km SSW of Joseph, Utah",earthquake,0.94,1.57,0.273,4.0,reviewed,uu,uu
 2022-03-02T19:10:21.059Z,34.79783333,-96.66683333,3.24,0.94,ml,26.0,121.0,0.2402528542,0.2,ok,ok2022ehcd,2022-03-03T16:47:45.764Z,"2 km NNE of Ada, Oklahoma",earthquake,,0.9,0.31,4.0,reviewed,ok,ok
+2022-03-03T17:11:15.020Z,35.8023333,-117.6545,29.63,0.62,ml,5.0,202.0,0.04822,0.14,ci,ci40198880,2022-03-03T17:14:44.731Z,"20km N of Ridgecrest, CA",earthquake,3.2,10.58,0.172,6.0,automatic,ci,ci
+2022-03-03T17:07:53.053Z,62.8721,-150.8963,96.4,1.6,ml,,,,0.52,ak,ak0222uthhzy,2022-03-03T17:14:14.392Z,"42 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-03-03T17:02:23.860Z,35.7933333,-117.6095,8.86,1.48,ml,19.0,120.0,0.02439,0.15,ci,ci40198872,2022-03-03T17:13:36.980Z,"19km W of Searles Valley, CA",earthquake,0.28,0.71,0.162,21.0,automatic,ci,ci
+2022-03-03T17:01:20.280Z,38.8216667,-122.7900009,1.15,0.65,md,16.0,46.0,0.01111,0.02,nc,nc73700701,2022-03-03T17:10:11.074Z,"6km NNW of The Geysers, CA",earthquake,0.21,0.39,0.16,3.0,automatic,nc,nc
+2022-03-03T16:57:45.029Z,59.8904,-152.4151,30.0,1.8,ml,,,,1.16,ak,ak0222ut6rl7,2022-03-03T17:10:53.653Z,"35 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-02T23:32:25.500Z,38.5525,-112.2016667,3.99,1.1,ml,7.0,263.0,0.04943,0.08,uu,uu60484052,2022-03-03T17:09:22.900Z,"8 km S of Joseph, Utah",earthquake,1.55,2.43,0.06,2.0,reviewed,uu,uu
+2022-03-02T22:41:49.420Z,39.4246667,-110.3083333,-3.14,1.92,md,7.0,196.0,0.013,0.15,uu,uu60484047,2022-03-03T17:03:11.020Z,"15 km SSE of Sunnyside, Utah",earthquake,0.85,2.16,0.171,6.0,reviewed,uu,uu
