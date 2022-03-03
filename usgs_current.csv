@@ -263,4 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T09:40:25.340Z,33.4161667,-116.3635,12.01,0.77,ml,24,71,0.07009,0.21,ci,ci40197808,2022-03-02T14:23:30.665Z,"18km N of Borrego Springs, CA",earthquake,0.32,0.79,0.097,17,reviewed,ci,ci
 2022-03-02T09:40:08.010Z,34.8271667,-120.3576667,3.85,1.33,ml,21,67,0.06516,0.2,ci,ci40197800,2022-03-02T18:54:00.335Z,"8km ESE of Orcutt, CA",earthquake,0.29,0.8,0.198,9,reviewed,ci,ci
 2022-03-02T09:34:49.101Z,61.9803,-151.0663,85.4,1.6,ml,,,,0.54,ak,ak0222t1cgmh,2022-03-02T09:38:55.103Z,"17 km E of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-03-02T09:28:42.690Z,33.0501667,-115.597,6.04,1.14,ml,25,49,0.01737,0.23,ci,ci40197792,2022-03-02T18:48:26.672Z,"3km ENE of Westmorland, CA",earthquake,0.27,0.46,0.274,12,reviewed,ci,ci
