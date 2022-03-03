@@ -285,18 +285,18 @@ We will be using this CSV (and the URL to this CSV, in particular) for our analy
 This URL can be used to load the CSV data into a JavaScript visualization — using libraries such as D3 or Chart.js. The visualizations will update in real time as the data changes. 
 ```
 
-Next, make a copy of [this notebook](https://github.com/aadittambe/actions-pipeline/blob/main/usgs_analysis.ipynb). This is a Python notebook (created with Google Colab) that allows you to run "chunks" of code, one step at a time. 
-- Go to [this](https://raw.githubusercontent.com/aadittambe/actions-pipeline/main/usgs_analysis.ipynb) URL. This is the "raw" version of the notebook mentioned above.
-- Copy everything to your clipboard.
-- Create a new file in your repository called `usgs_analysis.ipynb`.
-- Paste the text you copied in the file. Save and commit the file.
+Next, make a copy of [this notebook](https://colab.research.google.com/github/aadittambe/actions-pipeline/blob/main/usgs_analysis.ipynb).
 
-```{note}
-To learn more about getting started with Python notebooks using an incredible browser-based notebook called a Jupyter notebook, check out [this](https://www.firstpythonnotebook.org/about/index.html) textbook made for another NICAR class.
-```
+After opening the file, click "File" and then "Save a copy in Drive." This will save the notebook in your Google Drive, so you can edit the code and save the changes.
 
-This is a simple notebook designed to get you started to think about the potential of data analysis. After committing, the notebook should look like this: 
+<img src="./_static/image_22.png" style="width: 75%"/>
 
-<img src="./_static/image_21.png" style="width: 75%"/>
+If you push the "play" button next to a code chunk, that will execute the code. Since it's a notebook, it will return the result of each step right after the code chunk.
 
-This notebook performs some basic filtering operations on our `usgs_main.csv` file, to print out a simple sentence.
+First, we load all the libraries our analysis will require. Then, we load the `usgs_main.csv` file using the `raw` GitHub link. This means every time data updates, we can run this same file and get an updated result.
+
+This notebook runs simple Python code that performs basic summarizing and grouping actions to print two sentences:
+- one that prints the most recent earthquake and the strongest earthquake
+- another that prints the earthquake with the highest magnitude
+
+This notebook can be modified with code to run advanced analysis on the data we scraped, or any other data set using a `raw` GitHub files.
