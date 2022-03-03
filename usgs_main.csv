@@ -609,3 +609,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T05:35:27.730Z,44.4518333,-115.2151667,8.15,2.51,ml,18.0,58.0,0.846,0.29,mb,mb80539489,2022-03-03T15:23:16.590Z,"34 km NW of Stanley, Idaho",earthquake,0.61,1.04,0.172,18.0,reviewed,mb,mb
 2022-03-03T15:35:47.536Z,61.0241,-150.977,1.1,1.6,ml,,,,0.78,ak,ak0222usgmf5,2022-03-03T15:39:03.351Z,"9 km ESE of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-03T15:17:23.030Z,44.3331667,-115.1953333,9.84,2.87,ml,19.0,83.0,0.831,0.24,mb,mb80539539,2022-03-03T15:35:44.010Z,"24 km WNW of Stanley, Idaho",earthquake,0.46,0.96,0.193,21.0,reviewed,mb,mb
+2022-03-03T15:37:29.129Z,59.7867,-153.1778,111.1,1.4,ml,,,,0.27,ak,ak0222ush0qo,2022-03-03T15:42:24.261Z,"52 km E of Pedro Bay, Alaska",earthquake,,4.8,,,automatic,ak,ak
+2022-03-03T14:18:25.220Z,44.2901667,-115.1255,4.8,1.73,ml,8.0,107.0,0.785,0.17,mb,mb80539519,2022-03-03T15:44:11.810Z,"16 km WNW of Stanley, Idaho",earthquake,0.53,1.44,0.204,10.0,reviewed,mb,mb
