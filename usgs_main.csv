@@ -489,3 +489,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T05:53:17.030Z,38.777832,-122.7198334,1.74,0.76,md,10.0,95.0,0.01426,0.02,nc,nc73700351,2022-03-03T05:54:52.163Z,"2km W of Anderson Springs, CA",earthquake,0.86,1.52,0.16,2.0,automatic,nc,nc
 2022-03-03T05:03:21.140Z,38.8171667,-122.8193333,1.25,-0.25,md,21.0,48.0,0.009539,0.03,nc,nc73700331,2022-03-03T05:57:19.991Z,"7km NW of The Geysers, CA",earthquake,0.2,0.43,0.056,2.0,reviewed,nc,nc
 2022-03-03T04:23:19.578Z,53.3748,160.4695,35.0,4.7,mb,,86.0,1.149,0.76,us,us6000h1mk,2022-03-03T05:56:53.040Z,"127 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.1,1.9,0.035,242.0,reviewed,us,us
+2022-03-03T06:03:03.721Z,36.7462,-116.1616,0.9,0.3,ml,10.0,95.13,0.036,0.2679,nn,nn00834829,2022-03-03T06:06:01.975Z,"48 km WNW of Indian Springs, Nevada",earthquake,,2.7,0.18,4.0,automatic,nn,nn
+2022-03-03T06:02:59.540Z,38.8253326,-122.855835,1.93,0.9,md,19.0,96.0,0.002353,0.02,nc,nc73700356,2022-03-03T06:11:10.975Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.42,0.53,3.0,automatic,nc,nc
+2022-03-03T06:01:57.575Z,64.6963,-146.9783,22.4,1.1,ml,,,,1.02,ak,ak0222umwgel,2022-03-03T06:05:38.419Z,"5 km NE of Eielson Air Force Base, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-03T05:29:43.230Z,17.9531666666667,-67.0041666666667,10.37,1.95,md,3.0,215.0,,0.04,pr,pr71338623,2022-03-03T06:14:04.680Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,1.94,0.8,0.0308489373003371,3.0,reviewed,pr,pr
