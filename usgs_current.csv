@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-03T06:46:44.760Z,36.795166,-121.5149994,5.6,1.67,md,16,98,0.0251,0.18,nc,nc73700386,2022-03-03T06:48:21.813Z,"6km SSE of San Juan Bautista, CA",earthquake,0.51,0.76,0.36,10,automatic,nc,nc
+2022-03-03T06:43:09.256Z,63.054,-150.2391,34.4,1.6,ml,,,,0.95,ak,ak0222un5cer,2022-03-03T06:46:52.909Z,"67 km NNE of Petersville, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-03-03T06:14:58.140Z,17.9643333333333,-67.0673333333333,10.73,2.42,md,13,229,,0.14,pr,pr71338633,2022-03-03T06:25:46.600Z,"2 km WSW of La Parguera, Puerto Rico",earthquake,0.53,0.33,0.101664065507261,5,reviewed,pr,pr
 2022-03-03T06:03:03.721Z,36.7462,-116.1616,0.9,0.3,ml,10,95.13,0.036,0.2679,nn,nn00834829,2022-03-03T06:06:01.975Z,"48 km WNW of Indian Springs, Nevada",earthquake,,2.7,0.18,4,automatic,nn,nn
 2022-03-03T06:02:59.540Z,38.8253326,-122.855835,1.93,0.9,md,19,96,0.002353,0.02,nc,nc73700356,2022-03-03T06:11:10.975Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.42,0.53,3,automatic,nc,nc
-2022-03-03T06:01:57.575Z,64.6963,-146.9783,22.4,1.1,ml,,,,1.02,ak,ak0222umwgel,2022-03-03T06:05:38.419Z,"5 km NE of Eielson Air Force Base, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-03T06:01:57.575Z,64.6963,-146.9783,22.4,1.1,ml,,,,1.02,ak,ak0222umwgel,2022-03-03T06:46:52.761Z,"5 km NE of Eielson Air Force Base, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-03T05:54:20.880Z,19.2271671295166,-155.428665161133,31.4599990844727,2.25,ml,44,126,,0.119999997,hv,hv72935792,2022-03-03T06:00:15.046Z,"5 km ENE of Pāhala, Hawaii",earthquake,0.52,0.839999974,0.45,4,automatic,hv,hv
-2022-03-03T05:53:17.030Z,38.777832,-122.7198334,1.74,0.76,md,10,95,0.01426,0.02,nc,nc73700351,2022-03-03T06:02:09.919Z,"2km W of Anderson Springs, CA",earthquake,0.86,1.52,0.16,2,automatic,nc,nc
+2022-03-03T05:53:17.030Z,38.777832,-122.7198334,1.74,0.76,md,10,95,0.01426,0.02,nc,nc73700351,2022-03-03T06:40:16.161Z,"2km W of Anderson Springs, CA",earthquake,0.86,1.52,0.16,2,automatic,nc,nc
 2022-03-03T05:43:30.833Z,38.5477,-119.5209,4.5,1.1,ml,8,170.81,0.038,0.1135,nn,nn00834828,2022-03-03T05:47:05.237Z,"2 km SSW of Coleville, California",earthquake,,0.8,0.19,4,automatic,nn,nn
 2022-03-03T05:40:56.210Z,19.2116661071777,-155.472839355469,31.7199993133545,1.99000001,md,36,92,,0.180000007,hv,hv72935772,2022-03-03T05:44:04.150Z,"1 km NNE of Pāhala, Hawaii",earthquake,0.71,1.01999998,0.779999971,12,automatic,hv,hv
 2022-03-03T05:29:43.230Z,17.9531666666667,-67.0041666666667,10.37,1.95,md,3,215,,0.04,pr,pr71338623,2022-03-03T06:14:04.680Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,1.94,0.8,0.0308489373003371,3,reviewed,pr,pr
@@ -77,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T22:35:37.670Z,38.7919998,-122.7815018,3.2,0.84,md,15,92,0.00515,0.02,nc,nc73700201,2022-03-02T23:17:27.421Z,"3km NW of The Geysers, CA",earthquake,0.42,0.66,0.48,3,automatic,nc,nc
 2022-03-02T22:21:17.230Z,38.8205,-122.7865,1.89,0.5,md,14,81,0.008539,0.02,nc,nc73700196,2022-03-03T05:01:11.584Z,"6km NNW of The Geysers, CA",earthquake,0.31,0.5,,1,reviewed,nc,nc
 2022-03-02T22:18:25.330Z,49.391,-120.51533333333333,-0.37,2.08,ml,9,186,0.5859,0.28,uw,uw61819871,2022-03-03T04:28:35.350Z,"7 km S of Princeton, Canada",explosion,1.95,31.61,0.3050014420614158,3,reviewed,uw,uw
-2022-03-02T22:17:47.790Z,38.8381667,-122.8235,1.24,1.47,md,45,63,0.009371,0.03,nc,nc73700191,2022-03-03T06:27:11.074Z,"9km WNW of Cobb, CA",earthquake,0.11,0.2,0.156,12,reviewed,nc,nc
+2022-03-02T22:17:47.790Z,38.8381667,-122.8235,1.24,1.47,md,45,63,0.009371,0.03,nc,nc73700191,2022-03-03T06:40:17.161Z,"9km WNW of Cobb, CA",earthquake,0.11,0.2,0.156,12,reviewed,nc,nc
 2022-03-02T22:16:22.530Z,38.7985,-122.7758333,1.96,-0.1,md,16,77,0.01084,0.04,nc,nc73700176,2022-03-03T00:15:16.789Z,"3km NW of The Geysers, CA",earthquake,0.18,0.3,0.082,2,reviewed,nc,nc
 2022-03-02T22:12:15.935Z,61.2805,-149.4928,28.5,1.5,ml,,,,0.72,ak,ak0222t8yb95,2022-03-02T22:31:33.313Z,"6 km SE of Eagle River, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-03-02T22:07:30.636Z,62.0638,-151.39,72.6,2.3,ml,,,,0.82,ak,ak0222t8x9sp,2022-03-02T22:19:11.683Z,"8 km N of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -273,9 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T07:00:16.920Z,44.283,-110.457,4.86,0.66,md,7,202,0.05431,0.09,uu,uu60483857,2022-03-02T17:39:01.340Z,"66 km SE of West Yellowstone, Montana",earthquake,0.76,0.9,0.286,7,reviewed,uu,uu
 2022-03-02T06:55:25.310Z,44.2835,-110.4571667,4.28,1.69,md,10,201,0.05438,0.08,uu,uu60483852,2022-03-02T17:36:56.490Z,"66 km SE of West Yellowstone, Montana",earthquake,0.49,0.63,0.103,9,reviewed,uu,uu
 2022-03-02T06:55:12.910Z,38.7906685,-122.8034973,3.36,0.74,md,22,68,0.002363,0.03,nc,nc73699816,2022-03-02T07:19:14.764Z,"4km WNW of The Geysers, CA",earthquake,0.28,0.63,0.11,4,automatic,nc,nc
-2022-03-02T06:46:20.610Z,33.384,-116.3813333,12.86,0.42,ml,20,75,0.05834,0.15,ci,ci40197728,2022-03-02T17:50:42.180Z,"14km N of Borrego Springs, CA",earthquake,0.29,0.69,0.152,9,reviewed,ci,ci
-2022-03-02T06:43:35.520Z,38.7898333,-122.8035,2.93,1.33,md,44,74,0.001542,0.05,nc,nc73699811,2022-03-02T20:38:11.484Z,"4km WNW of The Geysers, CA",earthquake,0.17,0.3,0.059,11,reviewed,nc,nc
-2022-03-02T06:41:43.319Z,59.7735,-153.0819,102.9,1.3,ml,,,,0.81,ak,ak0222szlndy,2022-03-02T06:47:06.391Z,"57 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-03-02T06:41:42.043Z,60.5127,-147.4098,17.7,1.4,ml,,,,1.03,ak,ak0222szlnbr,2022-03-02T06:51:57.289Z,"55 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-02T06:40:39.926Z,-3.3074,139.0356,70.09,4.9,mb,,123,6.787,0.48,us,us6000h1c7,2022-03-02T10:06:29.040Z,"194 km WSW of Abepura, Indonesia",earthquake,11.4,6.9,0.06,88,reviewed,us,us
-2022-03-02T06:40:14.047Z,60.5265,-147.3978,19.8,1.9,ml,,,,0.76,ak,ak0222szldh1,2022-03-02T06:49:46.927Z,"54 km SW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
