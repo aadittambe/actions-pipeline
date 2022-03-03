@@ -741,3 +741,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T23:40:59.484Z,63.0847,-150.7857,120.3,2.2,ml,,,,0.32,ak,ak0222ux96s5,2022-03-03T23:44:33.810Z,"65 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-03T20:18:58.280Z,38.822,-122.8533333,2.69,0.22,md,24.0,65.0,0.006189,0.02,nc,nc73700731,2022-03-03T23:42:40.787Z,"10km WNW of The Geysers, CA",earthquake,0.16,0.26,0.375,3.0,reviewed,nc,nc
 2022-03-03T11:18:35.000Z,51.9311666666667,-177.101333333333,5.24,0.31,ml,5.0,263.0,,0.12,av,av91050888,2022-03-03T23:45:28.510Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.64,0.69,0.361442038341001,5.0,reviewed,av,av
+2022-03-03T13:56:19.480Z,61.0241666666667,-152.3905,9.15,0.01,ml,5.0,184.0,,0.08,av,av91050893,2022-03-03T23:50:26.160Z,"67 km W of Tyonek, Alaska",earthquake,0.75,2.4,0.174746497545777,5.0,reviewed,av,av
