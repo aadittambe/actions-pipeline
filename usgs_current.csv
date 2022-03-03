@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-03T20:50:38.150Z,38.8325005,-122.8191681,1.37,0.85,md,12,62,0.01154,0.01,nc,nc73700756,2022-03-03T20:52:12.994Z,"8km NW of The Geysers, CA",earthquake,0.25,0.96,,1,automatic,nc,nc
+2022-03-03T20:50:38.150Z,38.8325005,-122.8191681,1.37,0.85,md,12,62,0.01154,0.01,nc,nc73700756,2022-03-03T20:59:11.586Z,"8km NW of The Geysers, CA",earthquake,0.25,0.96,,1,automatic,nc,nc
 2022-03-03T20:41:11.960Z,38.8258324,-122.8008347,2.81,0.68,md,17,66,0.007616,0.01,nc,nc73700751,2022-03-03T20:49:10.532Z,"7km NW of The Geysers, CA",earthquake,0.28,0.66,0.18,2,automatic,nc,nc
 2022-03-03T20:26:17.510Z,36.1301667,-118.0666667,2.51,1.72,ml,17,80,0.1719,0.18,ci,ci40199056,2022-03-03T20:29:50.808Z,"14km NW of Coso Junction, CA",earthquake,0.29,1.21,0.183,24,automatic,ci,ci
 2022-03-03T20:21:19.360Z,33.8496667,-117.4926667,1.7,1.41,ml,30,51,0.05106,0.23,ci,ci40199048,2022-03-03T20:24:59.107Z,"4km SE of Home Gardens, CA",quarry blast,0.33,0.46,0.19,33,automatic,ci,ci
@@ -72,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T13:03:50.020Z,38.7830009,-122.7610016,-0.89,0.36,md,7,136,0.01281,0.06,nc,nc73700616,2022-03-03T13:41:16.852Z,"1km NNW of The Geysers, CA",earthquake,0.33,2.63,,1,automatic,nc,nc
 2022-03-03T12:54:56.100Z,37.8433333,-112.8505,5.96,1.14,md,6,228,0.2862,0.12,uu,uu60484127,2022-03-03T18:12:26.230Z,"1 km W of Parowan, Utah",earthquake,1.26,31.61,0.207,5,reviewed,uu,uu
 2022-03-03T12:50:34.130Z,38.7938347,-122.7815018,-0.41,0.99,md,9,102,0.005057,0.03,nc,nc73700611,2022-03-03T12:59:12.577Z,"3km NW of The Geysers, CA",earthquake,0.23,0.69,0.43,2,automatic,nc,nc
-2022-03-03T12:50:14.340Z,38.7741667,-122.8816667,1.83,0.3,md,20,202,0.02801,0.04,nc,nc73700606,2022-03-03T20:06:15.274Z,"11km W of The Geysers, CA",earthquake,0.42,0.49,0.056,4,reviewed,nc,nc
+2022-03-03T12:50:14.340Z,38.7741667,-122.8816667,1.83,0.3,md,20,202,0.02801,0.04,nc,nc73700606,2022-03-03T20:55:10.563Z,"11km W of The Geysers, CA",earthquake,0.42,0.49,0.056,4,reviewed,nc,nc
 2022-03-03T12:44:00.920Z,33.9831667,-116.7093333,17.04,0.63,ml,27,68,0.07516,0.1,ci,ci40198728,2022-03-03T18:58:35.004Z,"10km NE of Cabazon, CA",earthquake,0.17,0.37,0.075,11,reviewed,ci,ci
 2022-03-03T12:37:20.963Z,63.5866,-150.7299,12.4,1.1,ml,,,,0.97,ak,ak0222uqoowi,2022-03-03T19:03:06.411Z,"49 km E of Denali National Park, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-03-03T12:34:06.280Z,19.201000213623,-155.431167602539,34,1.87,md,32,146,,0.0900000036,hv,hv72936102,2022-03-03T12:37:11.080Z,"4 km E of Pāhala, Hawaii",earthquake,0.77,0.920000017,0.270000011,5,automatic,hv,hv
@@ -109,7 +109,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T11:20:41.620Z,37.596,-118.8883333,1.22,0.14,md,7,210,0.02677,0.03,nc,nc73700476,2022-03-03T18:56:13.778Z,"9km ESE of Mammoth Lakes, CA",earthquake,0.69,1.37,0.313,6,reviewed,nc,nc
 2022-03-03T11:19:46.340Z,39.4328333,-123.0998333,4.19,1.04,md,9,133,0.06309,0.16,nc,nc71127314,2022-03-03T20:22:10.363Z,"12km WNW of Lake Pillsbury, CA",earthquake,0.56,1.25,0.539,6,reviewed,nc,nc
 2022-03-03T11:19:30.970Z,38.8273333,-122.8148333,2.73,-0.17,md,10,207,0.005412,0.02,nc,nc71127309,2022-03-03T20:11:23.452Z,"8km NW of The Geysers, CA",earthquake,0.59,0.71,,1,reviewed,nc,nc
-2022-03-03T11:19:19.240Z,39.4076667,-122.8928333,5.22,1.72,md,22,49,0.1854,0.12,nc,nc73700471,2022-03-03T20:48:14.529Z,"6km E of Lake Pillsbury, CA",earthquake,0.35,1.3,0.165,21,reviewed,nc,nc
+2022-03-03T11:19:19.240Z,39.4076667,-122.8928333,5.22,1.72,md,22,49,0.1854,0.12,nc,nc73700471,2022-03-03T20:59:20.587Z,"6km E of Lake Pillsbury, CA",earthquake,0.35,1.3,0.165,21,reviewed,nc,nc
+2022-03-03T11:15:29.670Z,36.9376,-115.9457,3.8,-0.1,ml,4,247.41,0.019,0.0965,nn,nn00834870,2022-03-03T20:56:05.536Z,"47 km NNW of Indian Springs, Nevada",earthquake,,5.4,0.07,3,reviewed,nn,nn
 2022-03-03T11:12:33.880Z,38.8338318,-122.807663,2.14,0.85,md,11,60,0.01059,0.01,nc,nc73700466,2022-03-03T12:38:11.440Z,"7km W of Cobb, CA",earthquake,0.36,0.82,,1,automatic,nc,nc
 2022-03-03T11:10:24.020Z,40.734,-112.0481667,6.55,0.42,md,9,100,0.0117,0.07,uu,uu60484117,2022-03-03T18:06:11.890Z,"5 km ENE of Magna, Utah",earthquake,0.39,1.3,0.133,5,reviewed,uu,uu
 2022-03-03T11:06:53.880Z,33.653,-116.721,12.54,0.35,ml,13,92,0.05829,0.06,ci,ci40198680,2022-03-03T14:15:03.840Z,"10km S of Idyllwild, CA",earthquake,0.26,0.42,0.162,9,reviewed,ci,ci
@@ -277,4 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T21:47:52.177Z,62.7173,-152.0004,14.9,1,ml,,,,0.85,ak,ak0222t8kggc,2022-03-02T23:12:17.586Z,"Central Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-03-02T21:34:27.790Z,44.665,-110.4613333,6.58,1.99,ml,17,97,0.05963,0.21,uu,uu60484002,2022-03-02T22:11:59.460Z,"39 km SSE of Mammoth, Wyoming",earthquake,0.58,1.15,0.483,3,reviewed,uu,uu
 2022-03-02T21:26:10.670Z,38.764,-122.725,1.95,1.49,md,49,39,0.002406,0.05,nc,nc73700166,2022-03-03T07:06:15.341Z,"3km ESE of The Geysers, CA",earthquake,0.12,0.19,0.109,14,reviewed,nc,nc
-2022-03-02T21:01:14.390Z,38.5546667,-112.238,-0.54,1.49,ml,9,92,0.05473,0.11,uu,uu60483997,2022-03-03T16:44:11.510Z,"8 km SSW of Joseph, Utah",earthquake,0.94,1.57,0.273,4,reviewed,uu,uu
