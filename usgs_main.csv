@@ -598,3 +598,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T13:25:53.590Z,44.289,-110.4488333,4.44,1.56,ml,14.0,98.0,0.06201,0.1,uu,uu60484142,2022-03-03T14:52:40.380Z,"66 km SE of West Yellowstone, Montana",earthquake,0.34,0.51,0.273,2.0,reviewed,uu,uu
 2022-03-02T21:52:27.079Z,36.48283333,-98.73283333,8.87,1.33,ml,25.0,54.0,0.008998234239,0.13,ok,ok2022ehhm,2022-03-03T14:51:00.899Z,"17 km SE of Waynoka, Oklahoma",earthquake,,0.4,0.26,4.0,reviewed,ok,ok
 2022-03-03T06:19:56.960Z,34.99483333,-97.582,5.85,1.13,ml,58.0,43.0,0.08008428473,0.41,ok,ok2022ehyf,2022-03-03T14:55:07.072Z,"6 km SE of Dibble, Oklahoma",earthquake,,0.8,0.2,17.0,reviewed,ok,ok
+2022-03-03T15:10:14.690Z,63.2215,-150.4668,115.6,1.7,ml,,,,0.4,ak,ak0222usb703,2022-03-03T15:13:10.313Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2022-03-03T14:40:33.367Z,18.1716,-95.4314,111.4,5.7,mww,,87.0,3.046,1.21,us,us6000h1qa,2022-03-03T15:12:46.029Z,"12 km WNW of Nopalapan, Mexico",earthquake,8.2,4.7,0.057,30.0,reviewed,us,us
+2022-03-03T07:18:21.280Z,36.28966667,-97.51333333,8.01,1.23,ml,82.0,27.0,0.06928640364,0.22,ok,ok2022eiad,2022-03-03T15:00:41.344Z,"5 km WNW of Lucien, Oklahoma",earthquake,,1.1,0.21,30.0,reviewed,ok,ok
+2022-03-03T03:01:58.782Z,31.99610752,-103.8497775,8.085375977,2.8,ml,25.0,48.0,0.07026951548,0.2,tx,tx2022ehrs,2022-03-03T15:09:58.872Z,"32 km SE of Malaga, New Mexico",earthquake,1.031276873,1.316309726,0.1,14.0,reviewed,tx,tx
+2022-03-02T23:16:15.289Z,36.454,-98.76516667,8.95,0.65,ml,12.0,121.0,0.02879434957,0.04,ok,ok2022ehkg,2022-03-03T14:58:17.930Z,"17 km SE of Waynoka, Oklahoma",earthquake,,0.2,0.27,3.0,reviewed,ok,ok
