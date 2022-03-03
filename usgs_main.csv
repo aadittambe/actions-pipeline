@@ -583,3 +583,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T13:32:42.870Z,33.2716675,-116.8103333,14.09,1.52,ml,23.0,47.0,0.05598,0.2,ci,ci40198744,2022-03-03T13:36:21.136Z,"6km NW of Lake Henshaw, CA",earthquake,0.39,1.16,0.602,13.0,automatic,ci,ci
 2022-03-03T02:31:43.850Z,35.4786667,-84.2393333,15.13,1.53,md,7.0,83.0,0.1526,0.04,se,se60375132,2022-03-03T13:33:42.530Z,"12 km ESE of Madisonville, Tennessee",earthquake,0.4,0.83,0.146,6.0,reviewed,se,se
 2022-03-03T13:43:59.280Z,38.7868347,-122.7626648,0.88,1.17,md,18.0,79.0,0.01396,0.03,nc,nc73700636,2022-03-03T13:45:36.690Z,"1km NNW of The Geysers, CA",earthquake,0.23,0.46,0.2,5.0,automatic,nc,nc
+2022-03-03T13:49:13.840Z,38.8424988,-122.8413315,2.03,0.87,md,17.0,137.0,0.006006,0.02,nc,nc73700641,2022-03-03T13:50:48.078Z,"10km NW of The Geysers, CA",earthquake,0.28,0.44,0.03,4.0,automatic,nc,nc
+2022-03-03T13:29:52.334Z,-30.1834,-177.8542,10.0,5.4,mb,,157.0,0.92,1.17,us,us6000h1q0,2022-03-03T13:50:19.572Z,"Kermadec Islands, New Zealand",earthquake,8.8,1.9,0.084,48.0,reviewed,us,us
