@@ -611,3 +611,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T15:17:23.030Z,44.3331667,-115.1953333,9.84,2.87,ml,19.0,83.0,0.831,0.24,mb,mb80539539,2022-03-03T15:35:44.010Z,"24 km WNW of Stanley, Idaho",earthquake,0.46,0.96,0.193,21.0,reviewed,mb,mb
 2022-03-03T15:37:29.129Z,59.7867,-153.1778,111.1,1.4,ml,,,,0.27,ak,ak0222ush0qo,2022-03-03T15:42:24.261Z,"52 km E of Pedro Bay, Alaska",earthquake,,4.8,,,automatic,ak,ak
 2022-03-03T14:18:25.220Z,44.2901667,-115.1255,4.8,1.73,ml,8.0,107.0,0.785,0.17,mb,mb80539519,2022-03-03T15:44:11.810Z,"16 km WNW of Stanley, Idaho",earthquake,0.53,1.44,0.204,10.0,reviewed,mb,mb
+2022-03-02T23:17:35.880Z,33.0633333,-115.0023333,-0.2,1.59,ml,11.0,84.0,0.09312,0.23,ci,ci40198368,2022-03-03T15:54:34.191Z,"45km NE of Holtville, CA",quarry blast,0.69,31.61,0.116,5.0,reviewed,ci,ci
