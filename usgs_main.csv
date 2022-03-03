@@ -675,3 +675,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T14:28:45.076Z,62.0445,-151.7744,87.8,1.2,ml,,,,0.19,ak,ak0222urtnvc,2022-03-03T19:27:59.364Z,"20 km WNW of Skwentna, Alaska",earthquake,,1.0,,,reviewed,ak,ak
 2022-03-03T07:04:09.270Z,53.8133333333333,-166.759833333333,15.29,-0.36,ml,5.0,177.0,,0.07,av,av91050848,2022-03-03T19:29:58.310Z,"16 km WSW of Unalaska, Alaska",earthquake,0.53,0.82,0.235485801850461,4.0,reviewed,av,av
 2022-03-03T19:17:47.778Z,-17.0199,-70.1823,164.99,5.1,mww,,120.0,0.878,1.63,us,us6000h1v2,2022-03-03T19:34:10.040Z,"23 km NE of Pujocucho, Peru",earthquake,7.4,5.5,0.078,16.0,reviewed,us,us
+2022-03-03T15:24:06.100Z,44.285,-110.4501667,4.3,1.12,md,11.0,187.0,0.05961,0.07,uu,uu60484167,2022-03-03T19:47:51.790Z,"66 km SE of West Yellowstone, Montana",earthquake,0.39,0.43,0.159,10.0,reviewed,uu,uu
+2022-03-03T13:18:00.080Z,44.287,-110.448,4.53,1.19,md,12.0,186.0,0.06178,0.11,uu,uu60484137,2022-03-03T19:50:28.120Z,"66 km SE of West Yellowstone, Montana",earthquake,0.54,0.6,0.12,10.0,reviewed,uu,uu
+2022-03-03T12:50:14.340Z,38.7741667,-122.8816667,1.83,0.3,md,20.0,202.0,0.02801,0.04,nc,nc73700606,2022-03-03T19:51:21.387Z,"11km W of The Geysers, CA",earthquake,0.42,0.49,0.056,4.0,reviewed,nc,nc
