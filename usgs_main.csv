@@ -607,3 +607,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T14:41:35.634Z,52.3599,-168.1827,35.0,3.3,ml,,214.0,0.737,1.08,us,us6000h1qg,2022-03-03T15:27:13.040Z,"79 km SE of Nikolski, Alaska",earthquake,3.9,2.0,0.091,16.0,reviewed,us,us
 2022-03-03T14:13:13.122Z,36.1421,70.5643,83.78,4.9,mb,,68.0,0.981,0.79,us,us6000h1q6,2022-03-03T15:19:49.040Z,"79 km SE of Farkhār, Afghanistan",earthquake,6.5,6.1,0.051,118.0,reviewed,us,us
 2022-03-03T05:35:27.730Z,44.4518333,-115.2151667,8.15,2.51,ml,18.0,58.0,0.846,0.29,mb,mb80539489,2022-03-03T15:23:16.590Z,"34 km NW of Stanley, Idaho",earthquake,0.61,1.04,0.172,18.0,reviewed,mb,mb
+2022-03-03T15:35:47.536Z,61.0241,-150.977,1.1,1.6,ml,,,,0.78,ak,ak0222usgmf5,2022-03-03T15:39:03.351Z,"9 km ESE of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-03T15:17:23.030Z,44.3331667,-115.1953333,9.84,2.87,ml,19.0,83.0,0.831,0.24,mb,mb80539539,2022-03-03T15:35:44.010Z,"24 km WNW of Stanley, Idaho",earthquake,0.46,0.96,0.193,21.0,reviewed,mb,mb
