@@ -687,3 +687,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T11:19:19.240Z,39.4076667,-122.8928333,5.22,1.72,md,22.0,49.0,0.1854,0.12,nc,nc73700471,2022-03-03T20:09:23.073Z,"6km E of Lake Pillsbury, CA",earthquake,0.35,1.3,0.165,21.0,reviewed,nc,nc
 2022-03-03T08:44:20.520Z,51.9198333333333,178.242,2.94,2.98,ml,11.0,305.0,,0.16,av,av91503491,2022-03-03T20:10:24.450Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.32,0.34,0.256125123987654,10.0,reviewed,av,av
 2022-03-03T06:20:25.430Z,39.1585,-123.5931667,4.2,1.49,md,16.0,77.0,0.05333,0.1,nc,nc73700371,2022-03-03T20:02:10.248Z,"15km ESE of Navarro Head, CA",earthquake,0.23,0.64,0.328,17.0,reviewed,nc,nc
+2022-03-03T20:21:19.360Z,33.8496667,-117.4926667,1.7,1.41,ml,30.0,51.0,0.05106,0.23,ci,ci40199048,2022-03-03T20:24:59.107Z,"4km SE of Home Gardens, CA",quarry blast,0.33,0.46,0.19,33.0,automatic,ci,ci
+2022-03-03T20:19:03.630Z,38.8218346,-122.8538361,2.52,0.94,md,20.0,65.0,0.006176,0.02,nc,nc73700736,2022-03-03T20:27:11.398Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.46,0.06,3.0,automatic,nc,nc
+2022-03-03T20:13:41.797Z,60.0729,-153.0629,0.0,1.1,ml,,,,0.66,ak,ak0222uvb28z,2022-03-03T20:16:34.608Z,"66 km ENE of Pedro Bay, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2022-03-03T17:19:36.570Z,36.7085,-121.3545,3.08,1.09,md,12.0,151.0,0.006504,0.06,nc,nc73700706,2022-03-03T20:23:24.951Z,"10km SSW of Tres Pinos, CA",earthquake,0.59,0.46,0.159,10.0,reviewed,nc,nc
+2022-03-03T11:19:46.340Z,39.4328333,-123.0998333,4.19,1.04,md,9.0,133.0,0.06309,0.16,nc,nc71127314,2022-03-03T20:22:10.363Z,"12km WNW of Lake Pillsbury, CA",earthquake,0.56,1.25,0.539,6.0,reviewed,nc,nc
