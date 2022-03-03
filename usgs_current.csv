@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-03T10:40:39.440Z,37.2393341,-118.3000031,10.97,2.21,md,20,142,0.0161,0.04,nc,nc73700451,2022-03-03T10:42:16.314Z,"8km N of Big Pine, CA",earthquake,0.76,0.75,0.31,17,automatic,nc,nc
+2022-03-03T10:40:39.440Z,37.2393341,-118.3000031,10.97,2.21,md,20,142,0.0161,0.04,nc,nc73700451,2022-03-03T10:49:14.719Z,"8km N of Big Pine, CA",earthquake,0.76,0.75,0.31,17,automatic,nc,nc
 2022-03-03T10:40:24.717Z,61.1725,-140.3718,14.7,1.1,ml,,,,0.5,ak,ak0222upih7r,2022-03-03T10:43:29.405Z,"139 km ESE of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-03-03T10:33:00.940Z,38.8171654,-122.8201675,2.64,0.82,md,21,49,0.01004,0.02,nc,nc73700446,2022-03-03T10:41:11.668Z,"7km NW of The Geysers, CA",earthquake,0.22,0.51,0.28,3,automatic,nc,nc
+2022-03-03T10:33:00.940Z,38.8171654,-122.8201675,2.64,0.82,md,21,49,0.01004,0.02,nc,nc73700446,2022-03-03T10:49:13.720Z,"7km NW of The Geysers, CA",earthquake,0.22,0.51,0.28,3,automatic,nc,nc
 2022-03-03T10:14:40.890Z,37.3611679,-121.3503342,1.99,1.49,md,10,118,0.05861,0.13,nc,nc73700441,2022-03-03T10:29:16.768Z,"23km WSW of Patterson, CA",earthquake,0.62,4.91,0.12,8,automatic,nc,nc
 2022-03-03T10:09:28.464Z,59.0857,-152.5266,56.8,2.3,ml,,,,0.56,ak,ak0222upbub0,2022-03-03T10:43:29.264Z,"45 km SW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-03-03T09:59:41.750Z,34.0433333,-116.8758333,13.16,1.04,ml,35,43,0.0571,0.22,ci,ci40198648,2022-03-03T10:03:19.855Z,"13km N of Banning, CA",earthquake,0.3,0.69,0.126,27,automatic,ci,ci
@@ -251,4 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-02T11:07:57.520Z,19.2049999237061,-155.389495849609,36.2000007629395,1.75,md,23,201,,0.129999995,hv,hv72934787,2022-03-02T11:11:06.120Z,"9 km E of Pāhala, Hawaii",earthquake,0.95,1.35000002,1.75,6,automatic,hv,hv
 2022-03-02T11:07:20.010Z,35.4896667,-120.7951667,6.98,1.4,md,36,61,0.08235,0.08,nc,nc73699896,2022-03-02T23:07:18.352Z,"10km ENE of Cayucos, CA",earthquake,0.16,0.42,0.217,22,reviewed,nc,nc
 2022-03-02T11:00:21.062Z,36.6118,-116.0549,7.4,-0.1,ml,7,282.22,0.091,0.0527,nn,nn00834790,2022-03-02T22:20:14.822Z,"34 km W of Indian Springs, Nevada",earthquake,,5.9,0.14,2,reviewed,nn,nn
-2022-03-02T10:47:27.119Z,38.5138,-119.5242,7.2,1.2,ml,17,129.13,0.068,0.1443,nn,nn00834746,2022-03-02T17:19:47.372Z,"4 km W of Walker, California",earthquake,,1.1,0.03,3,reviewed,nn,nn
