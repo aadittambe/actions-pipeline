@@ -553,3 +553,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T11:49:23.520Z,33.8296667,-116.7431667,11.83,0.58,ml,20.0,82.0,0.04529,0.17,ci,ci40198688,2022-03-03T11:52:58.555Z,"10km NNW of Idyllwild, CA",earthquake,0.38,0.78,0.218,12.0,automatic,ci,ci
 2022-03-03T11:47:47.500Z,38.8153343,-122.7874985,0.11,1.16,md,9.0,77.0,0.005712,0.02,nc,nc73700546,2022-03-03T11:49:23.066Z,"5km NNW of The Geysers, CA",earthquake,0.43,1.15,,1.0,automatic,nc,nc
 2022-03-03T11:30:26.566Z,12.3391,-87.7538,51.82,4.9,mb,,133.0,0.799,0.82,us,us6000h1pf,2022-03-03T11:50:32.901Z,"55 km SW of Jiquilillo, Nicaragua",earthquake,6.6,7.5,0.037,228.0,reviewed,us,us
+2022-03-03T11:57:40.550Z,34.4524994,-119.8508301,5.82,1.87,ml,23.0,85.0,0.03997,0.2,ci,ci40198696,2022-03-03T11:59:49.750Z,"3km NW of Goleta, CA",earthquake,0.47,1.26,0.173,16.0,automatic,ci,ci
+2022-03-03T11:53:50.680Z,38.7910004,-122.7653351,-0.1,0.85,md,12.0,70.0,0.01057,0.06,nc,nc73700571,2022-03-03T11:55:28.273Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.65,0.02,4.0,automatic,nc,nc
