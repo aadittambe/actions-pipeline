@@ -524,3 +524,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T08:21:10.039Z,41.4672,-126.3114,10.74,2.7,ml,,263.0,1.806,0.45,us,us6000h1nv,2022-03-03T09:23:55.040Z,"178 km W of Crescent City, California",earthquake,8.1,10.1,0.043,72.0,reviewed,us,us
 2022-03-03T09:30:24.134Z,-27.3809,-67.5252,134.04,4.8,mb,,35.0,1.529,0.76,us,us6000h1p4,2022-03-03T09:46:21.040Z,"33 km NNE of Fiambalá, Argentina",earthquake,8.3,7.6,0.073,57.0,reviewed,us,us
 2022-03-02T13:19:55.031Z,54.5319,-163.4395,10.0,2.6,ml,,170.0,0.325,0.94,us,us6000h1lc,2022-03-03T09:46:39.040Z,"Unimak Island region, Alaska",earthquake,1.9,2.0,0.101,13.0,reviewed,us,us
+2022-03-03T09:49:33.800Z,33.1461667,-115.6146667,6.56,1.44,ml,21.0,95.0,0.03745,0.19,ci,ci40198640,2022-03-03T09:53:10.796Z,"10km WNW of Calipatria, CA",earthquake,0.35,0.73,0.187,22.0,automatic,ci,ci

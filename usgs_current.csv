@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-03T09:49:33.800Z,33.1461667,-115.6146667,6.56,1.44,ml,21,95,0.03745,0.19,ci,ci40198640,2022-03-03T09:53:10.796Z,"10km WNW of Calipatria, CA",earthquake,0.35,0.73,0.187,22,automatic,ci,ci
 2022-03-03T09:30:24.134Z,-27.3809,-67.5252,134.04,4.8,mb,,35,1.529,0.76,us,us6000h1p4,2022-03-03T09:46:21.040Z,"33 km NNE of Fiambalá, Argentina",earthquake,8.3,7.6,0.073,57,reviewed,us,us
 2022-03-03T08:52:27.820Z,35.8703333,-117.6743333,4.31,1.1,ml,20,89,0.07981,0.18,ci,ci40198632,2022-03-03T08:56:05.287Z,"22km ESE of Little Lake, CA",earthquake,0.29,0.64,0.206,12,automatic,ci,ci
 2022-03-03T08:51:32.230Z,36.4831657,-121.0449982,9.51,1.16,md,9,158,0.02973,0.07,nc,nc73700426,2022-03-03T09:08:13.126Z,"10km ESE of Pinnacles, CA",earthquake,0.73,1.02,0.24,6,automatic,nc,nc
