@@ -925,3 +925,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T01:08:13.630Z,35.9085,-117.695,4.77,0.54,ml,12.0,69.0,0.05345,0.07,ci,ci40199200,2022-03-04T16:31:37.130Z,"19km E of Little Lake, CA",earthquake,0.14,0.29,0.129,5.0,reviewed,ci,ci
 2022-03-03T22:56:10.790Z,43.5121667,-110.7421667,-0.24,0.95,ml,8.0,145.0,0.053,0.13,mb,mb80539589,2022-03-04T16:27:45.180Z,"3 km NNE of Jackson, Wyoming",earthquake,0.56,1.1,0.389,6.0,reviewed,mb,mb
 2022-03-03T22:56:05.940Z,44.2651667,-114.676,6.0,1.75,ml,7.0,114.0,0.472,0.17,mb,mb80539629,2022-03-04T16:34:34.950Z,"21 km ENE of Stanley, Idaho",earthquake,0.48,9.73,0.285,8.0,reviewed,mb,mb
+2022-03-04T16:53:37.704Z,62.6056,-149.8797,0.0,2.6,ml,,,,0.9,ak,ak0222wgp8lk,2022-03-04T16:56:48.838Z,"20 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-04T16:42:14.840Z,34.1285,-117.4563333,6.43,1.25,ml,27.0,103.0,0.06828,0.22,ci,ci40199568,2022-03-04T16:46:01.266Z,"3km N of Fontana, CA",earthquake,0.48,1.16,0.217,32.0,automatic,ci,ci
+2022-03-04T12:54:07.350Z,33.4153333,-116.4175,13.96,0.66,ml,22.0,75.0,0.1046,0.12,ci,ci40199432,2022-03-04T16:47:09.589Z,"18km NNW of Borrego Springs, CA",earthquake,0.2,0.6,0.123,8.0,reviewed,ci,ci
