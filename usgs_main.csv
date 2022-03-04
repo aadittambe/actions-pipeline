@@ -817,3 +817,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T05:30:34.170Z,37.8758316,-122.25383,9.06,1.06,md,14.0,73.0,0.004256,0.02,nc,nc73700931,2022-03-04T05:32:09.092Z,"2km ENE of Berkeley, CA",earthquake,0.29,0.56,0.09,7.0,automatic,nc,nc
 2022-03-04T05:38:19.840Z,38.8381653,-122.8081665,2.1,0.85,md,8.0,70.0,0.01482,0.01,nc,nc73700936,2022-03-04T05:39:54.273Z,"8km WNW of Cobb, CA",earthquake,0.49,1.68,,1.0,automatic,nc,nc
 2022-03-04T05:01:04.104Z,5.6396,-77.8781,10.0,4.3,mb,,116.0,2.4,0.76,us,us6000h1z6,2022-03-04T05:46:44.040Z,"67 km W of Nuquí, Colombia",earthquake,6.3,2.0,0.154,12.0,reviewed,us,us
+2022-03-04T06:01:32.469Z,63.2346,-150.6083,5.1,2.0,ml,,,,0.76,ak,ak0222wafqyg,2022-03-04T06:09:58.080Z,"65 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
