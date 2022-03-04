@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-04T14:48:10.340Z,33.4748344,-116.4491653,9.46,1.03,ml,19,174,0.1071,0.13,ci,ci40199496,2022-03-04T14:50:22.777Z,"23km ESE of Anza, CA",earthquake,0.67,1.17,0.377,6,automatic,ci,ci
+2022-03-04T14:47:08.090Z,38.7953339,-122.7488327,2.17,0.37,md,9,94,0.01001,0.03,nc,nc73701096,2022-03-04T14:48:46.025Z,"2km NNE of The Geysers, CA",earthquake,0.34,1.02,,1,automatic,nc,nc
 2022-03-04T14:16:21.660Z,19.1333332061768,-155.425506591797,31.6900005340576,1.84000003,md,38,176,,0.129999995,hv,hv72937457,2022-03-04T14:19:30.380Z,"9 km SE of Pāhala, Hawaii",earthquake,0.63,0.850000024,0.699999988,7,automatic,hv,hv
 2022-03-04T14:15:43.530Z,34.0456667,-117.117,13,1.08,ml,32,95,0.01086,0.22,ci,ci40199480,2022-03-04T14:19:18.397Z,"3km SSE of Mentone, CA",earthquake,0.37,1.08,0.182,29,automatic,ci,ci
 2022-03-04T14:13:56.684Z,38.5969,-119.4304,0,1.4,ml,15,77.29,0.071,0.246,nn,nn00834908,2022-03-04T14:17:20.989Z,"7 km ENE of Coleville, California",earthquake,,4.1,0.58,6,automatic,nn,nn
