@@ -806,3 +806,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T04:48:28.520Z,35.8683319,-117.6651688,6.75,1.08,ml,17.0,96.0,0.076,0.08,ci,ci40199328,2022-03-04T04:50:33.071Z,"23km ESE of Little Lake, CA",earthquake,0.3,0.64,0.137,5.0,automatic,ci,ci
 2022-03-04T04:50:24.860Z,38.8171654,-122.7959976,2.04,0.84,md,13.0,50.0,0.0092,0.01,nc,nc73700911,2022-03-04T04:51:57.990Z,"6km NW of The Geysers, CA",earthquake,0.31,0.68,,1.0,automatic,nc,nc
 2022-03-04T04:43:33.150Z,18.011,-66.7451666666667,13.67,2.54,md,8.0,179.0,,0.09,pr,pr71338873,2022-03-04T04:55:38.480Z,"2 km ESE of Magas Arriba, Puerto Rico",earthquake,0.52,0.3,0.274160553321902,5.0,reviewed,pr,pr
+2022-03-04T04:59:03.170Z,38.8398323,-122.8280029,1.38,1.07,md,22.0,76.0,0.01525,0.03,nc,nc73700916,2022-03-04T05:07:10.521Z,"9km WNW of Cobb, CA",earthquake,0.18,0.48,0.19,5.0,automatic,nc,nc
+2022-03-04T04:56:30.599Z,64.5714,-149.4365,18.2,1.3,ml,,,,0.29,ak,ak0222w9knzn,2022-03-04T04:59:09.652Z,"15 km WSW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
