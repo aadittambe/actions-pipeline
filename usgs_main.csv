@@ -832,3 +832,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T07:00:49.338Z,-9.3125,119.1894,78.85,4.3,mb,,79.0,1.476,1.08,us,us6000h1zj,2022-03-04T07:17:12.040Z,"86 km SSW of Komodo, Indonesia",earthquake,7.9,9.5,0.189,8.0,reviewed,us,us
 2022-03-04T05:18:56.883Z,-7.0835,129.1661,151.23,4.2,mb,,76.0,2.295,0.66,us,us6000h1z9,2022-03-04T07:20:43.040Z,"287 km NE of Lospalos, Timor Leste",earthquake,8.1,7.4,0.147,13.0,reviewed,us,us
 2022-03-04T04:48:55.160Z,17.9285,-67.1171666666667,10.09,2.58,md,6.0,287.0,,0.13,pr,pr71338878,2022-03-04T07:25:20.200Z,"8 km SE of Pole Ojea, Puerto Rico",earthquake,1.39,0.48,0.125702615404469,4.0,reviewed,pr,pr
+2022-03-04T07:08:34.334Z,0.0344,96.6081,10.0,4.6,mb,,194.0,1.589,0.52,us,us6000h1zl,2022-03-04T07:31:43.040Z,"271 km S of Sinabang, Indonesia",earthquake,10.8,1.9,0.102,29.0,reviewed,us,us
