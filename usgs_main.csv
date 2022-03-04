@@ -908,3 +908,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T11:02:18.359Z,36.432,-96.94333333,7.02,0.43,ml,24.0,68.0,0.02609487929,0.11,ok,ok2022ekda,2022-03-04T15:52:19.100Z,"16 km NNE of Morrison, Oklahoma",earthquake,,0.4,0.23,3.0,reviewed,ok,ok
 2022-03-03T20:49:00.100Z,39.4146667,-110.3036667,-2.49,2.14,md,6.0,199.0,0.01909,0.11,uu,uu60484232,2022-03-04T15:55:35.740Z,"16 km SSE of Sunnyside, Utah",earthquake,1.03,2.4,0.171,6.0,reviewed,uu,uu
 2022-03-03T20:17:59.380Z,39.4231667,-110.3156667,-1.26,1.56,md,5.0,194.0,0.007366,0.03,uu,uu60484217,2022-03-04T15:53:29.120Z,Utah,earthquake,1.82,0.65,0.189,4.0,reviewed,uu,uu
+2022-03-04T16:03:53.904Z,61.4867,-149.9091,34.2,1.9,ml,,,,0.45,ak,ak0222wgek3g,2022-03-04T16:08:04.075Z,"4 km SSE of Big Lake, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2022-03-04T03:20:46.060Z,35.5331667,-118.2958333,4.03,1.13,ml,8.0,167.0,0.1269,0.08,ci,ci40199288,2022-03-04T16:01:08.138Z,"19km ESE of Lake Isabella, CA",earthquake,0.43,0.49,0.166,5.0,reviewed,ci,ci
+2022-03-03T22:15:15.920Z,39.4123333,-110.2828333,-3.4,1.8,md,6.0,205.0,0.03479,0.22,uu,uu60484257,2022-03-04T16:07:30.880Z,"17 km SSE of Sunnyside, Utah",earthquake,2.79,5.5,0.112,6.0,reviewed,uu,uu
+2022-03-03T21:19:14.810Z,39.4225,-110.313,-1.51,1.89,md,5.0,182.0,0.009507,0.05,uu,uu60484247,2022-03-04T16:02:20.350Z,"15 km SSE of Sunnyside, Utah",earthquake,1.73,1.01,0.135,4.0,reviewed,uu,uu
