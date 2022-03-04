@@ -835,3 +835,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T07:08:34.334Z,0.0344,96.6081,10.0,4.6,mb,,194.0,1.589,0.52,us,us6000h1zl,2022-03-04T07:31:43.040Z,"271 km S of Sinabang, Indonesia",earthquake,10.8,1.9,0.102,29.0,reviewed,us,us
 2022-03-04T07:38:50.565Z,64.6982,-146.6433,12.9,1.1,ml,,,,0.45,ak,ak0222wb95ip,2022-03-04T07:44:28.104Z,Central Alaska,earthquake,,0.4,,,automatic,ak,ak
 2022-03-04T06:37:33.920Z,17.9463333333333,-67.0173333333333,10.22,2.02,md,3.0,228.0,,0.04,pr,pr71338888,2022-03-04T07:42:13.030Z,Puerto Rico region,earthquake,1.78,0.76,0.0224101098545424,2.0,reviewed,pr,pr
+2022-03-04T08:02:40.690Z,19.2051658630371,-155.415161132812,33.2900009155273,1.71000004,md,42.0,155.0,,0.119999997,hv,hv72937172,2022-03-04T08:05:58.000Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.899999976,1.14999998,6.0,automatic,hv,hv
+2022-03-04T07:55:26.959Z,63.5142,-152.476,14.9,1.7,ml,,,,0.88,ak,ak0222wbcqth,2022-03-04T08:01:09.735Z,"37 km W of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-04T07:47:59.660Z,-5.305,150.7244,156.78,5.4,mww,,45.0,4.661,0.76,us,us6000h1zu,2022-03-04T08:07:07.040Z,"70 km ENE of Kimbe, Papua New Guinea",earthquake,8.7,6.0,0.063,24.0,reviewed,us,us
