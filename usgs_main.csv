@@ -883,3 +883,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T13:44:41.447Z,63.0999,-151.7785,9.8,1.9,ml,,,,1.24,ak,ak0222wev0og,2022-03-04T13:48:12.558Z,"49 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-04T13:16:49.650Z,17.951,-66.933,12.83,2.52,md,16.0,181.0,,0.14,pr,pr71338913,2022-03-04T13:52:56.300Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.6,0.24,0.145745832916306,10.0,reviewed,pr,pr
 2022-03-04T13:56:06.680Z,19.1473331451416,-155.421493530273,33.560001373291,2.33,ml,49.0,172.0,,0.129999995,hv,hv72937447,2022-03-04T14:01:37.900Z,"8 km SE of Pāhala, Hawaii",earthquake,0.56,0.860000014,4.23,5.0,automatic,hv,hv
+2022-03-04T14:16:21.660Z,19.1333332061768,-155.425506591797,31.6900005340576,1.84000003,md,38.0,176.0,,0.129999995,hv,hv72937457,2022-03-04T14:19:30.380Z,"9 km SE of Pāhala, Hawaii",earthquake,0.63,0.850000024,0.699999988,7.0,automatic,hv,hv
+2022-03-04T14:15:43.530Z,34.0456667,-117.117,13.0,1.08,ml,32.0,95.0,0.01086,0.22,ci,ci40199480,2022-03-04T14:19:18.397Z,"3km SSE of Mentone, CA",earthquake,0.37,1.08,0.182,29.0,automatic,ci,ci
+2022-03-04T14:13:56.684Z,38.5969,-119.4304,0.0,1.4,ml,15.0,77.29,0.071,0.246,nn,nn00834908,2022-03-04T14:17:20.989Z,"7 km ENE of Coleville, California",earthquake,,4.1,0.58,6.0,automatic,nn,nn
+2022-03-04T14:12:33.520Z,37.6450005,-118.8556671,5.36,0.86,md,9.0,116.0,0.01721,0.02,nc,nc73701071,2022-03-04T14:20:09.754Z,"11km E of Mammoth Lakes, CA",earthquake,1.15,2.57,0.08,9.0,automatic,nc,nc
+2022-03-04T14:00:18.572Z,19.1872,-65.0256,35.0,3.1,ml,,212.0,0.908,0.65,us,us6000h21c,2022-03-04T14:07:37.040Z,"94 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.7,2.0,0.059,38.0,reviewed,us,us
