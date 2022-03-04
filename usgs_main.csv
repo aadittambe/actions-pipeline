@@ -856,3 +856,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T02:50:01.880Z,37.5486667,-119.0838333,2.73,0.59,md,13.0,126.0,0.08102,0.07,nc,nc73700831,2022-03-04T10:34:03.314Z,"14km SW of Mammoth Lakes, CA",earthquake,0.35,1.06,0.187,12.0,reviewed,nc,nc
 2022-03-04T01:19:19.190Z,38.8185,-122.7995,3.16,0.45,md,25.0,47.0,0.009598,0.02,nc,nc73700811,2022-03-04T10:31:32.867Z,"6km NW of The Geysers, CA",earthquake,0.24,0.28,0.088,4.0,reviewed,nc,nc
 2022-03-03T19:26:19.500Z,36.315,-120.0945,14.16,1.67,md,27.0,107.0,0.02743,0.16,nc,nc73700721,2022-03-04T10:33:11.422Z,"12km N of Huron, CA",earthquake,1.02,0.35,0.294,14.0,reviewed,nc,nc
+2022-03-04T03:07:15.020Z,38.7726667,-122.8821667,3.64,0.37,md,22.0,204.0,0.02815,0.06,nc,nc73700836,2022-03-04T10:41:34.062Z,"11km W of The Geysers, CA",earthquake,0.23,0.32,0.063,4.0,reviewed,nc,nc
