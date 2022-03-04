@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T14:00:19.900Z,19.1323,-65.001,27,3.71,md,17,306,0.8715,0.3,pr,pr2022063000,2022-03-04T14:32:50.867Z,"87 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.78,19.62,0.11,12,reviewed,pr,pr
 2022-03-04T13:56:06.680Z,19.1473331451416,-155.421493530273,33.560001373291,2.33,ml,49,172,,0.129999995,hv,hv72937447,2022-03-04T14:08:24.963Z,"8 km SE of Pāhala, Hawaii",earthquake,0.56,0.860000014,4.23,5,automatic,hv,hv
 2022-03-04T13:44:41.447Z,63.0999,-151.7785,9.8,1.9,ml,,,,1.24,ak,ak0222wev0og,2022-03-04T13:48:12.558Z,"49 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-04T13:30:51.760Z,38.8238335,-122.8320007,3.41,0.85,md,8,151,0.002472,0.02,nc,nc73701061,2022-03-04T14:33:13.837Z,"8km NW of The Geysers, CA",earthquake,0.81,1.77,,1,automatic,nc,nc
+2022-03-04T13:30:51.760Z,38.8238335,-122.8320007,3.41,0.85,md,8,151,0.002472,0.02,nc,nc73701061,2022-03-04T14:37:10.861Z,"8km NW of The Geysers, CA",earthquake,0.81,1.77,,1,automatic,nc,nc
 2022-03-04T13:19:59.400Z,33.5898333,-116.8083333,7.6,0.23,ml,9,161,0.05186,0.14,ci,ci40199448,2022-03-04T13:23:29.029Z,"13km WNW of Anza, CA",earthquake,0.6,0.74,0.087,4,automatic,ci,ci
 2022-03-04T13:16:49.650Z,17.951,-66.933,12.83,2.52,md,16,181,,0.14,pr,pr71338913,2022-03-04T13:52:56.300Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.6,0.24,0.145745832916306,10,reviewed,pr,pr
 2022-03-04T13:14:17.165Z,-7.2204,105.2583,35,4.8,mb,,138,2.384,0.87,us,us6000h215,2022-03-04T13:37:46.040Z,"112 km SW of Labuan, Indonesia",earthquake,7.2,2,0.082,46,reviewed,us,us
@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T15:10:14.690Z,63.2215,-150.4668,115.6,1.7,ml,,,,0.4,ak,ak0222usb703,2022-03-03T15:39:03.203Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-03T15:10:11.285Z,30.7229,141.7351,10,4.7,mb,,67,2.891,0.64,us,us6000h1qv,2022-03-03T17:21:35.040Z,"Izu Islands, Japan region",earthquake,9.7,1.9,0.067,70,reviewed,us,us
 2022-03-03T14:41:35.634Z,52.3599,-168.1827,35,3.3,ml,,214,0.737,1.08,us,us6000h1qg,2022-03-03T15:27:13.040Z,"79 km SE of Nikolski, Alaska",earthquake,3.9,2,0.091,16,reviewed,us,us
-2022-03-03T14:40:32.946Z,18.1759,-95.4592,109.36,5.7,mww,,67,3.021,1.09,us,us6000h1qa,2022-03-04T14:18:00.210Z,"15 km WNW of Nopalapan, Mexico",earthquake,5.6,3.3,0.032,96,reviewed,us,us
