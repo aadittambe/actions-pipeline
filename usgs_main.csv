@@ -969,3 +969,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T09:51:56.230Z,52.3926666666667,-174.144,6.21,2.17,ml,8.0,176.0,,0.33,av,av91504186,2022-03-04T18:47:25.050Z,"22 km N of Atka, Alaska",earthquake,0.99,1.22,0.231461821977391,9.0,reviewed,av,av
 2022-03-03T20:32:48.994Z,-5.6993,27.3596,10.0,4.3,mb,,111.0,6.083,0.91,us,us6000h1vj,2022-03-04T18:46:46.040Z,"52 km SE of Kongolo, Democratic Republic of the Congo",earthquake,12.1,1.9,0.133,16.0,reviewed,us,us
 2022-03-04T10:05:49.320Z,45.392,-112.111,2.25,0.6,ml,8.0,70.0,0.166,0.19,mb,mb80539664,2022-03-04T18:55:19.170Z,"7 km N of Alder, Montana",earthquake,0.61,2.5,0.017,2.0,reviewed,mb,mb
+2022-03-04T17:49:27.400Z,45.2926667,-112.0495,-2.0,1.17,ml,12.0,76.0,0.06,0.12,mb,mb80539669,2022-03-04T19:06:13.580Z,"5 km SE of Alder, Montana",quarry blast,0.41,31.61,0.144,7.0,reviewed,mb,mb
+2022-03-04T16:59:42.707Z,-57.4719,-25.7697,66.54,5.0,mb,,82.0,6.823,0.46,us,us6000h22d,2022-03-04T19:06:11.040Z,South Sandwich Islands region,earthquake,11.7,6.2,0.111,28.0,reviewed,us,us
+2022-03-04T03:03:10.060Z,61.3946666666667,-152.04,2.57,0.04,ml,4.0,173.0,,0.1,av,av91504031,2022-03-04T19:09:48.520Z,"58 km WNW of Beluga, Alaska",earthquake,1.63,4.07,0.232378382780479,4.0,reviewed,av,av
+2022-03-04T01:57:20.820Z,52.045,178.312,5.84,1.19,ml,4.0,351.0,,0.07,av,av91050953,2022-03-04T19:02:49.770Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.15,4.0,0.330687692941788,4.0,reviewed,av,av
