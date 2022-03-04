@@ -840,3 +840,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T07:47:59.660Z,-5.305,150.7244,156.78,5.4,mww,,45.0,4.661,0.76,us,us6000h1zu,2022-03-04T08:07:07.040Z,"70 km ENE of Kimbe, Papua New Guinea",earthquake,8.7,6.0,0.063,24.0,reviewed,us,us
 2022-03-03T15:16:50.556Z,47.0126,-66.5468,8.9,1.8,ml,,82.0,0.424,0.38,us,us6000h1zz,2022-03-04T08:34:59.040Z,"New Brunswick, Canada",earthquake,3.0,8.0,0.081,20.0,reviewed,us,us
 2022-03-03T11:50:41.090Z,38.7871667,-122.7633333,1.08,0.54,md,26.0,68.0,0.01373,0.03,nc,nc73700566,2022-03-04T08:36:09.711Z,"1km NNW of The Geysers, CA",earthquake,0.18,0.33,0.052,3.0,reviewed,nc,nc
+2022-03-04T08:43:07.330Z,36.0229988,-120.5875015,2.4,0.51,md,7.0,151.0,0.04343,0.06,nc,nc73700971,2022-03-04T08:44:44.617Z,"20km NW of Parkfield, CA",earthquake,0.61,1.84,0.25,2.0,automatic,nc,nc
+2022-03-04T08:42:59.450Z,35.9066667,-117.6976667,12.01,0.54,ml,7.0,92.0,0.05627,0.09,ci,ci40199368,2022-03-04T08:46:32.229Z,"19km E of Little Lake, CA",earthquake,0.77,1.14,0.297,6.0,automatic,ci,ci
