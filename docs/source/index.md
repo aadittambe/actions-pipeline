@@ -4,7 +4,7 @@ This tutorial will teach you how to automate basic data collection and analysis 
 
 ## About the authors
 
-This guide was prepared for training sessions of Investigative Reporters and Editors (IRE) and the [National Institute for Computer-Assisted Reporting (NICAR)](https://www.ire.org/training/conferences/nicar-2022/) by [Nicholas McMillan](https://www.nickmcmillan.com/) and [Aadit Tambe](https://aadittambe.com/). This guide draws inspiration from a [Git scraping course](https://docs.google.com/document/u/0/d/1TCatZP5gQNfFjZJ5M77wMlf9u_05Z3BZnjp6t1SA6UU/mobilebasic#h.9d9m67inr5k4) originally designed by [Simon Willison](https://simonwillison.net/) to be taught at NICAR.
+This guide was prepared for training sessions of Investigative Reporters and Editors (IRE) and the [National Institute for Computer-Assisted Reporting (NICAR)](https://www.ire.org/training/conferences/nicar-2022/) by [Nicholas McMillan](https://www.nickmcmillan.com/) and [Aadit Tambe](https://aadittambe.com/). This guide draws inspiration from a [Git scraping course](https://docs.google.com/document/u/0/d/1TCatZP5gQNfFjZJ5M77wMlf9u_05Z3BZnjp6t1SA6UU/mobilebasic#h.9d9m67inr5k4) originally designed by [Simon Willison](https://simonwillison.net/) to be taught at NICAR. The presentation slides can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vQZSK3R1Kmc-vSn66DAlsfrg-ZLeOQTYVl3eHpveFTrxkM2Fyau_KwZUnX3TDmd4bHTSforLREWLMHY/pub?start=false&loop=false&delayms=6000).
 
 ## What you will scrape
 We are going to build a Git scraper using just a GitHub account and the web browser. We will scrape earthquake data provided by USGS. This records all earthquakes in the past day and is updated every minute. The file can be found at [this](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php) page, and [this](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv) is the download link.
@@ -21,7 +21,7 @@ At the end of this tutorial, your repository will have — and be updating — t
 - a `usgs_main.csv` file that stores all the data since you began scraping.
 <img src="./_static/image_17.png">
 
-## Predule: Prerequisites
+## Prelude: Prerequisites
 
 You need a free [GitHub account](https://github.com/) to begin this tutorial.
 
@@ -65,7 +65,7 @@ You will be directed to a YAML file, with a screen that looks like this:
 
 ### 2.2. Write the workflow
 
-In this file, we will write step-by-step instructions for GitHub to execute commands. GitHub Actions uses [YAML](https://en.wikipedia.org/wiki/YAML) syntax to define the workflow. Delete everything in the file, and paste the text from here into the file.
+In this file, we will write step-by-step instructions for GitHub to execute commands. GitHub Actions uses [YAML](https://en.wikipedia.org/wiki/YAML) syntax to define the workflow. Delete everything in the file, and paste the text from here into the file. We will start with a different template instead, which is here.
 
 ```yaml
 name: Scrape latest data
@@ -77,7 +77,6 @@ on:
     - cron:  '*/5 * * * *'
 
 jobs:
-  # Set up
   scrape:
     runs-on: ubuntu-latest
     steps:
@@ -90,7 +89,8 @@ jobs:
     - name: Fetch latest data
       run: |-        
         curl "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv" -o usgs_current.csv
-    - name: Commit and push if it changed
+    # Step 3: Commit and push
+    - name: Commit and push
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
@@ -106,16 +106,26 @@ GitHub calls this a “workflow.” It is a set of instructions written in a lan
 
 The `name` keyword denotes an optional name given to the workflow. 
 
-The `on` keyword specifies the trigger for this workflow — it’s currently set to run based on a cron trigger every time you “push” code to the repository, or when you click a manual button, denoted by “workflow_dispatch.”
+The `on` keyword specifies the trigger for this workflow — it’s currently set to run every time you “push” code to the repository, or when you click a manual button, denoted by “workflow_dispatch.” More importantly, it's set to run on a schedule. This schedule is defined by a cron expression, which is tell your computer to execute a command at a particular time.
+
+```{note}
+Cron, also known as a "cron job," is a process or task that runs periodically on a Unix system. If you are looking to find a cron expression of a schedule, we recommend using a tool such as [Cron Guru](https://crontab.guru/) to make the conversion easier. If you're working on GitHub, you can change the expression in your YAML and hover over it, and GitHub will tell you if it's a valid expression.
+```
 
 The `jobs` keyword groups together all the commands that the Action will execute. We have called our “job” `scrape`.
-The `runs-on` keyword configures the job to run on the latest version of an Ubuntu Linux runner. This means that the job will execute on a fresh virtual machine hosted by GitHub. 
+The `runs-on` keyword configures the job to run on the latest version of an Ubuntu Linux runner. This means that the job will execute on a virtual machine hosted by GitHub, which is the latest version of Ubuntu. 
 
-The `name` keyword lets you give an optional name to the step.
+The `name` keyword here lets you give an optional name to the step.
 
-The `uses` keyword specifies that this step will run v2 of the actions/checkout action. This is an action that checks out our repository onto the runner, allowing us to run scripts or other actions against your code (such as build and test tools).
+The `uses` keyword specifies that this step will run v2 of the actions/checkout action. This is an action that checks out our repository onto the runner, allowing the virtual machine to save a copy of our repository and execute our code.
 
-The `run` keyword tells the job to execute a command on the runner. In this `run`, the Action will download that earthquake file using the cURL tool - this makes for a more useful display of file differences.
+The `run` keyword tells the job to execute a command on the runner. In this `run`, the Action will download that earthquake file using the cURL tool, and save the data into a CSV called `usgs_current.csv`.
+
+Here is the download URL: `https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv`
+
+```{note}
+cURL, which stands for client URL, is a command line tool that developers use to transfer data to and from a server. Read more about it [here](https://developer.ibm.com/articles/what-is-curl-command/#).
+```
 
 Then, we commit the results to our repository and push them, in the next step.
 
@@ -142,7 +152,7 @@ From your repository, click on the "Add file" button and then "Create new file" 
 
 <img src="./_static/image_9.png">
 
-Let's call this script `get_all_data.py`. Paste the following code in the file:
+Call this script `get_all_data.py`.**Make sure to spell the name of the file correctly — all lowercase, with underscores, not hyphens. Otherwise, the Action will not run.** Paste the following code in the file:
 
 ```python
 import pandas as pd # import pandas library for data manipulation and analysis
@@ -213,22 +223,21 @@ on:
     - cron:  '*/5 * * * *'
 
 jobs:
-  # Set up
   scrape:
     runs-on: ubuntu-latest
     steps:
-    # Step 1
+    # Step 1: Prepare the environment
     - name: Check out this repo
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    # Step 2
+    # Step 2: Get the latest data and store it as a CSV
     - name: Fetch latest data
       run: |-        
         curl "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv" -o usgs_current.csv
-    # Step 3
+    # Step 3: Install requirements, so Python script can run
     - name: Install requirements
-      run: python -m pip install requests pandas jupyterlab
+      run: python -m pip install pandas 
     # Step 4    
     - name: Run script to create main csv
       run: python get_all_data.py     
@@ -291,6 +300,10 @@ After opening the file, click "File" and then "Save a copy in Drive." This will 
 If you push the "play" button next to a code chunk, that will execute the code. Since it's a notebook, it will return the result of each step right after the code chunk.
 
 First, we load all the libraries our analysis will require. Then, we load the `usgs_main.csv` file using the `raw` GitHub link. This means every time data updates, we can run this same file and get an updated result.
+
+You can replace this URL, with the "raw" URL to the CSV file in your repository. This way, whenevever you run this notebook, it will always pull the most recent version of the CSV.
+
+<img src="./_static/image_24.png">
 
 This notebook runs simple Python code that performs basic summarizing and grouping actions to print two sentences:
 - one that prints the most recent earthquake and the strongest earthquake
