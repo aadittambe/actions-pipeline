@@ -223,7 +223,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T11:41:59.750Z,38.7783333,-122.7518333,1.09,0.93,md,38,51,0.01278,0.05,nc,nc73700526,2022-03-04T04:29:12.299Z,"0km ENE of The Geysers, CA",earthquake,0.14,0.27,0.179,5,reviewed,nc,nc
 2022-03-03T11:41:30.930Z,38.7916667,-122.7646667,0.12,2.2,md,67,37,0.009747,0.05,nc,nc73700496,2022-03-04T07:23:11.316Z,"2km NNW of The Geysers, CA",earthquake,0.09,0.16,0.132,41,reviewed,nc,nc
 2022-03-03T11:41:28.730Z,38.7855,-122.7698333,0.01,0.29,md,30,83,0.0151,0.06,nc,nc73700516,2022-03-04T04:41:19.509Z,"2km NW of The Geysers, CA",earthquake,0.16,0.35,0.362,2,reviewed,nc,nc
-2022-03-03T11:41:16.070Z,38.7938333,-122.7805,-0.28,1.24,md,38,78,0.005834,0.07,nc,nc73700491,2022-03-04T07:32:15.549Z,"3km NW of The Geysers, CA",earthquake,0.14,0.33,0.167,5,reviewed,nc,nc
+2022-03-03T11:41:16.070Z,38.7938333,-122.7805,-0.28,1.24,md,38,78,0.005834,0.07,nc,nc73700491,2022-03-04T07:37:10.382Z,"3km NW of The Geysers, CA",earthquake,0.14,0.33,0.167,5,reviewed,nc,nc
 2022-03-03T11:41:02.200Z,38.8023333,-122.7805,0.32,1.46,md,42,45,0.01082,0.05,nc,nc73700481,2022-03-03T19:47:21.131Z,"4km NW of The Geysers, CA",earthquake,0.12,0.21,0.246,8,reviewed,nc,nc
 2022-03-03T11:39:58.200Z,38.7805,-122.7581667,0.4,3.78,mw,96,31,0.01142,0.07,nc,nc73700486,2022-03-04T07:14:50.651Z,"0km NNW of The Geysers, CA",earthquake,0.09,0.17,,3,reviewed,nc,nc
 2022-03-03T11:30:26.566Z,12.3391,-87.7538,51.82,4.9,mb,,133,0.799,0.82,us,us6000h1pf,2022-03-03T20:28:57.465Z,"55 km SW of Jiquilillo, Nicaragua",earthquake,6.6,7.5,0.037,228,reviewed,us,us
@@ -274,4 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T07:51:50.298Z,61.8135,-148.5382,15.5,0.8,ml,,,,0.56,ak,ak0222unsl91,2022-03-03T07:57:02.099Z,"4 km WNW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-03T07:42:43.897Z,59.5,-152.0662,94.6,1.8,ml,,,,0.93,ak,ak0222unqnia,2022-03-03T07:57:01.956Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-03T07:41:39.520Z,38.7903328,-122.7446671,0.73,0.86,md,8,187,0.00942,0.05,nc,nc73700416,2022-03-03T09:25:10.264Z,"2km NE of The Geysers, CA",earthquake,0.49,0.95,,1,automatic,nc,nc
-2022-03-03T07:37:00.515Z,9.9735,-78.5575,35,5,mww,,42,2.428,0.9,us,us6000h1nm,2022-03-03T19:15:29.053Z,"58 km N of Narganá, Panama",earthquake,3.9,4.9,0.065,23,reviewed,us,us
