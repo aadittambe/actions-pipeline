@@ -811,3 +811,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T04:57:17.354Z,51.6246,177.3249,59.1,4.2,mb,,210.0,0.842,0.67,us,us6000h1z5,2022-03-04T05:20:56.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,11.6,11.1,0.066,68.0,reviewed,us,us
 2022-03-04T04:53:16.310Z,-27.0552,-175.9766,10.0,5.0,mb,,72.0,2.789,1.39,us,us6000h1z7,2022-03-04T05:16:38.040Z,Kermadec Islands region,earthquake,10.3,1.8,0.063,84.0,reviewed,us,us
 2022-03-04T03:25:17.470Z,17.9558333333333,-66.9933333333333,9.98,1.57,md,5.0,207.0,,0.06,pr,pr71338883,2022-03-04T05:13:18.000Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,0.57,0.84,0.110791569852207,5.0,reviewed,pr,pr
+2022-03-04T05:24:05.156Z,62.9284,-148.3379,14.9,0.9,ml,,,,0.96,ak,ak0222w9z6pv,2022-03-04T05:27:02.480Z,"60 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-04T05:23:10.710Z,19.2423324584961,-155.398834228516,31.1499996185303,2.29,ml,43.0,135.0,,0.150000006,hv,hv72936992,2022-03-04T05:28:41.720Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.55,0.660000026,0.51,6.0,automatic,hv,hv
