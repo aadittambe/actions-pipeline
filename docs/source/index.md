@@ -43,7 +43,7 @@ Select “Add .gitignore”: this is a file where you can tell Git what files to
 
 For the .gitignore template, choose Python. This will populate the .gitignore file with common files associated with Python projects that don’t need to be committed to Git history. 
 
-<img src="./_static/image_3.png">
+<img src="./_static/image_25.png">
 
 ## Act 2: Hello, Action!
 
