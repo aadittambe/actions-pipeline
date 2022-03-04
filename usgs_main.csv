@@ -968,3 +968,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T09:53:00.560Z,52.413,-174.145166666667,4.75,2.32,ml,8.0,252.0,,0.29,av,av91504191,2022-03-04T18:46:45.890Z,"24 km N of Atka, Alaska",earthquake,1.04,1.22,0.241371002561627,9.0,reviewed,av,av
 2022-03-04T09:51:56.230Z,52.3926666666667,-174.144,6.21,2.17,ml,8.0,176.0,,0.33,av,av91504186,2022-03-04T18:47:25.050Z,"22 km N of Atka, Alaska",earthquake,0.99,1.22,0.231461821977391,9.0,reviewed,av,av
 2022-03-03T20:32:48.994Z,-5.6993,27.3596,10.0,4.3,mb,,111.0,6.083,0.91,us,us6000h1vj,2022-03-04T18:46:46.040Z,"52 km SE of Kongolo, Democratic Republic of the Congo",earthquake,12.1,1.9,0.133,16.0,reviewed,us,us
+2022-03-04T10:05:49.320Z,45.392,-112.111,2.25,0.6,ml,8.0,70.0,0.166,0.19,mb,mb80539664,2022-03-04T18:55:19.170Z,"7 km N of Alder, Montana",earthquake,0.61,2.5,0.017,2.0,reviewed,mb,mb
