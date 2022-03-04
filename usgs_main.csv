@@ -928,3 +928,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T16:53:37.704Z,62.6056,-149.8797,0.0,2.6,ml,,,,0.9,ak,ak0222wgp8lk,2022-03-04T16:56:48.838Z,"20 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-04T16:42:14.840Z,34.1285,-117.4563333,6.43,1.25,ml,27.0,103.0,0.06828,0.22,ci,ci40199568,2022-03-04T16:46:01.266Z,"3km N of Fontana, CA",earthquake,0.48,1.16,0.217,32.0,automatic,ci,ci
 2022-03-04T12:54:07.350Z,33.4153333,-116.4175,13.96,0.66,ml,22.0,75.0,0.1046,0.12,ci,ci40199432,2022-03-04T16:47:09.589Z,"18km NNW of Borrego Springs, CA",earthquake,0.2,0.6,0.123,8.0,reviewed,ci,ci
+2022-03-03T18:37:28.670Z,44.3516667,-115.1668333,6.18,1.95,ml,9.0,111.0,0.81,0.27,mb,mb80539559,2022-03-04T17:03:30.480Z,"23 km NW of Stanley, Idaho",earthquake,0.72,2.16,0.182,9.0,reviewed,mb,mb
