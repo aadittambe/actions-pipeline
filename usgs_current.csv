@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T14:41:35.634Z,52.3599,-168.1827,35,3.3,ml,,214,0.737,1.08,us,us6000h1qg,2022-03-03T15:27:13.040Z,"79 km SE of Nikolski, Alaska",earthquake,3.9,2,0.091,16,reviewed,us,us
 2022-03-03T14:40:32.946Z,18.1759,-95.4592,109.36,5.7,mww,,67,3.021,1.09,us,us6000h1qa,2022-03-04T14:18:00.210Z,"15 km WNW of Nopalapan, Mexico",earthquake,5.6,3.3,0.032,96,reviewed,us,us
 2022-03-03T14:34:38.100Z,39.4188333,-110.3108333,-1.69,1.6,md,9,196,0.01224,0.13,uu,uu60484147,2022-03-03T23:06:55.660Z,"Utah",earthquake,0.64,0.46,0.101,6,reviewed,uu,uu
-2022-03-03T14:28:45.076Z,62.0445,-151.7744,87.8,1.2,ml,,,,0.19,ak,ak0222urtnvc,2022-03-03T19:27:59.364Z,"20 km WNW of Skwentna, Alaska",earthquake,,1,,,reviewed,ak,ak
