@@ -859,3 +859,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T03:07:15.020Z,38.7726667,-122.8821667,3.64,0.37,md,22.0,204.0,0.02815,0.06,nc,nc73700836,2022-03-04T10:41:34.062Z,"11km W of The Geysers, CA",earthquake,0.23,0.32,0.063,4.0,reviewed,nc,nc
 2022-03-04T03:26:31.970Z,38.7736667,-122.881,3.52,0.78,md,36.0,202.0,0.02741,0.08,nc,nc73700856,2022-03-04T10:50:13.532Z,"11km W of The Geysers, CA",earthquake,0.26,0.32,0.015,4.0,reviewed,nc,nc
 2022-03-04T10:55:32.290Z,38.833168,-122.8168335,1.83,0.71,md,16.0,56.0,0.0111,0.02,nc,nc73701006,2022-03-04T10:57:05.731Z,"8km NW of The Geysers, CA",earthquake,0.25,0.61,0.14,2.0,automatic,nc,nc
+2022-03-04T10:46:14.761Z,27.1745,53.2459,10.0,4.4,mb,,103.0,3.465,0.44,us,us6000h20t,2022-03-04T11:02:42.040Z,"55 km SE of Mohr, Iran",earthquake,9.1,1.9,0.089,36.0,reviewed,us,us
+2022-03-04T05:15:44.070Z,36.7355,-121.4096667,6.33,0.52,md,11.0,160.0,0.04148,0.08,nc,nc73700921,2022-03-04T11:08:36.318Z,"9km SSW of Ridgemark, CA",earthquake,0.44,0.55,0.294,7.0,reviewed,nc,nc
