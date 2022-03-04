@@ -31,9 +31,9 @@ This chapter will walk you through how to create a repository. A GitHub reposito
 
 In your profile on [GitHub](https://github.com/), navigate to the "repositories" tab and click the green "new" button.
 
-<img src="./_static/image_2.png">
+<img src="./_static/image_25.png">
 
-Create a repository name — make sure to use dashes instead of spaces.
+Create a repository, call it `nicar22-github-actions`.
 
 Select public repository, meaning other people who visit your profile can see it. 
 
