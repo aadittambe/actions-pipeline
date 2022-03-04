@@ -4,10 +4,10 @@ This tutorial will teach you how to automate basic data collection and analysis 
 
 ## About the authors
 
-This guide was prepared for training sessions of Investigative Reporters and Editors (IRE) and the [National Institute for Computer-Assisted Reporting (NICAR)](https://www.ire.org/training/conferences/nicar-2022/) by [Nicholas McMillan](https://www.nickmcmillan.com/) and [Aadit Tambe](https://aadittambe.com/). This guide draws inspiration from a [Git scraping course](https://docs.google.com/document/u/0/d/1TCatZP5gQNfFjZJ5M77wMlf9u_05Z3BZnjp6t1SA6UU/mobilebasic#h.9d9m67inr5k4) originally designed by [Simon Willison](https://simonwillison.net/). The presentation slides can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vQZSK3R1Kmc-vSn66DAlsfrg-ZLeOQTYVl3eHpveFTrxkM2Fyau_KwZUnX3TDmd4bHTSforLREWLMHY/pub?start=false&loop=false&delayms=6000).
+This guide was prepared for training sessions of Investigative Reporters and Editors (IRE) and the <a href="https://www.ire.org/training/conferences/nicar-2022/" target="_blank">National Institute for Computer-Assisted Reporting (NICAR)</a> by <a href="https://www.nickmcmillan.com/" target="_blank">Nick McMillan</a> and <a href="https://aadittambe.com/" target="_blank">Aadit Tambe</a>. This guide draws inspiration from a <a href="https://docs.google.com/document/u/0/d/1TCatZP5gQNfFjZJ5M77wMlf9u_05Z3BZnjp6t1SA6UU/mobilebasic#h.9d9m67inr5k4" target="_blank">Git scraping course</a> originally designed by <a href="https://simonwillison.net/" target="_blank">Simon Willison</a>. The presentation slides can be found <a href="https://docs.google.com/presentation/d/e/2PACX-1vQZSK3R1Kmc-vSn66DAlsfrg-ZLeOQTYVl3eHpveFTrxkM2Fyau_KwZUnX3TDmd4bHTSforLREWLMHY/pub?start=false&loop=false&delayms=6000" target="_blank">here</a>.
 
 ## What you will scrape
-We are going to build a Git scraper using just a GitHub account and the web browser. We will scrape earthquake data provided by USGS. This records all earthquakes in the past day and is updated every minute. The file can be found at [this](https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php) page, and [this](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv) is the download link.
+We are going to build a Git scraper using just a GitHub account and the web browser. We will scrape earthquake data provided by USGS. This records all earthquakes in the past day and is updated every minute. The file can be found at <a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php" target="_blank">this</a> page, and <a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv" target="_blank">this</a> is the download link.
 
 <img src="./_static/image_1.png">
 
@@ -23,7 +23,7 @@ At the end of this tutorial, your repository will have — and be updating — t
 
 ## Prelude: Prerequisites
 
-You need a free [GitHub account](https://github.com/) to begin this tutorial.
+You need a free <a href="https://github.com/" target="_blank">GitHub account</a> to begin this tutorial.
 
 ## Act 1: Hello, repository!
 
@@ -65,7 +65,7 @@ You will be directed to a YAML file, with a screen that looks like this:
 
 ### 2.2. Write the workflow
 
-In this file, we will write step-by-step instructions for GitHub to execute commands. GitHub Actions uses [YAML](https://en.wikipedia.org/wiki/YAML) syntax to define the workflow. Delete everything in the file, and paste the text from here into the file. We will start with a different template instead, which is here.
+In this file, we will write step-by-step instructions for GitHub to execute commands. GitHub Actions uses <a href="https://en.wikipedia.org/wiki/YAML" target="_blank">YAML</a> syntax to define the workflow. Delete everything in the file, and paste the text from here into the file. We will start with a different template instead, which is here.
 
 ```yaml
 name: Scrape latest data
@@ -109,7 +109,7 @@ The `name` keyword denotes an optional name given to the workflow.
 The `on` keyword specifies the trigger for this workflow — it’s currently set to run every time you “push” code to the repository, or when you click a manual button, denoted by “workflow_dispatch.” More importantly, it's set to run on a schedule. This schedule is defined by a cron expression, which is tell your computer to execute a command at a particular time.
 
 ```{note}
-Cron, also known as a "cron job," is a process or task that runs periodically on a Unix system. If you are looking to find a cron expression of a schedule, we recommend using a tool such as [Cron Guru](https://crontab.guru/) to make the conversion easier. If you're working on GitHub, you can change the expression in your YAML and hover over it, and GitHub will tell you if it's a valid expression.
+Cron, also known as a "cron job," is a process or task that runs periodically on a Unix system. If you are looking to find a cron expression of a schedule, we recommend using a tool such as <a href="https://crontab.guru/" target="_blank">Cron Guru</a> to make the conversion easier. If you're working on GitHub, you can change the expression in your YAML and hover over it, and GitHub will tell you if it's a valid expression.
 ```
 
 The `jobs` keyword groups together all the commands that the Action will execute. We have called our “job” `scrape`.
@@ -124,7 +124,7 @@ The `run` keyword tells the job to execute a command on the runner. In this `run
 Here is the download URL: `https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.csv`
 
 ```{note}
-cURL, which stands for client URL, is a command line tool that developers use to transfer data to and from a server. Read more about it [here](https://developer.ibm.com/articles/what-is-curl-command/#).
+cURL, which stands for client URL, is a command line tool that developers use to transfer data to and from a server. Read more about it <a href="https://developer.ibm.com/articles/what-is-curl-command/#" target="_blank">here</a>.
 ```
 
 Then, we commit the results to our repository and push them, in the next step.
@@ -289,7 +289,7 @@ We will be using this CSV (and the URL to this CSV, in particular) for our analy
 This URL can be used to load the CSV data into a JavaScript visualization — using libraries such as D3 or Chart.js. The visualizations will update in real time as the data changes. 
 ```
 
-Next, make a copy of [this notebook](https://colab.research.google.com/github/aadittambe/actions-pipeline/blob/main/usgs_analysis.ipynb).
+Next, make a copy of <a href="https://colab.research.google.com/github/aadittambe/actions-pipeline/blob/main/usgs_analysis.ipynb" target="_blank">this notebook</a>.
 
 After opening the file, click "File" and then "Save a copy in Drive." This will save the notebook in your Google Drive, so you can edit the code and save the changes.
 
@@ -308,7 +308,7 @@ This notebook runs simple Python code that performs basic summarizing and groupi
 - another that prints the earthquake with the highest magnitude
 
 ```{note}
-To learn more about getting started with Python notebooks using an a browser-based notebook called a Jupyter notebook, check out [this](https://www.firstpythonnotebook.org/about/index.html) textbook made for another NICAR class.
+To learn more about getting started with Python notebooks using an a browser-based notebook called a Jupyter notebook, check out <a href="https://www.firstpythonnotebook.org/about/index.html" target="_blank">this</a> textbook made for another NICAR class.
 ```
 
 This notebook can be modified with code to run advanced analysis on the data we scraped, or any other data set using a `raw` GitHub files.
