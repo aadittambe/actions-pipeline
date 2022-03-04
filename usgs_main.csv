@@ -829,3 +829,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T06:56:03.730Z,38.8301659,-122.8153305,1.9,0.85,md,13.0,63.0,0.01692,0.01,nc,nc73700961,2022-03-04T06:57:39.277Z,"8km NW of The Geysers, CA",earthquake,0.27,0.82,,1.0,automatic,nc,nc
 2022-03-04T06:50:10.280Z,19.1988334655762,-155.399337768555,31.9400005340576,2.1099999,md,46.0,159.0,,0.109999999,hv,hv72937077,2022-03-04T06:53:23.980Z,"8 km E of Pāhala, Hawaii",earthquake,0.55,0.800000012,0.230000004,21.0,automatic,hv,hv
 2022-03-04T06:56:35.230Z,38.8076668,-122.7823334,-0.02,0.73,md,14.0,86.0,0.005731,0.04,nc,nc73700966,2022-03-04T07:04:11.343Z,"4km NNW of The Geysers, CA",earthquake,0.24,0.52,0.25,3.0,automatic,nc,nc
+2022-03-04T07:00:49.338Z,-9.3125,119.1894,78.85,4.3,mb,,79.0,1.476,1.08,us,us6000h1zj,2022-03-04T07:17:12.040Z,"86 km SSW of Komodo, Indonesia",earthquake,7.9,9.5,0.189,8.0,reviewed,us,us
+2022-03-04T05:18:56.883Z,-7.0835,129.1661,151.23,4.2,mb,,76.0,2.295,0.66,us,us6000h1z9,2022-03-04T07:20:43.040Z,"287 km NE of Lospalos, Timor Leste",earthquake,8.1,7.4,0.147,13.0,reviewed,us,us
