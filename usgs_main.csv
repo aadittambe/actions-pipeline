@@ -898,3 +898,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T15:29:40.150Z,38.8351669,-122.819664,1.2,1.12,md,22.0,66.0,0.01282,0.04,nc,nc73701116,2022-03-04T15:31:16.745Z,"8km NW of The Geysers, CA",earthquake,0.19,0.4,0.1,4.0,automatic,nc,nc
 2022-03-04T15:01:40.531Z,-7.3847,128.4873,157.85,4.9,mb,,48.0,2.849,0.97,us,us6000h21i,2022-03-04T15:27:05.040Z,"206 km NE of Lospalos, Timor Leste",earthquake,8.4,1.9,0.064,77.0,reviewed,us,us
 2022-03-03T23:37:33.520Z,44.5475,-110.757,5.55,0.44,md,12.0,99.0,0.09688,0.16,uu,uu60484272,2022-03-04T15:29:15.870Z,"30 km ESE of West Yellowstone, Montana",earthquake,0.42,2.63,0.211,8.0,reviewed,uu,uu
+2022-03-04T15:35:10.530Z,19.2441673278809,-155.405838012695,31.1299991607666,1.72,ml,42.0,132.0,,0.140000001,hv,hv72937527,2022-03-04T15:40:41.030Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.59,0.790000021,3.34,4.0,automatic,hv,hv
+2022-03-04T13:11:07.019Z,36.4325,-96.944,7.47,0.72,ml,32.0,60.0,0.02519505587,0.15,ok,ok2022ekhh,2022-03-04T15:41:31.408Z,"16 km NNE of Morrison, Oklahoma",earthquake,,0.3,0.17,4.0,reviewed,ok,ok
+2022-03-03T18:31:01.520Z,39.4175,-110.3068333,-2.25,2.0,md,6.0,197.0,0.01561,0.12,uu,uu60484197,2022-03-04T15:45:11.450Z,"16 km SSE of Sunnyside, Utah",earthquake,1.09,2.6,0.163,6.0,reviewed,uu,uu
