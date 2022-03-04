@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-04T11:18:46.940Z,38.8358345,-122.8071671,2.07,1.78,md,28,34,0.01263,0.03,nc,nc73701016,2022-03-04T11:20:21.038Z,"7km WNW of Cobb, CA",earthquake,0.19,0.36,0.04,8,automatic,nc,nc
+2022-03-04T11:19:27.930Z,19.1630001068115,-155.468505859375,33.3400001525879,1.73000002,md,33,84,,0.119999997,hv,hv72937312,2022-03-04T11:22:48.980Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.68,1.21000004,1.87,4,automatic,hv,hv
+2022-03-04T11:18:46.940Z,38.8358345,-122.8071671,2.07,1.78,md,28,34,0.01263,0.03,nc,nc73701016,2022-03-04T11:27:10.762Z,"7km WNW of Cobb, CA",earthquake,0.19,0.36,0.04,8,automatic,nc,nc
 2022-03-04T11:10:23.520Z,33.1643333,-116.2698333,19.86,1.02,ml,12,173,0.1612,0.23,ci,ci40199384,2022-03-04T11:14:05.265Z,"13km W of Ocotillo Wells, CA",earthquake,1.64,1.39,0.177,13,automatic,ci,ci
 2022-03-04T10:55:32.290Z,38.833168,-122.8168335,1.83,0.71,md,16,56,0.0111,0.02,nc,nc73701006,2022-03-04T11:04:10.624Z,"8km NW of The Geysers, CA",earthquake,0.25,0.61,0.14,2,automatic,nc,nc
 2022-03-04T10:46:14.761Z,27.1745,53.2459,10,4.4,mb,,103,3.465,0.44,us,us6000h20t,2022-03-04T11:02:42.040Z,"55 km SE of Mohr, Iran",earthquake,9.1,1.9,0.089,36,reviewed,us,us
@@ -56,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T04:08:36.000Z,38.8219986,-122.7893295,0.68,0.46,md,8,76,0.01103,0.01,nc,nc73700896,2022-03-04T04:16:11.222Z,"6km NNW of The Geysers, CA",earthquake,0.31,0.58,0.39,2,automatic,nc,nc
 2022-03-04T04:07:52.039Z,33.6666,81.9193,10,4.6,mb,,109,6.523,0.83,us,us6000h1yw,2022-03-04T04:24:22.040Z,"western Xizang",earthquake,3.4,1.9,0.076,55,reviewed,us,us
 2022-03-04T04:03:23.240Z,38.8083344,-122.7406693,1.84,1.04,md,19,121,0.01675,0.03,nc,nc73700891,2022-03-04T04:16:11.361Z,"2km SW of Cobb, CA",earthquake,0.29,0.57,0.14,5,automatic,nc,nc
-2022-03-04T03:57:20.030Z,37.9736671,-122.0301666,6.61,2.16,md,28,145,0.05432,0.09,nc,nc73700886,2022-03-04T06:45:54.829Z,"2km WNW of Concord, CA",earthquake,0.28,0.42,0.14,26,automatic,nc,nc
+2022-03-04T03:57:20.030Z,37.9736671,-122.0301666,6.61,2.16,md,28,145,0.05432,0.09,nc,nc73700886,2022-03-04T11:22:48.106Z,"2km WNW of Concord, CA",earthquake,0.28,0.42,0.14,26,automatic,nc,nc
 2022-03-04T03:56:59.780Z,38.7869987,-122.7683334,1.88,0.99,md,29,81,0.01518,0.03,nc,nc73700881,2022-03-04T04:30:14.465Z,"2km NW of The Geysers, CA",earthquake,0.21,0.33,0.11,6,automatic,nc,nc
 2022-03-04T03:53:45.650Z,36.742,-121.4006667,10.2,1.45,md,38,56,0.04337,0.13,nc,nc73700871,2022-03-04T11:17:11.701Z,"8km SSW of Ridgemark, CA",earthquake,0.22,0.35,0.236,31,reviewed,nc,nc
 2022-03-04T03:52:58.060Z,38.7845001,-122.7271652,1.2,1.15,md,19,82,0.007577,0.04,nc,nc73700866,2022-03-04T06:03:10.839Z,"3km ENE of The Geysers, CA",earthquake,0.23,0.55,0.11,4,automatic,nc,nc
