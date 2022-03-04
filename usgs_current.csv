@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T09:58:09.560Z,19.2448329925537,-155.420669555664,32,2.2,ml,33,126,,0.159999996,hv,hv72937267,2022-03-04T10:03:39.870Z,"7 km NE of Pāhala, Hawaii",earthquake,0.6,1.15999997,3.88,13,automatic,hv,hv
 2022-03-04T09:57:48.183Z,38.0563,-115.3742,3.4,2.9,ml,22,66.4,1.089,0.3568,nn,nn00834904,2022-03-04T14:33:37.040Z,"52 km NNW of Hiko, Nevada",earthquake,,1.8,0.28,14,automatic,nn,nn
 2022-03-04T09:51:52.070Z,38.8251648,-122.8113327,0.68,0.85,md,9,77,0.002022,0.02,nc,nc73700991,2022-03-04T11:11:11.667Z,"7km NW of The Geysers, CA",earthquake,0.31,1.05,,1,automatic,nc,nc
-2022-03-04T09:42:51.840Z,19.1658325195312,-155.469329833984,32.2000007629395,2.73,ml,48,79,,0.140000001,hv,hv72937247,2022-03-04T09:48:22.970Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.52,0.75999999,3.57,32,automatic,hv,hv
+2022-03-04T09:42:51.840Z,19.1658325195312,-155.469329833984,32.2000007629395,2.73,ml,48,79,,0.140000001,hv,hv72937247,2022-03-04T14:44:05.040Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.52,0.75999999,3.57,32,automatic,hv,hv
 2022-03-04T09:40:47.780Z,38.7879982,-122.7216644,2.23,0.7,md,9,87,0.01269,0.01,nc,nc73700981,2022-03-04T10:46:10.510Z,"3km WNW of Anderson Springs, CA",earthquake,0.38,1.51,0.17,2,automatic,nc,nc
 2022-03-04T09:26:47.456Z,2.0587,124.7809,198.43,4.3,mb,,89,2.883,0.31,us,us6000h20f,2022-03-04T11:30:05.040Z,"64 km N of Manado, Indonesia",earthquake,6.4,7.5,0.085,39,reviewed,us,us
 2022-03-04T09:20:37.980Z,19.175666809082,-155.456832885742,35.75,1.88,md,43,124,,0.119999997,hv,hv72937237,2022-03-04T09:23:56.970Z,"3 km SE of Pāhala, Hawaii",earthquake,0.61,0.959999979,1.67999995,6,automatic,hv,hv
@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T15:14:04.369Z,38.1695,-117.8276,8.5,1,ml,13,178.94,0.108,0.1182,nn,nn00834848,2022-03-04T02:37:00.940Z,"34 km SE of Mina, Nevada",earthquake,,2.5,0.7,4,reviewed,nn,nn
 2022-03-03T15:10:14.690Z,63.2215,-150.4668,115.6,1.7,ml,,,,0.4,ak,ak0222usb703,2022-03-03T15:39:03.203Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-03-03T15:10:11.285Z,30.7229,141.7351,10,4.7,mb,,67,2.891,0.64,us,us6000h1qv,2022-03-03T17:21:35.040Z,"Izu Islands, Japan region",earthquake,9.7,1.9,0.067,70,reviewed,us,us
-2022-03-03T14:41:35.634Z,52.3599,-168.1827,35,3.3,ml,,214,0.737,1.08,us,us6000h1qg,2022-03-03T15:27:13.040Z,"79 km SE of Nikolski, Alaska",earthquake,3.9,2,0.091,16,reviewed,us,us
