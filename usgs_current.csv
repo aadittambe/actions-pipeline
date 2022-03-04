@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-04T19:22:58.890Z,35.8475,-117.6781667,8.58,0.69,ml,12,86,0.0728,0.06,ci,ci40199648,2022-03-04T19:26:29.761Z,"23km ESE of Little Lake, CA",earthquake,0.19,0.57,0.132,7,automatic,ci,ci
 2022-03-04T18:33:14.580Z,33.8241667,-117.48,-0.51,1.03,ml,36,45,0.0299,0.18,ci,ci40199632,2022-03-04T18:42:52.827Z,"7km SSE of Home Gardens, CA",quarry blast,0.36,31.61,0.082,16,reviewed,ci,ci
 2022-03-04T18:29:21.990Z,38.7938347,-122.7493362,1.99,1.45,md,26,55,0.01057,0.03,nc,nc73701176,2022-03-04T19:13:14.431Z,"2km NNE of The Geysers, CA",earthquake,0.23,0.4,0.11,8,automatic,nc,nc
 2022-03-04T18:27:40.610Z,37.5,-118.8758333,-0.51,1.28,md,16,142,0.09724,0.18,nc,nc73701171,2022-03-04T19:03:15.362Z,"18km SSE of Mammoth Lakes, CA",earthquake,0.54,31.61,0.214,14,reviewed,nc,nc
