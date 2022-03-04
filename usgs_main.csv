@@ -742,3 +742,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T20:18:58.280Z,38.822,-122.8533333,2.69,0.22,md,24.0,65.0,0.006189,0.02,nc,nc73700731,2022-03-03T23:42:40.787Z,"10km WNW of The Geysers, CA",earthquake,0.16,0.26,0.375,3.0,reviewed,nc,nc
 2022-03-03T11:18:35.000Z,51.9311666666667,-177.101333333333,5.24,0.31,ml,5.0,263.0,,0.12,av,av91050888,2022-03-03T23:45:28.510Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.64,0.69,0.361442038341001,5.0,reviewed,av,av
 2022-03-03T13:56:19.480Z,61.0241666666667,-152.3905,9.15,0.01,ml,5.0,184.0,,0.08,av,av91050893,2022-03-03T23:50:26.160Z,"67 km W of Tyonek, Alaska",earthquake,0.75,2.4,0.174746497545777,5.0,reviewed,av,av
+2022-03-03T23:56:28.852Z,63.2236,-150.389,108.2,1.4,ml,,,,0.38,ak,ak0222uxcjut,2022-03-04T00:00:45.851Z,"74 km WSW of Cantwell, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2022-03-03T23:56:12.090Z,38.7949982,-122.7584991,2.67,0.99,md,26.0,80.0,0.005698,0.03,nc,nc73700796,2022-03-04T00:04:10.713Z,"2km N of The Geysers, CA",earthquake,0.25,0.48,0.08,6.0,automatic,nc,nc
+2022-03-03T23:52:22.200Z,62.4291,-151.3199,84.6,1.6,ml,,,,0.48,ak,ak0222uxbogp,2022-03-04T00:04:06.552Z,"29 km WSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-03T23:51:42.654Z,38.0602,-115.2847,5.0,2.8,ml,,117.0,0.636,0.91,us,us6000h1xd,2022-03-04T00:04:39.040Z,"51 km N of Hiko, Nevada",earthquake,1.9,1.9,0.034,112.0,reviewed,us,us
+2022-03-03T21:47:08.698Z,-26.8252,26.4444,5.0,3.7,ml,,212.0,1.957,0.98,us,us6000h1xf,2022-03-04T00:09:43.415Z,"22 km W of Klerksdorp, South Africa",earthquake,4.1,2.0,0.148,6.0,reviewed,us,us
+2022-03-03T20:37:48.600Z,38.7928333,-122.7858333,-0.03,0.71,md,11.0,108.0,0.001665,0.02,nc,nc73700746,2022-03-04T00:23:11.959Z,"3km NW of The Geysers, CA",earthquake,0.22,0.47,0.252,2.0,reviewed,nc,nc
+2022-03-03T14:13:39.910Z,38.753,-122.7285,1.52,1.03,md,34.0,94.0,0.00904,0.04,nc,nc73700656,2022-03-04T00:25:45.452Z,"4km SE of The Geysers, CA",earthquake,0.16,0.2,0.095,8.0,reviewed,nc,nc
+2022-03-03T12:45:26.560Z,38.7916667,-122.7363333,2.17,0.16,md,16.0,92.0,0.008423,0.02,nc,nc73700601,2022-03-04T00:22:15.029Z,"2km NE of The Geysers, CA",earthquake,0.23,0.63,0.009,3.0,reviewed,nc,nc
