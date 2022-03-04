@@ -838,3 +838,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T08:02:40.690Z,19.2051658630371,-155.415161132812,33.2900009155273,1.71000004,md,42.0,155.0,,0.119999997,hv,hv72937172,2022-03-04T08:05:58.000Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.899999976,1.14999998,6.0,automatic,hv,hv
 2022-03-04T07:55:26.959Z,63.5142,-152.476,14.9,1.7,ml,,,,0.88,ak,ak0222wbcqth,2022-03-04T08:01:09.735Z,"37 km W of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-04T07:47:59.660Z,-5.305,150.7244,156.78,5.4,mww,,45.0,4.661,0.76,us,us6000h1zu,2022-03-04T08:07:07.040Z,"70 km ENE of Kimbe, Papua New Guinea",earthquake,8.7,6.0,0.063,24.0,reviewed,us,us
+2022-03-03T15:16:50.556Z,47.0126,-66.5468,8.9,1.8,ml,,82.0,0.424,0.38,us,us6000h1zz,2022-03-04T08:34:59.040Z,"New Brunswick, Canada",earthquake,3.0,8.0,0.081,20.0,reviewed,us,us
+2022-03-03T11:50:41.090Z,38.7871667,-122.7633333,1.08,0.54,md,26.0,68.0,0.01373,0.03,nc,nc73700566,2022-03-04T08:36:09.711Z,"1km NNW of The Geysers, CA",earthquake,0.18,0.33,0.052,3.0,reviewed,nc,nc
