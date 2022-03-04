@@ -931,3 +931,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T18:37:28.670Z,44.3516667,-115.1668333,6.18,1.95,ml,9.0,111.0,0.81,0.27,mb,mb80539559,2022-03-04T17:03:30.480Z,"23 km NW of Stanley, Idaho",earthquake,0.72,2.16,0.182,9.0,reviewed,mb,mb
 2022-03-04T17:10:47.740Z,38.7548332,-122.418663,3.47,2.12,md,21.0,79.0,0.05569,0.19,nc,nc73701131,2022-03-04T17:17:17.783Z,"14km ESE of Hidden Valley Lake, CA",earthquake,0.39,1.69,0.19,19.0,automatic,nc,nc
 2022-03-04T09:20:29.790Z,17.9816666666667,-67.0688333333333,4.42,1.09,md,3.0,186.0,,0.02,pr,pr71338948,2022-03-04T17:14:52.550Z,"2 km WNW of La Parguera, Puerto Rico",earthquake,0.55,1.0,0.0893441108656743,3.0,reviewed,pr,pr
+2022-03-04T17:26:26.050Z,38.8370018,-122.8095016,1.61,0.9,md,21.0,54.0,0.01359,0.04,nc,nc73701136,2022-03-04T17:28:00.611Z,"8km WNW of Cobb, CA",earthquake,0.19,0.48,0.2,4.0,automatic,nc,nc
+2022-03-04T03:52:10.589Z,36.43133333,-96.94416667,7.55,0.58,ml,36.0,59.0,0.02519505587,0.15,ok,ok2022ejow,2022-03-04T17:31:21.558Z,"15 km NNE of Morrison, Oklahoma",earthquake,,0.3,0.17,4.0,reviewed,ok,ok
