@@ -774,3 +774,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-03T05:56:03.554Z,38.5495,-119.5284,6.4,1.0,ml,7.0,117.74,0.037,0.122,nn,nn00834893,2022-03-04T01:34:15.230Z,"2 km SW of Coleville, California",earthquake,,1.8,0.12,3.0,reviewed,nn,nn
 2022-03-03T05:16:41.516Z,38.7433,-119.6235,0.0,0.8,ml,6.0,178.25,0.151,0.1308,nn,nn00834892,2022-03-04T01:28:02.937Z,"8 km NW of Topaz Lake, Nevada",earthquake,,0.0,0.45,4.0,reviewed,nn,nn
 2022-03-03T01:55:47.994Z,38.3703,-118.6934,8.3,0.6,ml,7.0,307.54,0.19,0.0118,nn,nn00834891,2022-03-04T01:12:34.791Z,"18 km SSW of Hawthorne, Nevada",earthquake,,73.9,0.0,1.0,reviewed,nn,nn
+2022-03-04T02:09:34.330Z,38.7908325,-122.7258301,1.61,0.53,md,13.0,92.0,0.02822,0.03,nc,nc73700821,2022-03-04T02:11:12.251Z,"3km ENE of The Geysers, CA",earthquake,0.29,0.8,0.14,3.0,automatic,nc,nc
+2022-03-04T02:07:43.240Z,19.1798324584961,-155.501007080078,34.4799995422363,2.27999997,md,38.0,84.0,,0.140000001,hv,hv72936797,2022-03-04T02:10:49.070Z,"3 km SW of Pāhala, Hawaii",earthquake,0.7,0.800000012,1.90999997,22.0,automatic,hv,hv
+2022-03-03T19:42:09.420Z,60.0255,-153.099166666667,2.23,-0.7,ml,4.0,181.0,,0.12,av,av91503866,2022-03-04T01:58:17.500Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.62,2.1,0.196001080804624,4.0,reviewed,av,av
