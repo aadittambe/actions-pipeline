@@ -871,3 +871,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T11:46:38.262Z,38.1731,-117.9566,5.7,0.6,ml,8.0,156.89,0.034,0.0451,nn,nn00834907,2022-03-04T11:50:36.816Z,"27 km SSE of Mina, Nevada",earthquake,,0.6,0.24,4.0,automatic,nn,nn
 2022-03-04T09:01:29.760Z,-29.5079,-71.6968,10.0,4.4,mb,,152.0,0.571,0.46,us,us6000h20b,2022-03-04T11:51:54.040Z,"60 km NW of Coquimbo, Chile",earthquake,1.9,1.9,0.179,9.0,reviewed,us,us
 2022-03-04T11:02:28.990Z,18.0438333333333,-66.8186666666667,13.99,2.25,md,7.0,131.0,,0.13,pr,pr71338898,2022-03-04T11:55:05.470Z,"3 km ENE of Yauco, Puerto Rico",earthquake,0.42,0.99,0.0353602705595879,5.0,reviewed,pr,pr
+2022-03-04T12:11:00.400Z,33.4948333,-116.5176667,14.51,0.64,ml,20.0,56.0,0.06349,0.13,ci,ci40199416,2022-03-04T12:14:31.559Z,"16km ESE of Anza, CA",earthquake,0.27,0.54,0.133,11.0,automatic,ci,ci
