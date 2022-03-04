@@ -29,7 +29,7 @@ You need a free [GitHub account](https://github.com/) to begin this tutorial.
 
 This chapter will walk you through how to create a repository. A GitHub repository is a place to store your projects files and keep track of the revision history. Keeping track of your revision history means that you can go back to any point in time and see how your project appeared. 
 
-In your profile on [GitHub](https://github.com/), navigate to the "repositories" tab and click the green "new" button.
+In your profile on <a href="https://github.com/" target="_blank">GitHub</a>, navigate to the "repositories" tab and click the green "new" button.
 
 <img src="./_static/image_25.png">
 
