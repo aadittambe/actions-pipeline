@@ -990,3 +990,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T15:16:10.890Z,38.8121667,-122.787,2.85,0.15,md,27.0,37.0,0.005053,0.02,nc,nc73701101,2022-03-04T20:13:10.982Z,"5km NW of The Geysers, CA",earthquake,0.17,0.29,0.202,4.0,reviewed,nc,nc
 2022-03-04T12:04:13.870Z,38.802,-122.7898333,3.28,0.25,md,11.0,65.0,0.007333,0.01,nc,nc73701026,2022-03-04T20:13:10.833Z,"4km NW of The Geysers, CA",earthquake,0.51,0.84,0.288,3.0,reviewed,nc,nc
 2022-03-04T20:16:28.690Z,17.9978333333333,-67.025,16.22,2.4,md,5.0,119.0,,0.07,pr,pr71338953,2022-03-04T20:27:48.710Z,"3 km NE of La Parguera, Puerto Rico",earthquake,0.69,0.87,0.031969220420617,3.0,reviewed,pr,pr
+2022-03-04T20:51:11.140Z,19.1878337860107,-155.487167358398,31.2399997711182,2.13000011,md,38.0,70.0,,0.129999995,hv,hv72937892,2022-03-04T20:54:19.760Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.52,0.800000012,1.74000001,18.0,automatic,hv,hv
+2022-03-04T20:47:42.018Z,63.1005,-144.4542,0.0,1.5,ml,,,,0.8,ak,ak0222wj1p2c,2022-03-04T20:52:32.826Z,"40 km WNW of Mentasta Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
