@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-04T19:34:18.960Z,33.467,-116.4743333,7.6,0.74,ml,21,65,0.1019,0.2,ci,ci40199656,2022-03-04T19:37:56.285Z,"21km ESE of Anza, CA",earthquake,0.31,1.01,0.21,18,automatic,ci,ci
 2022-03-04T19:30:29.837Z,61.7738,-150.7789,56.3,1,ml,,,,0.27,ak,ak0222wicldz,2022-03-04T19:33:14.999Z,"29 km NNW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-03-04T19:22:58.890Z,35.8475,-117.6781667,8.58,0.69,ml,12,86,0.0728,0.06,ci,ci40199648,2022-03-04T19:26:29.761Z,"23km ESE of Little Lake, CA",earthquake,0.19,0.57,0.132,7,automatic,ci,ci
 2022-03-04T18:33:14.580Z,33.8241667,-117.48,-0.51,1.03,ml,36,45,0.0299,0.18,ci,ci40199632,2022-03-04T18:42:52.827Z,"7km SSE of Home Gardens, CA",quarry blast,0.36,31.61,0.082,16,reviewed,ci,ci

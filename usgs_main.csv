@@ -979,3 +979,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T19:22:58.890Z,35.8475,-117.6781667,8.58,0.69,ml,12.0,86.0,0.0728,0.06,ci,ci40199648,2022-03-04T19:26:29.761Z,"23km ESE of Little Lake, CA",earthquake,0.19,0.57,0.132,7.0,automatic,ci,ci
 2022-03-04T19:30:29.837Z,61.7738,-150.7789,56.3,1.0,ml,,,,0.27,ak,ak0222wicldz,2022-03-04T19:33:14.999Z,"29 km NNW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-03-04T08:44:30.220Z,47.73233333333334,-120.27016666666668,2.03,0.54,ml,10.0,81.0,0.07422,0.06,uw,uw61820066,2022-03-04T19:32:53.860Z,"7 km NW of Entiat, Washington",earthquake,0.19,1.49,0.2413742787663761,5.0,reviewed,uw,uw
+2022-03-04T19:34:18.960Z,33.467,-116.4743333,7.6,0.74,ml,21.0,65.0,0.1019,0.2,ci,ci40199656,2022-03-04T19:37:56.285Z,"21km ESE of Anza, CA",earthquake,0.31,1.01,0.21,18.0,automatic,ci,ci
