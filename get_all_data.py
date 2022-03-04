@@ -1,6 +1,4 @@
 import pandas as pd # import pandas library for data manipulation and analysis
-import requests # import requests library to send HTTP requests using Python
-import json # import json library to handle json files
 from pathlib import Path # import path library to work with file paths
 
 df_current = pd.read_csv('usgs_current.csv')
