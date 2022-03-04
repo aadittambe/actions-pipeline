@@ -804,3 +804,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T04:37:35.660Z,33.5786667,-116.8031667,4.97,0.64,ml,24.0,65.0,0.03589,0.1,ci,ci40199312,2022-03-04T04:41:09.263Z,"12km WNW of Anza, CA",earthquake,0.18,0.36,0.118,17.0,automatic,ci,ci
 2022-03-03T11:43:00.080Z,38.7906667,-122.7835,0.38,0.19,md,17.0,82.0,0.004268,0.03,nc,nc73700521,2022-03-04T04:42:06.220Z,"3km WNW of The Geysers, CA",earthquake,0.14,0.23,0.293,3.0,reviewed,nc,nc
 2022-03-04T04:48:28.520Z,35.8683319,-117.6651688,6.75,1.08,ml,17.0,96.0,0.076,0.08,ci,ci40199328,2022-03-04T04:50:33.071Z,"23km ESE of Little Lake, CA",earthquake,0.3,0.64,0.137,5.0,automatic,ci,ci
+2022-03-04T04:50:24.860Z,38.8171654,-122.7959976,2.04,0.84,md,13.0,50.0,0.0092,0.01,nc,nc73700911,2022-03-04T04:51:57.990Z,"6km NW of The Geysers, CA",earthquake,0.31,0.68,,1.0,automatic,nc,nc
+2022-03-04T04:43:33.150Z,18.011,-66.7451666666667,13.67,2.54,md,8.0,179.0,,0.09,pr,pr71338873,2022-03-04T04:55:38.480Z,"2 km ESE of Magas Arriba, Puerto Rico",earthquake,0.52,0.3,0.274160553321902,5.0,reviewed,pr,pr
