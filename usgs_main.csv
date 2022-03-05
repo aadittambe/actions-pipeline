@@ -1139,3 +1139,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T08:39:53.870Z,18.0081666666667,-66.8341666666667,15.72,2.55,md,6.0,153.0,,0.12,pr,pr71339028,2022-03-05T08:58:08.560Z,"2 km NW of Indios, Puerto Rico",earthquake,0.58,0.93,0.16620477576374,5.0,reviewed,pr,pr
 2022-03-05T08:58:26.710Z,34.0318333,-117.1595,10.97,1.03,ml,25.0,94.0,0.03927,0.22,ci,ci40200008,2022-03-05T09:02:03.704Z,"3km SE of Redlands, CA",earthquake,0.38,0.82,0.149,22.0,automatic,ci,ci
 2022-03-05T08:47:39.310Z,17.9268333333333,-66.8948333333333,2.27,2.16,md,4.0,270.0,,0.04,pr,pr71339038,2022-03-05T09:01:22.320Z,"5 km SSE of Guánica, Puerto Rico",earthquake,1.4,0.36,0.128233737037989,3.0,reviewed,pr,pr
+2022-03-05T08:51:39.290Z,36.7843333,-121.4758333,6.28,0.85,md,19.0,127.0,0.03063,0.11,nc,nc73701571,2022-03-05T09:21:10.702Z,"9km SE of San Juan Bautista, CA",earthquake,0.31,0.36,0.235,17.0,reviewed,nc,nc
