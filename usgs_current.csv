@@ -135,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T22:54:39.040Z,19.2110004425049,-155.451507568359,36.3800010681152,1.94000006,md,36,146,,0.109999999,hv,hv72938042,2022-03-04T22:57:52.960Z,"2 km ENE of Pāhala, Hawaii",earthquake,0.53,0.790000021,1.94000006,4,automatic,hv,hv
 2022-03-04T22:51:28.785Z,63.4584,-147.508,0,1.6,ml,,,,1.42,ak,ak0222wk9e53,2022-03-04T22:55:55.694Z,"72 km E of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-04T22:51:26.560Z,33.7236667,-116.7796667,14.49,0.97,ml,30,80,0.056,0.1,ci,ci40199720,2022-03-04T22:54:57.970Z,"6km WSW of Idyllwild, CA",earthquake,0.21,0.29,0.144,25,automatic,ci,ci
-2022-03-04T22:50:31.224Z,42.5807,-72.3947,3.49,2.4,ml,,55,0.248,0.29,us,us6000h27e,2022-03-05T13:40:00.505Z,"2 km S of Erving, Massachusetts",earthquake,1.4,2,0.051,50,reviewed,us,us
+2022-03-04T22:50:31.224Z,42.5807,-72.3947,3.49,2.4,ml,,55,0.248,0.29,us,us6000h27e,2022-03-05T13:45:08.015Z,"2 km S of Erving, Massachusetts",earthquake,1.4,2,0.051,50,reviewed,us,us
 2022-03-04T22:39:16.010Z,19.1785,-155.511333333333,36.82,2.59,md,52,87,,0.12,hv,hv72938022,2022-03-05T01:28:49.080Z,"4 km SW of Pāhala, Hawaii",earthquake,0.41,0.53,0.171531216763185,21,reviewed,hv,hv
 2022-03-04T22:34:52.430Z,38.8406677,-122.8251648,1.61,0.64,md,12,96,0.008324,0.01,nc,nc73701286,2022-03-04T22:51:14.757Z,"9km WNW of Cobb, CA",earthquake,0.34,0.72,,1,automatic,nc,nc
 2022-03-04T22:31:36.090Z,38.7724991,-122.7196655,1.31,2.05,md,30,66,0.01162,0.05,nc,nc73701281,2022-03-05T01:22:15.729Z,"2km W of Anderson Springs, CA",earthquake,0.21,0.29,0.09,9,automatic,nc,nc
@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T14:00:19.900Z,19.1323,-65.001,27,3.71,md,17,306,0.8715,0.3,pr,pr2022063000,2022-03-04T14:32:50.867Z,"87 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.78,19.62,0.11,12,reviewed,pr,pr
 2022-03-04T13:57:45.490Z,37.6451667,-118.8621667,3.47,-0.4,md,7,122,0.02208,0.06,nc,nc73701066,2022-03-04T17:57:06.217Z,"10km E of Mammoth Lakes, CA",earthquake,0.57,1.39,0.4,7,reviewed,nc,nc
 2022-03-04T13:56:06.680Z,19.1473331451416,-155.421493530273,33.560001373291,2.33,ml,49,172,,0.129999995,hv,hv72937447,2022-03-04T14:08:24.963Z,"8 km SE of Pāhala, Hawaii",earthquake,0.56,0.860000014,4.23,5,automatic,hv,hv
-2022-03-04T13:44:42.627Z,63.0927,-151.4672,5.1,1.3,ml,,,,0.82,ak,ak0222wev0og,2022-03-04T15:51:42.187Z,"51 km SSE of Denali National Park, Alaska",earthquake,,1.2,,,reviewed,ak,ak
