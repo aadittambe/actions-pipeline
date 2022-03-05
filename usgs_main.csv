@@ -1161,3 +1161,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T11:08:51.090Z,17.9186666666667,-66.8166666666667,13.83,2.16,md,7.0,226.0,,0.09,pr,pr71339053,2022-03-05T11:39:06.290Z,"8 km S of Indios, Puerto Rico",earthquake,0.69,0.39,0.0331303270070591,5.0,reviewed,pr,pr
 2022-03-05T11:40:56.680Z,34.0286667,-117.1543333,10.2,1.32,ml,40.0,102.0,0.08252,0.21,ci,ci40200096,2022-03-05T11:44:28.912Z,"4km SE of Redlands, CA",earthquake,0.3,0.77,0.148,28.0,automatic,ci,ci
 2022-03-05T11:39:14.370Z,61.5444,-149.8765,34.0,1.5,ml,,,,0.85,ak,ak0222y16dal,2022-03-05T11:42:21.856Z,"4 km ENE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-05T11:57:55.649Z,59.7911,-152.3339,38.4,1.7,ml,,,,0.96,ak,ak0222y1abd8,2022-03-05T12:01:03.819Z,"28 km W of Anchor Point, Alaska",earthquake,,2.2,,,automatic,ak,ak
