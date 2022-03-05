@@ -1197,3 +1197,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T15:35:06.449Z,63.5073,-152.7378,18.1,1.6,ml,,,,0.53,ak,ak0222y3j8gu,2022-03-05T15:41:57.101Z,"46 km SSW of Lake Minchumina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-05T04:37:14.660Z,44.3731667,-115.2265,12.5,1.99,ml,8.0,84.0,0.902,0.23,mb,mb80539729,2022-03-05T15:38:53.110Z,"28 km NW of Stanley, Idaho",earthquake,0.84,2.88,0.098,9.0,reviewed,mb,mb
 2022-03-05T15:25:43.319Z,1.368,127.1281,125.73,4.8,mb,,87.0,0.638,0.83,us,us6000h2dv,2022-03-05T15:44:57.040Z,"69 km NNW of Ternate, Indonesia",earthquake,8.4,4.9,0.066,70.0,reviewed,us,us
+2022-03-05T15:52:16.974Z,63.5865,-147.2911,7.9,1.6,ml,,,,0.62,ak,ak0222y3mw8l,2022-03-05T15:56:08.884Z,"82 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-05T15:52:11.320Z,19.179666519165,-155.470169067383,30.2299995422363,2.3,ml,47.0,91.0,,0.119999997,hv,hv72938972,2022-03-05T15:57:41.960Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.43,0.620000005,0.03,4.0,automatic,hv,hv
+2022-03-05T15:49:07.228Z,39.2433,-117.631,11.1,1.9,ml,15.0,149.89,0.413,0.2689,nn,nn00834947,2022-03-05T15:52:45.987Z,"48 km W of Kingston, Nevada",earthquake,,0.8,0.22,9.0,automatic,nn,nn
