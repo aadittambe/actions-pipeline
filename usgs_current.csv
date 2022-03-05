@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-05T13:33:23.904Z,2.6736,99.0195,155.46,5.1,mb,,71,1.983,0.51,us,us6000h2cv,2022-03-05T13:52:13.040Z,"9 km E of Parapat, Indonesia",earthquake,3.8,6.4,0.045,156,reviewed,us,us
 2022-03-05T13:30:00.525Z,63.332,-145.35,8.2,1.8,ml,,,,0.85,ak,ak0222y2b9zm,2022-03-05T13:34:43.691Z,"30 km NNE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-05T13:11:51.690Z,34.8418333,-118.9331667,9.81,1.27,ml,13,85,0.06373,0.16,ci,ci40200120,2022-03-05T13:15:23.450Z,"2km NNE of Frazier Park, CA",earthquake,0.41,0.9,0.264,13,automatic,ci,ci
 2022-03-05T13:11:23.120Z,60.6053,-149.7105,31.2,1.8,ml,,,,0.47,ak,ak0222y2794o,2022-03-05T13:14:51.490Z,"14 km NNE of Cooper Landing, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -124,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T00:05:17.550Z,64.9242,-147.2899,0,1.4,ml,,,,1.05,ak,ak0222xufbif,2022-03-05T00:46:10.497Z,"13 km WNW of Two Rivers, Alaska",explosion,,0.4,,,automatic,ak,ak
 2022-03-04T23:52:57.080Z,38.8191667,-122.7658333,2.21,0.97,md,10,174,0.01173,0.03,nc,nc73701336,2022-03-05T08:58:15.593Z,"4km W of Cobb, CA",earthquake,0.33,0.4,,1,reviewed,nc,nc
 2022-03-04T23:48:27.060Z,38.8183327,-122.7643356,2.16,0.95,md,11,187,0.01288,0.02,nc,nc73701331,2022-03-05T00:14:15.318Z,"4km W of Cobb, CA",earthquake,0.71,1.03,0.25,2,automatic,nc,nc
-2022-03-04T23:47:44.100Z,51.866,-177.855,6,0.19,ml,4,221,,0.08,av,av91504386,2022-03-05T01:58:40.750Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.58,1,0.323326938048969,4,reviewed,av,av
+2022-03-04T23:47:44.100Z,51.866,-177.855,6,0.19,ml,4,221,,0.08,av,av91504386,2022-03-05T01:58:40.750Z,"84 km W of Adak, Alaska",earthquake,0.58,1,0.323326938048969,4,reviewed,av,av
 2022-03-04T23:46:33.001Z,-6.9482,130.6093,109,4.7,mb,,90,1.234,0.85,us,us6000h27l,2022-03-05T00:07:40.040Z,"278 km WSW of Tual, Indonesia",earthquake,7.2,4.9,0.068,65,reviewed,us,us
 2022-03-04T23:44:26.620Z,33.4706667,-116.4756667,9.66,0.93,ml,28,98,0.09817,0.16,ci,ci40199760,2022-03-04T23:48:06.302Z,"21km ESE of Anza, CA",earthquake,0.27,0.56,0.16,24,automatic,ci,ci
 2022-03-04T23:43:58.027Z,65.8178,-150.7555,13.2,1.3,ml,,,,0.93,ak,ak0222wkt6dn,2022-03-05T00:56:21.655Z,"44 km NW of Rampart, Alaska",earthquake,,0.6,,,reviewed,ak,ak
@@ -178,7 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T19:13:11.050Z,39.4246667,-110.3113333,-1.64,1.88,md,9,194,0.01068,0.11,uu,uu60484347,2022-03-04T21:51:23.580Z,"15 km SSE of Sunnyside, Utah",earthquake,0.62,0.35,0.162,7,reviewed,uu,uu
 2022-03-04T18:38:39.830Z,37.9178333,-121.9576667,-0.26,1.23,md,13,56,0.03243,0.08,nc,nc73701181,2022-03-04T23:59:36.755Z,"3km SW of Clayton, CA",quarry blast,0.25,31.61,0.359,11,reviewed,nc,nc
 2022-03-04T18:33:14.580Z,33.8241667,-117.48,-0.51,1.03,ml,36,45,0.0299,0.18,ci,ci40199632,2022-03-04T18:42:52.827Z,"7km SSE of Home Gardens, CA",quarry blast,0.36,31.61,0.082,16,reviewed,ci,ci
-2022-03-04T18:31:09.765Z,63.1326,-151.3604,9.4,1.1,ml,,,,0.82,ak,ak0222whrbun,2022-03-05T00:46:10.287Z,"Central Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2022-03-04T18:31:09.765Z,63.1326,-151.3604,9.4,1.1,ml,,,,0.82,ak,ak0222whrbun,2022-03-05T00:46:10.287Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-03-04T18:29:21.960Z,38.7941667,-122.7473333,2.13,1.37,md,42,46,0.01163,0.04,nc,nc73701176,2022-03-05T00:00:14.193Z,"2km NNE of The Geysers, CA",earthquake,0.16,0.3,0.108,12,reviewed,nc,nc
 2022-03-04T18:27:40.610Z,37.5,-118.8758333,-0.51,1.28,md,16,142,0.09724,0.18,nc,nc73701171,2022-03-04T21:58:13.473Z,"18km SSE of Mammoth Lakes, CA",earthquake,0.54,31.61,0.214,14,reviewed,nc,nc
 2022-03-04T18:17:35.370Z,36.1313333,-117.8333333,2.47,0.78,ml,16,131,0.02218,0.1,ci,ci40199616,2022-03-04T18:45:09.879Z,"14km NE of Coso Junction, CA",earthquake,0.28,0.21,0.261,7,reviewed,ci,ci
@@ -191,7 +192,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T18:03:44.130Z,38.8193321,-122.8043365,3,1,md,15,45,0.006045,0.02,nc,nc73701151,2022-03-04T18:30:14.189Z,"6km NW of The Geysers, CA",earthquake,0.31,1,0.21,2,automatic,nc,nc
 2022-03-04T18:03:31.620Z,33.8491667,-117.4978333,2.29,1.72,ml,57,31,0.05418,0.14,ci,ci40199592,2022-03-04T18:38:30.220Z,"4km SSE of Home Gardens, CA",quarry blast,0.17,0.31,0.17,22,reviewed,ci,ci
 2022-03-04T18:00:28.800Z,34.0363333,-117.0356667,12.88,2.12,ml,79,47,0.06374,0.13,ci,ci40199584,2022-03-04T18:38:40.020Z,"1km ENE of Yucaipa, CA",earthquake,0.13,0.33,0.194,24,reviewed,ci,ci
-2022-03-04T17:56:29.550Z,46.99366666666667,-120.36183333333334,-0.93,1.71,ml,16,92,0.143,0.33,uw,uw61820151,2022-03-04T19:53:16.150Z,"Washington",explosion,0.88,31.61,0.13942716165242108,12,reviewed,uw,uw
+2022-03-04T17:56:29.550Z,46.99366666666667,-120.36183333333334,-0.93,1.71,ml,16,92,0.143,0.33,uw,uw61820151,2022-03-04T19:53:16.150Z,"4 km ENE of Kittitas, Washington",explosion,0.88,31.61,0.13942716165242108,12,reviewed,uw,uw
 2022-03-04T17:55:37.910Z,32.0947,50.1885,11.63,4.4,mb,,89,4.794,0.64,us,us6000h23l,2022-03-04T20:22:50.040Z,"39 km WSW of Fārsān, Iran",earthquake,9.9,3,0.061,80,reviewed,us,us
 2022-03-04T17:54:52.558Z,60.3166,-152.0591,87.9,1.6,ml,,,,0.5,ak,ak0222whax3i,2022-03-04T17:59:05.768Z,"36 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-04T17:49:27.400Z,45.2926667,-112.0495,-2,1.17,ml,12,76,0.06,0.12,mb,mb80539669,2022-03-04T19:06:13.580Z,"5 km SE of Alder, Montana",quarry blast,0.41,31.61,0.144,7,reviewed,mb,mb
@@ -206,7 +207,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T16:59:42.707Z,-57.4719,-25.7697,66.54,5,mb,,82,6.823,0.46,us,us6000h22d,2022-03-04T19:06:11.040Z,"South Sandwich Islands region",earthquake,11.7,6.2,0.111,28,reviewed,us,us
 2022-03-04T16:53:37.913Z,62.6269,-149.8382,1.4,2.8,ml,,,,0.86,ak,ak0222wgp8lk,2022-03-05T06:04:58.353Z,"24 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-04T16:42:14.760Z,34.1253333,-117.4586667,6.83,1.13,ml,27,102,0.03055,0.16,ci,ci40199568,2022-03-04T18:26:57.391Z,"3km N of Fontana, CA",earthquake,0.28,0.53,0.118,17,reviewed,ci,ci
-2022-03-04T16:35:24.399Z,34.1355,-80.7402,5,1.7,ml,,111,0.312,0.47,us,us6000h28w,2022-03-05T10:25:01.586Z,"6 km SE of Elgin, South Carolina",earthquake,1.6,1.8,0.148,6,reviewed,us,us
+2022-03-04T16:35:23.620Z,34.1481667,-80.7381667,2.83,1.78,md,7,109,0.03775,0.36,se,se60146543,2022-03-05T13:56:08.807Z,"5 km ESE of Elgin, South Carolina",earthquake,2.77,1.52,0.054,6,reviewed,se,se
 2022-03-04T16:31:06.740Z,38.8339996,-122.7913361,1.95,1.09,md,18,106,0.004471,0.02,nc,nc73701121,2022-03-04T17:34:10.883Z,"6km WNW of Cobb, CA",earthquake,0.25,0.41,0.14,4,automatic,nc,nc
 2022-03-04T16:17:51.010Z,19.3801670074463,-155.460006713867,8.40999984741211,1.86,ml,40,38,,0.159999996,hv,hv72937577,2022-03-04T16:23:21.910Z,"19 km N of Pāhala, Hawaii",earthquake,0.37,0.620000005,0.32,3,automatic,hv,hv
 2022-03-04T16:03:53.904Z,61.4867,-149.9091,34.2,1.9,ml,,,,0.45,ak,ak0222wgek3g,2022-03-04T16:08:04.075Z,"4 km SSE of Big Lake, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -233,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T14:11:07.750Z,46.8995,-112.506,15.25,1.03,ml,13,94,0.052,0.14,mb,mb80539614,2022-03-04T15:09:39.220Z,"14 km ESE of Lincoln, Montana",earthquake,0.47,0.46,0.231,4,reviewed,mb,mb
 2022-03-04T14:00:19.900Z,19.1323,-65.001,27,3.71,md,17,306,0.8715,0.3,pr,pr2022063000,2022-03-04T14:32:50.867Z,"87 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.78,19.62,0.11,12,reviewed,pr,pr
 2022-03-04T13:57:45.490Z,37.6451667,-118.8621667,3.47,-0.4,md,7,122,0.02208,0.06,nc,nc73701066,2022-03-04T17:57:06.217Z,"10km E of Mammoth Lakes, CA",earthquake,0.57,1.39,0.4,7,reviewed,nc,nc
-2022-03-04T13:56:06.680Z,19.1473331451416,-155.421493530273,33.560001373291,2.33,ml,49,172,,0.129999995,hv,hv72937447,2022-03-04T14:08:24.963Z,"8 km SE of Pāhala, Hawaii",earthquake,0.56,0.860000014,4.23,5,automatic,hv,hv
