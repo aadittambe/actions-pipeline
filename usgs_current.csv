@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-05T03:17:45.150Z,38.8195,-122.8580017,2.61,1.68,md,24,76,0.008082,0.05,nc,nc73701471,2022-03-05T03:25:11.510Z,"10km WNW of The Geysers, CA",earthquake,0.28,0.48,0.1,6,automatic,nc,nc
+2022-03-05T03:17:45.150Z,38.8195,-122.8580017,2.61,1.68,md,24,76,0.008082,0.05,nc,nc73701471,2022-03-05T03:33:15.567Z,"10km WNW of The Geysers, CA",earthquake,0.28,0.48,0.1,6,automatic,nc,nc
 2022-03-05T03:10:26.046Z,62.4363,-149.3666,50.6,1.7,ml,,,,0.65,ak,ak0222xw8pl6,2022-03-05T03:15:17.453Z,"37 km E of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-03-05T03:06:54.208Z,-32.8494,57.2381,10,4.8,mb,,76,11.84,1.08,us,us6000h28k,2022-03-05T03:27:03.040Z,"Southwest Indian Ridge",earthquake,12,1.9,0.124,22,reviewed,us,us
 2022-03-05T02:47:00.660Z,38.8260002,-122.8528366,2.44,0.37,md,11,79,0.00351,0.01,nc,nc73701461,2022-03-05T03:23:20.499Z,"10km WNW of The Geysers, CA",earthquake,0.38,1.04,,1,automatic,nc,nc
 2022-03-05T02:42:13.250Z,38.8160019,-122.7946701,2.52,0.34,md,8,95,0.008037,0.01,nc,nc73701451,2022-03-05T03:02:13.388Z,"5km NW of The Geysers, CA",earthquake,0.53,2.69,,1,automatic,nc,nc
 2022-03-05T02:22:51.720Z,17.9288333333333,-66.8273333333333,21.14,2.28,md,6,224,,0.29,pr,pr71339018,2022-03-05T02:50:29.550Z,"7 km S of Indios, Puerto Rico",earthquake,1.49,2,0.104677921007132,5,reviewed,pr,pr
