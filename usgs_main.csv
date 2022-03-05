@@ -1203,3 +1203,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T16:04:31.970Z,19.406665802002,-155.592834472656,38.6599998474121,2.02,ml,38.0,62.0,,0.200000003,hv,hv72938977,2022-03-05T16:10:03.670Z,"25 km NNW of Pāhala, Hawaii",earthquake,0.78,0.829999983,0.31,4.0,automatic,hv,hv
 2022-03-05T16:04:19.510Z,33.9776667,-116.5498333,8.66,1.12,ml,30.0,108.0,0.1016,0.21,ci,ci40200176,2022-03-05T16:07:54.446Z,"5km WNW of Desert Hot Springs, CA",earthquake,0.28,1.09,0.104,27.0,automatic,ci,ci
 2022-03-05T16:00:35.010Z,38.8156662,-122.7963333,2.55,1.2,md,31.0,30.0,0.007729,0.02,nc,nc73701681,2022-03-05T16:09:11.275Z,"6km NW of The Geysers, CA",earthquake,0.2,0.37,0.05,6.0,automatic,nc,nc
+2022-03-05T16:38:32.100Z,38.8354988,-122.8071671,2.12,0.85,md,11.0,62.0,0.0123,0.01,nc,nc73701691,2022-03-05T16:40:08.867Z,"7km WNW of Cobb, CA",earthquake,0.39,0.86,,1.0,automatic,nc,nc
+2022-03-05T16:33:08.980Z,38.7791672,-122.7448349,0.51,1.08,md,16.0,74.0,0.007529,0.04,nc,nc73701686,2022-03-05T16:41:11.337Z,"1km ENE of The Geysers, CA",earthquake,0.24,0.43,0.15,4.0,automatic,nc,nc
+2022-03-05T16:31:39.061Z,64.824,-148.7396,7.6,1.7,ml,,,,0.41,ak,ak0222y43vhu,2022-03-05T16:36:13.190Z,"30 km NE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-05T14:43:04.444Z,22.3188,101.6785,10.0,4.5,mb,,72.0,2.196,1.13,us,us6000h2db,2022-03-05T16:41:42.040Z,"82 km NNW of Phôngsali, Laos",earthquake,5.1,1.9,0.103,28.0,reviewed,us,us
