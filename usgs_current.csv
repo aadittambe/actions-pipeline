@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-05T22:52:16.470Z,34.0211678,-117.6938324,14.66,1.86,ml,16,105,0.1782,0.26,ci,ci40200400,2022-03-05T22:54:42.451Z,"1km NNW of Chino, CA",earthquake,0.75,1.6,0.506,4,automatic,ci,ci
+2022-03-05T22:50:16.080Z,36.4978333,-121.0676651,7.89,1.94,md,18,136,0.04318,0.06,nc,nc73701806,2022-03-05T22:51:50.778Z,"8km ESE of Pinnacles, CA",earthquake,0.42,0.83,0.14,16,automatic,nc,nc
 2022-03-05T22:42:21.230Z,19.1453342437744,-155.481170654297,35.1199989318848,2.24000001,md,38,169,,0.140000001,hv,hv72939297,2022-03-05T22:45:35.890Z,"6 km S of Pāhala, Hawaii",earthquake,0.68,0.829999983,1.86000001,14,automatic,hv,hv
 2022-03-05T22:40:12.680Z,38.7683334,-122.7105026,1.35,1.13,md,12,112,0.008774,0.04,nc,nc73701801,2022-03-05T22:48:10.535Z,"2km WSW of Anderson Springs, CA",earthquake,0.31,0.4,0.24,6,automatic,nc,nc
 2022-03-05T22:38:01.410Z,33.6838333,-116.7878333,14.6,1.09,ml,33,59,0.06719,0.18,ci,ci40200384,2022-03-05T22:41:40.407Z,"9km SW of Idyllwild, CA",earthquake,0.29,0.41,0.196,30,automatic,ci,ci
@@ -208,7 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T23:16:10.820Z,33.3753333,-116.3755,3.13,0.98,ml,26,85,0.05664,0.2,ci,ci40199736,2022-03-04T23:19:41.139Z,"13km N of Borrego Springs, CA",earthquake,0.3,0.91,0.127,25,automatic,ci,ci
 2022-03-04T23:15:00.640Z,36.611,-121.063,9.83,1.66,md,22,115,0.03753,0.12,nc,nc73701301,2022-03-05T11:36:11.557Z,"11km NE of Pinnacles, CA",earthquake,0.45,0.44,0.145,17,reviewed,nc,nc
 2022-03-04T22:54:58.110Z,36.6125,-121.0676667,10.04,1.82,md,32,109,0.04079,0.13,nc,nc73701291,2022-03-05T11:07:11.512Z,"11km NE of Pinnacles, CA",earthquake,0.31,0.45,0.27,31,reviewed,nc,nc
-2022-03-04T22:54:39.040Z,19.2110004425049,-155.451507568359,36.3800010681152,1.94000006,md,36,146,,0.109999999,hv,hv72938042,2022-03-04T22:57:52.960Z,"2 km ENE of Pāhala, Hawaii",earthquake,0.53,0.790000021,1.94000006,4,automatic,hv,hv
-2022-03-04T22:51:28.785Z,63.4584,-147.508,0,1.6,ml,,,,1.42,ak,ak0222wk9e53,2022-03-04T22:55:55.694Z,"72 km E of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-03-04T22:51:26.560Z,33.7236667,-116.7796667,14.49,0.97,ml,30,80,0.056,0.1,ci,ci40199720,2022-03-04T22:54:57.970Z,"6km WSW of Idyllwild, CA",earthquake,0.21,0.29,0.144,25,automatic,ci,ci
-2022-03-04T22:50:31.224Z,42.5807,-72.3947,3.49,2.4,ml,,55,0.248,0.29,us,us6000h27e,2022-03-05T22:32:01.548Z,"2 km S of Erving, Massachusetts",earthquake,1.4,2,0.051,50,reviewed,us,us
