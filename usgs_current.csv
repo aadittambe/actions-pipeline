@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-05T21:31:18.198Z,63.3512,-145.4028,2.6,1.5,ml,,,,0.52,ak,ak0222y72zwu,2022-03-05T21:35:31.894Z,"31 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-05T21:36:39.470Z,38.8264999,-122.8063354,2.54,0.94,md,19,57,0.004259,0.02,nc,nc73701781,2022-03-05T21:38:16.065Z,"7km NW of The Geysers, CA",earthquake,0.25,0.63,0.23,3,automatic,nc,nc
+2022-03-05T21:36:10.070Z,38.7869987,-122.746666,1.8,0.54,md,13,83,0.017,0.02,nc,nc73701776,2022-03-05T21:37:46.053Z,"1km NE of The Geysers, CA",earthquake,0.29,0.68,0.32,3,automatic,nc,nc
+2022-03-05T21:31:18.198Z,63.3512,-145.4028,2.6,1.5,ml,,,,0.52,ak,ak0222y72zwu,2022-03-05T21:37:12.207Z,"31 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-05T21:22:04.090Z,37.5265007,-121.6886673,5.89,1.76,md,34,46,0.08043,0.08,nc,nc73701771,2022-03-05T21:32:10.153Z,"19km SSE of Livermore, CA",earthquake,0.18,0.83,0.07,24,automatic,nc,nc
 2022-03-05T20:56:43.580Z,34.1163333,-119.0341667,17.32,1.87,ml,26,121,0.0717,0.25,ci,ci40200344,2022-03-05T21:00:29.250Z,"11km S of Camarillo, CA",earthquake,0.67,1.09,0.164,30,automatic,ci,ci
 2022-03-05T20:49:46.279Z,62.6356,-151.3892,88.5,2,ml,,,,0.5,ak,ak0222y6lhcs,2022-03-05T20:59:27.620Z,"35 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -212,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T21:54:26.120Z,38.8303333,-122.7463333,0.9,0.43,md,13,165,0.01261,0.03,nc,nc73701266,2022-03-05T01:07:14.638Z,"2km WNW of Cobb, CA",earthquake,0.33,0.63,0.185,2,reviewed,nc,nc
 2022-03-04T21:43:52.750Z,36.5288333,-121.1131667,3,1.98,md,25,98,0.02527,0.05,nc,nc73701261,2022-03-05T06:44:10.798Z,"3km E of Pinnacles, CA",earthquake,0.19,0.45,0.243,21,reviewed,nc,nc
 2022-03-04T21:40:49.760Z,33.5491667,-116.8213333,3.87,1,ml,19,72,0.04067,0.27,ci,ci40199704,2022-03-04T21:44:26.577Z,"12km NNE of Aguanga, CA",earthquake,0.56,1.29,0.192,18,automatic,ci,ci
-2022-03-04T21:37:33.020Z,38.8413315,-122.8231659,1.6,0.86,md,9,105,0.01,0.02,nc,nc73701256,2022-03-04T22:14:14.547Z,"9km WNW of Cobb, CA",earthquake,0.31,0.82,,1,automatic,nc,nc
