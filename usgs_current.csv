@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-05T21:45:33.560Z,38.7676659,-122.8834991,1.87,0.62,md,8,224,0.02894,0.02,nc,nc73701786,2022-03-05T21:47:11.442Z,"11km W of The Geysers, CA",earthquake,1.36,1.24,,1,automatic,nc,nc
+2022-03-05T21:43:44.712Z,38.2474,-118.3758,0,1.2,ml,9,196.39,0.163,0.1364,nn,nn00834950,2022-03-05T21:48:05.258Z,"28 km SW of Mina, Nevada",earthquake,,9,0.25,3,automatic,nn,nn
 2022-03-05T21:36:39.470Z,38.8264999,-122.8063354,2.54,0.94,md,19,57,0.004259,0.02,nc,nc73701781,2022-03-05T21:44:10.384Z,"7km NW of The Geysers, CA",earthquake,0.25,0.63,0.23,3,automatic,nc,nc
 2022-03-05T21:36:10.070Z,38.7869987,-122.746666,1.8,0.54,md,13,83,0.017,0.02,nc,nc73701776,2022-03-05T21:44:10.218Z,"1km NE of The Geysers, CA",earthquake,0.29,0.68,0.32,3,automatic,nc,nc
 2022-03-05T21:31:18.182Z,63.3545,-145.4025,2.3,1.5,ml,,,,0.51,ak,ak0222y72zwu,2022-03-05T21:43:03.328Z,"31 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-05T21:22:04.090Z,37.5265007,-121.6886673,5.89,1.76,md,34,46,0.08043,0.08,nc,nc73701771,2022-03-05T21:32:10.153Z,"19km SSE of Livermore, CA",earthquake,0.18,0.83,0.07,24,automatic,nc,nc
+2022-03-05T21:22:04.090Z,37.5265007,-121.6886673,5.89,1.76,md,34,46,0.08043,0.08,nc,nc73701771,2022-03-05T21:48:16.237Z,"19km SSE of Livermore, CA",earthquake,0.18,0.83,0.07,24,automatic,nc,nc
 2022-03-05T20:56:43.580Z,34.1163333,-119.0341667,17.32,1.87,ml,26,121,0.0717,0.25,ci,ci40200344,2022-03-05T21:00:29.250Z,"11km S of Camarillo, CA",earthquake,0.67,1.09,0.164,30,automatic,ci,ci
 2022-03-05T20:49:46.279Z,62.6356,-151.3892,88.5,2,ml,,,,0.5,ak,ak0222y6lhcs,2022-03-05T20:59:27.620Z,"35 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-05T20:46:40.630Z,38.8333321,-122.8233337,9.55,0.86,md,7,200,0.01434,0.02,nc,nc73701756,2022-03-05T20:54:11.144Z,"8km NW of The Geysers, CA",earthquake,1.7,6.86,,1,automatic,nc,nc
