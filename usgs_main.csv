@@ -1258,3 +1258,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T20:42:21.570Z,18.0091666666667,-66.8876666666667,14.53,,,3.0,179.0,,0.08,pr,pr71339158,2022-03-05T22:47:20.150Z,"1 km WSW of Palomas, Puerto Rico",earthquake,3.79,3.17,,,reviewed,pr,pr
 2022-03-05T22:52:16.470Z,34.0211678,-117.6938324,14.66,1.86,ml,16.0,105.0,0.1782,0.26,ci,ci40200400,2022-03-05T22:54:42.451Z,"1km NNW of Chino, CA",earthquake,0.75,1.6,0.506,4.0,automatic,ci,ci
 2022-03-05T22:50:16.080Z,36.4978333,-121.0676651,7.89,1.94,md,18.0,136.0,0.04318,0.06,nc,nc73701806,2022-03-05T22:51:50.778Z,"8km ESE of Pinnacles, CA",earthquake,0.42,0.83,0.14,16.0,automatic,nc,nc
+2022-03-05T22:56:22.190Z,38.8071671,-122.7926636,3.38,0.66,md,20.0,61.0,0.002212,0.02,nc,nc73701811,2022-03-05T22:57:56.855Z,"5km NW of The Geysers, CA",earthquake,0.25,0.61,0.43,3.0,automatic,nc,nc
+2022-03-05T22:40:27.754Z,3.5839,126.0575,83.33,4.8,mb,,87.0,3.084,0.88,us,us6000h2g3,2022-03-05T22:54:54.040Z,"211 km SSE of Sarangani, Philippines",earthquake,7.8,8.2,0.087,41.0,reviewed,us,us
