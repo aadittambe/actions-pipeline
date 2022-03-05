@@ -231,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T16:03:53.904Z,61.4867,-149.9091,34.2,1.9,ml,,,,0.45,ak,ak0222wgek3g,2022-03-04T16:08:04.075Z,"4 km SSE of Big Lake, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-03-04T16:00:17.260Z,41.5106667,-112.1746667,8.06,1.01,md,11,91,0.09767,0.07,uu,uu60484317,2022-03-04T16:38:33.000Z,"7 km SW of Corinne, Utah",earthquake,0.33,1.58,0.121,9,reviewed,uu,uu
 2022-03-04T15:52:56.070Z,44.7416667,-111.2453333,15.15,0.56,md,12,130,0.03618,0.24,uu,uu60484312,2022-03-04T16:32:49.200Z,"5 km SW of Hebgen Lake Estates, Montana",earthquake,1.31,1.66,0.139,8,reviewed,uu,uu
-2022-03-04T15:52:33.670Z,17.9033333333333,-66.8758333333333,15.76,1.97,md,5,235,,0.05,pr,pr71338943,2022-03-04T16:24:06.590Z,"8 km SSE of Guánica, Puerto Rico",earthquake,0.75,0.62,0.137434516628506,4,reviewed,pr,pr
-2022-03-04T15:49:56.750Z,44.742,-111.2685,16.94,0.29,md,10,251,0.05227,0.15,uu,uu60484307,2022-03-04T16:25:36.520Z,"6 km WSW of Hebgen Lake Estates, Montana",earthquake,2.28,2.44,0.215,7,reviewed,uu,uu
