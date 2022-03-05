@@ -1111,3 +1111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T07:01:05.970Z,19.1446666717529,-155.378326416016,30.0699996948242,2.1099999,md,49.0,181.0,,0.109999999,hv,hv72938537,2022-03-05T07:04:13.570Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.47,0.689999998,1.20000005,27.0,automatic,hv,hv
 2022-03-05T06:56:30.724Z,63.4765,-148.9431,0.0,2.9,ml,,,,0.93,ak,ak0222xyavoj,2022-03-05T07:07:11.214Z,"9 km N of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-05T06:56:27.856Z,37.2533,-117.5933,5.5,1.4,ml,8.0,107.19,0.047,0.3188,nn,nn00834932,2022-03-05T07:00:19.718Z,"55 km S of Silver Peak, Nevada",earthquake,,1.0,0.86,5.0,automatic,nn,nn
+2022-03-05T07:18:51.305Z,38.1875,-117.8839,8.3,1.7,ml,12.0,152.85,0.077,0.175,nn,nn00834935,2022-03-05T07:22:30.124Z,"29 km SE of Mina, Nevada",earthquake,,0.4,0.45,6.0,automatic,nn,nn
+2022-03-05T07:17:04.710Z,35.9223333,-117.6365,1.8,0.97,ml,10.0,99.0,0.02789,0.15,ci,ci40199928,2022-03-05T07:20:38.395Z,"24km E of Little Lake, CA",earthquake,0.37,0.68,0.15,8.0,automatic,ci,ci
+2022-03-05T07:10:24.347Z,38.128,-118.0051,11.9,0.7,ml,8.0,177.68,0.038,0.0476,nn,nn00834934,2022-03-05T07:14:29.053Z,"30 km SSE of Mina, Nevada",earthquake,,0.7,0.19,3.0,automatic,nn,nn
+2022-03-04T22:50:31.224Z,42.5807,-72.3947,3.49,2.4,ml,,55.0,0.248,0.29,us,us6000h27e,2022-03-05T07:10:20.040Z,"2 km S of Erving, Massachusetts",earthquake,1.4,2.0,0.051,50.0,reviewed,us,us
