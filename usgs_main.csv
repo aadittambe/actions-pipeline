@@ -1099,3 +1099,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T05:35:39.822Z,59.1636,-155.086,195.8,2.9,ml,,,,0.85,ak,ak0222xxkzl6,2022-03-05T05:42:32.120Z,"35 km SSW of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-05T05:46:48.987Z,38.2378,-118.3606,8.7,1.1,ml,10.0,155.73,0.114,0.2329,nn,nn00834929,2022-03-05T05:50:49.518Z,"27 km SW of Mina, Nevada",earthquake,,1.5,0.3,5.0,automatic,nn,nn
 2022-03-05T05:56:59.950Z,38.8346672,-122.7903366,1.37,0.85,md,10.0,74.0,0.003736,0.02,nc,nc73701531,2022-03-05T05:58:38.311Z,"6km WNW of Cobb, CA",earthquake,0.33,0.99,,1.0,automatic,nc,nc
+2022-03-05T06:09:33.650Z,33.9543333,-116.9331667,17.31,1.53,ml,53.0,55.0,0.05132,0.2,ci,ci40199912,2022-03-05T06:13:12.600Z,"5km NE of Beaumont, CA",earthquake,0.19,0.51,0.173,26.0,automatic,ci,ci
+2022-03-05T06:05:40.156Z,62.2999,-149.7363,10.6,2.1,ml,,,,0.84,ak,ak0222xxzywv,2022-03-05T06:15:36.550Z,"16 km NNE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-05T06:05:09.380Z,35.9165,-117.7278333,8.58,1.08,ml,12.0,54.0,0.07024,0.05,ci,ci40199904,2022-03-05T06:08:42.985Z,"16km E of Little Lake, CA",earthquake,0.16,0.5,0.192,12.0,automatic,ci,ci
