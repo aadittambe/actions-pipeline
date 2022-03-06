@@ -1393,3 +1393,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T15:17:25.848Z,63.349,-145.4383,0.0,2.3,ml,,,,0.6,ak,ak0222zqyrcm,2022-03-06T15:31:31.098Z,"30 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-06T15:11:18.380Z,18.0321666666667,-66.7905,15.63,1.89,md,11.0,100.0,,0.09,pr,pr71339263,2022-03-06T15:28:19.780Z,"1 km N of Guayanilla, Puerto Rico",earthquake,0.39,0.71,0.160470443558972,8.0,reviewed,pr,pr
 2022-03-06T09:13:32.240Z,44.4325,-115.1823333,4.37,1.71,ml,7.0,82.0,0.877,0.26,mb,mb80539829,2022-03-06T15:24:37.880Z,"30 km NW of Stanley, Idaho",earthquake,0.97,2.12,0.189,6.0,reviewed,mb,mb
+2022-03-06T15:37:07.570Z,33.7046667,-116.7176667,17.7,1.51,ml,46.0,57.0,0.00711,0.17,ci,ci40200736,2022-03-06T15:41:02.689Z,"4km S of Idyllwild, CA",earthquake,0.19,0.36,0.201,27.0,automatic,ci,ci
+2022-03-06T15:35:52.420Z,19.3438339233398,-155.007827758789,-0.689999997615814,1.83,ml,34.0,207.0,,0.25,hv,hv72940172,2022-03-06T15:41:25.570Z,"16 km SW of Leilani Estates, Hawaii",earthquake,1.24,0.340000004,3.19,5.0,automatic,hv,hv
+2022-03-06T15:35:18.350Z,33.7051667,-116.7181667,18.0,0.65,ml,21.0,54.0,0.006851,0.18,ci,ci40200728,2022-03-06T15:38:53.679Z,"4km S of Idyllwild, CA",earthquake,0.46,0.61,0.099,15.0,automatic,ci,ci
