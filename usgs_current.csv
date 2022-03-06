@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-06T08:46:01.570Z,38.7648315,-122.7344971,2.83,0.22,md,9,101,0.008198,0.02,nc,nc73702006,2022-03-06T08:47:38.017Z,"2km SE of The Geysers, CA",earthquake,0.71,1.05,0.17,2,automatic,nc,nc
+2022-03-06T08:46:01.570Z,38.7648315,-122.7344971,2.83,0.22,md,9,101,0.008198,0.02,nc,nc73702006,2022-03-06T08:54:10.355Z,"2km SE of The Geysers, CA",earthquake,0.71,1.05,0.17,2,automatic,nc,nc
 2022-03-06T08:45:20.188Z,61.7362,-146.5092,30.3,1.6,ml,,,,1.24,ak,ak0222zmyppu,2022-03-06T08:48:34.916Z,"31 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-06T08:18:48.764Z,63.4122,-147.3022,0,1.8,ml,,,,0.91,ak,ak0222zmszkr,2022-03-06T08:27:52.697Z,"82 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-06T08:16:45.220Z,38.8023338,-122.7815018,2.63,0.35,md,8,78,0.01043,0.01,nc,nc73701996,2022-03-06T08:26:11.040Z,"4km NW of The Geysers, CA",earthquake,0.63,1.55,,1,automatic,nc,nc
@@ -71,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T23:32:25.320Z,38.8421669,-122.8759995,2.33,0.39,md,9,86,0.006156,0.01,nc,nc73701831,2022-03-05T23:59:23.960Z,"13km NW of The Geysers, CA",earthquake,0.39,0.71,0.23,3,automatic,nc,nc
 2022-03-05T23:23:14.340Z,38.8264999,-122.8551636,2.59,1.57,md,30,62,0.001695,0.02,nc,nc73701826,2022-03-06T01:48:11.585Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.4,0.06,7,automatic,nc,nc
 2022-03-05T23:23:07.480Z,19.1548328399658,-155.476669311523,33.3600006103516,1.85000002,md,36,139,,0.170000002,hv,hv72939332,2022-03-05T23:26:23.520Z,"5 km S of Pāhala, Hawaii",earthquake,0.65,0.870000005,1.13999999,8,automatic,hv,hv
-2022-03-05T23:19:03.680Z,38.8268318,-122.8554993,2.58,1.82,md,33,79,0.001288,0.03,nc,nc73701821,2022-03-06T01:23:15.449Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.4,0.07,10,automatic,nc,nc
+2022-03-05T23:19:03.680Z,38.827,-122.8546667,2.75,1.7,md,57,31,0.001807,0.04,nc,nc73701821,2022-03-06T08:56:37.665Z,"10km WNW of The Geysers, CA",earthquake,0.14,0.19,0.191,20,reviewed,nc,nc
 2022-03-05T23:14:00.590Z,17.9456666666667,-66.8975,11.01,2.12,md,4,214,,0.18,pr,pr71339168,2022-03-05T23:32:09.110Z,"3 km SSE of Guánica, Puerto Rico",earthquake,3.56,1.08,0.136427168051906,3,reviewed,pr,pr
 2022-03-05T23:11:45.994Z,63.2665,-149.4711,83.4,2,ml,,,,0.64,ak,ak0222y85mur,2022-03-05T23:25:14.184Z,"29 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-05T22:56:42.700Z,38.8113333,-122.8223333,2.41,0.4,md,23,58,0.005887,0.02,nc,nc73701816,2022-03-06T05:44:16.057Z,"7km WNW of The Geysers, CA",earthquake,0.21,0.47,0.141,3,reviewed,nc,nc
@@ -176,7 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T11:40:56.680Z,34.0286667,-117.1543333,10.2,1.32,ml,40,102,0.08252,0.21,ci,ci40200096,2022-03-05T11:44:28.912Z,"4km SE of Redlands, CA",earthquake,0.3,0.77,0.148,28,automatic,ci,ci
 2022-03-05T11:39:14.370Z,61.5444,-149.8765,34,1.5,ml,,,,0.85,ak,ak0222y16dal,2022-03-05T11:42:21.856Z,"4 km ENE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-05T11:36:34.310Z,35.5115,-118.387,8.29,1.63,ml,23,65,0.1855,0.21,ci,ci40200088,2022-03-05T11:40:22.887Z,"13km SE of Bodfish, CA",earthquake,0.35,1.34,0.176,28,automatic,ci,ci
-2022-03-05T11:33:19.240Z,36.721,-121.3801667,1.81,1.02,md,16,161,0.03023,0.07,nc,nc73701616,2022-03-06T08:47:37.893Z,"9km SW of Tres Pinos, CA",earthquake,0.49,0.67,0.193,16,reviewed,nc,nc
+2022-03-05T11:33:19.240Z,36.721,-121.3801667,1.81,1.02,md,16,161,0.03023,0.07,nc,nc73701616,2022-03-06T08:54:10.222Z,"9km SW of Tres Pinos, CA",earthquake,0.49,0.67,0.193,16,reviewed,nc,nc
 2022-03-05T11:23:20.050Z,34.0356667,-117.164,11.84,1.11,ml,24,127,0.08836,0.19,ci,ci40200080,2022-03-05T11:27:03.642Z,"3km SE of Redlands, CA",earthquake,0.37,1.01,0.108,31,automatic,ci,ci
 2022-03-05T11:08:51.090Z,17.9186666666667,-66.8166666666667,13.83,2.16,md,7,226,,0.09,pr,pr71339053,2022-03-05T11:39:06.290Z,"8 km S of Indios, Puerto Rico",earthquake,0.69,0.39,0.0331303270070591,5,reviewed,pr,pr
 2022-03-05T11:02:16.180Z,35.5148315,-118.3840027,4.01,3.35,ml,70,28,0.1818,0.2,ci,ci40200072,2022-03-06T05:51:00.766Z,"13km SE of Bodfish, CA",earthquake,0.18,0.8,0.295,19,automatic,ci,ci
