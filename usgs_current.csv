@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-06T02:46:54.300Z,34.206,-117.4856667,12.29,1.95,ml,66,28,0.05008,0.22,ci,ci40200464,2022-03-06T02:53:01.019Z,"6km SSE of Lytle Creek, CA",earthquake,0.23,0.55,0.152,26,automatic,ci,ci
+2022-03-06T03:00:26.330Z,38.8230019,-122.855835,2.43,1.19,md,25,67,0.004608,0.04,nc,nc73701896,2022-03-06T03:02:01.456Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.42,0.09,5,automatic,nc,nc
+2022-03-06T02:46:54.300Z,34.206,-117.4856667,12.29,1.95,ml,66,28,0.05008,0.22,ci,ci40200464,2022-03-06T02:58:10.894Z,"6km SSE of Lytle Creek, CA",earthquake,0.23,0.55,0.152,26,automatic,ci,ci
 2022-03-06T02:33:17.494Z,-22.5851,-176.3623,10,5,mb,,92,8.4,0.96,us,us6000h2gu,2022-03-06T02:51:26.040Z,"196 km SW of Vaini, Tonga",earthquake,5.2,1.9,0.043,176,reviewed,us,us
+2022-03-06T02:26:13.056Z,40.6814,-29.1677,10,4.7,mb,,72,4.061,0.9,us,us6000h2gv,2022-03-06T02:59:54.040Z,"203 km NNW of Santa Cruz da Graciosa, Portugal",earthquake,5.6,1.9,0.064,78,reviewed,us,us
 2022-03-06T02:25:38.230Z,59.392,-152.497,68.8,1.6,ml,,,,0.28,ak,ak0222zj9v5t,2022-03-06T02:32:25.515Z,"32 km W of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-03-06T02:12:07.070Z,38.8178329,-122.8233337,2.22,0.61,md,15,73,0.01005,0.01,nc,nc73701886,2022-03-06T02:28:11.829Z,"7km NW of The Geysers, CA",earthquake,0.31,0.54,0.13,4,automatic,nc,nc
 2022-03-06T02:10:28.190Z,19.167667388916,-155.475997924805,33.9099998474121,1.90999997,md,34,89,,0.129999995,hv,hv72939492,2022-03-06T02:16:14.150Z,"3 km S of Pāhala, Hawaii",earthquake,0.74,0.930000007,0.560000002,5,automatic,hv,hv
