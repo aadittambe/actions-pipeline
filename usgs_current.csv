@@ -74,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T03:57:27.040Z,38.838665,-122.8103333,1.99,0.95,md,25,49,0.01525,0.02,nc,nc73701906,2022-03-06T05:05:13.799Z,"8km WNW of Cobb, CA",earthquake,0.21,0.38,0.07,5,automatic,nc,nc
 2022-03-06T03:51:56.389Z,24.843,122.2398,110.98,4.5,mb,,48,0.686,0.76,us,us6000h2h5,2022-03-06T04:55:05.040Z,"49 km SE of Jiufen, Taiwan",earthquake,5.2,5.2,0.084,43,reviewed,us,us
 2022-03-06T03:49:08.290Z,36.0245,-117.5588333,2.07,0.98,ml,10,195,0.09519,0.15,ci,ci40200480,2022-03-06T03:52:44.275Z,"32km NNW of Searles Valley, CA",earthquake,0.74,0.7,0.08,8,automatic,ci,ci
-2022-03-06T03:29:21.096Z,16.9706,-95.0836,97.76,5.5,mww,,115,2.906,1,us,us6000h2h0,2022-03-06T14:34:03.935Z,"1 km NE of San Juan Guichicovi, Mexico",earthquake,8,6,0.059,28,reviewed,us,us
+2022-03-06T03:29:21.096Z,16.9706,-95.0836,97.76,5.5,mww,,115,2.906,1,us,us6000h2h0,2022-03-06T14:39:11.638Z,"1 km NE of San Juan Guichicovi, Mexico",earthquake,8,6,0.059,28,reviewed,us,us
 2022-03-06T03:23:33.576Z,31.67672057,-104.4137638,6.979931641,2.9,ml,16,55,0.07461742324,0.3,tx,tx2022enex,2022-03-06T03:34:34.127Z,"55 km S of Whites City, New Mexico",earthquake,1.306762425,1.380785973,0.1,8,reviewed,tx,tx
 2022-03-06T03:02:47.610Z,34.3713333,-118.3183333,6.91,2.12,ml,59,31,0.04365,0.22,ci,ci40200472,2022-03-06T04:39:07.434Z,"12km NNE of Lake View Terrace, CA",earthquake,0.23,0.63,0.223,25,automatic,ci,ci
 2022-03-06T03:00:26.330Z,38.8230019,-122.855835,2.43,1.19,md,25,67,0.004608,0.04,nc,nc73701896,2022-03-06T04:24:13.563Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.42,0.09,5,automatic,nc,nc
