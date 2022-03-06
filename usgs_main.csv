@@ -1369,3 +1369,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T12:18:57.590Z,38.8185005,-122.7663345,2.22,0.8,md,16.0,105.0,0.01228,0.02,nc,nc73702051,2022-03-06T12:35:18.627Z,"4km W of Cobb, CA",earthquake,0.29,0.56,0.57,3.0,automatic,nc,nc
 2022-03-06T12:07:10.925Z,-7.9437,120.6695,10.0,4.4,mb,,97.0,1.697,0.61,us,us6000h2j5,2022-03-06T12:23:29.040Z,"77 km NNE of Ruteng, Indonesia",earthquake,6.6,1.9,0.123,19.0,reviewed,us,us
 2022-03-06T12:53:45.150Z,38.8235016,-122.8255005,0.93,0.36,md,7.0,95.0,0.007454,0.0,nc,nc73702061,2022-03-06T13:01:10.791Z,"8km NW of The Geysers, CA",earthquake,0.38,1.08,,1.0,automatic,nc,nc
+2022-03-06T13:13:20.830Z,35.9705009,-120.5241699,3.46,0.58,md,9.0,126.0,0.04013,0.02,nc,nc73702076,2022-03-06T13:14:55.525Z,"12km NW of Parkfield, CA",earthquake,0.39,1.49,0.25,3.0,automatic,nc,nc
+2022-03-06T13:08:59.850Z,38.8323326,-122.817337,1.77,0.85,md,12.0,57.0,0.01058,0.01,nc,nc73702071,2022-03-06T13:17:11.124Z,"8km NW of The Geysers, CA",earthquake,0.29,0.99,,1.0,automatic,nc,nc
+2022-03-06T12:59:27.277Z,38.0524,-118.4505,0.0,1.2,ml,11.0,224.06,0.203,0.2431,nn,nn00834963,2022-03-06T13:02:57.158Z,"25 km N of Benton, California",earthquake,,10.3,0.12,7.0,automatic,nn,nn
