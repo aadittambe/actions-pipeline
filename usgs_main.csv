@@ -1409,3 +1409,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T16:41:30.820Z,35.2165,-117.627,3.59,1.24,ml,18.0,70.0,0.1862,0.2,ci,ci40200776,2022-03-06T16:45:02.092Z,"17km S of Johannesburg, CA",earthquake,0.42,1.92,0.173,21.0,automatic,ci,ci
 2022-03-06T16:40:15.680Z,33.7175,-116.6886667,17.56,0.66,ml,18.0,153.0,0.01966,0.21,ci,ci40200760,2022-03-06T16:43:44.162Z,"4km SE of Idyllwild, CA",earthquake,0.74,0.72,0.106,19.0,automatic,ci,ci
 2022-03-06T16:20:08.371Z,19.7025,-64.4633,10.0,3.9,ml,,266.0,1.589,0.28,us,us6000h2jt,2022-03-06T16:44:40.040Z,"155 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.5,2.0,0.052,48.0,reviewed,us,us
+2022-03-06T17:01:08.180Z,37.4941673,-121.8704987,2.77,1.75,md,12.0,88.0,0.04818,0.04,nc,nc73702131,2022-03-06T17:02:43.063Z,"8km NNE of Milpitas, CA",earthquake,0.23,0.66,0.11,10.0,automatic,nc,nc
+2022-03-06T16:59:06.907Z,59.7254,-153.1891,109.9,2.6,ml,,,,0.52,ak,ak0222zrt5j3,2022-03-06T17:02:20.750Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-06T16:53:20.610Z,35.7711667,-117.5871667,1.89,2.15,ml,27.0,64.0,0.04527,0.16,ci,ci40200792,2022-03-06T17:03:41.760Z,"16km W of Searles Valley, CA",earthquake,0.23,0.39,0.143,25.0,automatic,ci,ci
