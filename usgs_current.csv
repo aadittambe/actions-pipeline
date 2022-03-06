@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T06:05:09.380Z,35.9165,-117.7278333,8.58,1.08,ml,12,54,0.07024,0.05,ci,ci40199904,2022-03-05T06:08:42.985Z,"16km E of Little Lake, CA",earthquake,0.16,0.5,0.192,12,automatic,ci,ci
 2022-03-05T05:56:59.950Z,38.8346672,-122.7903366,1.37,0.85,md,10,74,0.003736,0.02,nc,nc73701531,2022-03-05T06:19:18.667Z,"6km WNW of Cobb, CA",earthquake,0.33,0.99,,1,automatic,nc,nc
 2022-03-05T05:46:48.987Z,38.2378,-118.3606,8.7,1.1,ml,10,155.73,0.114,0.2329,nn,nn00834929,2022-03-05T05:50:49.518Z,"27 km SW of Mina, Nevada",earthquake,,1.5,0.3,5,automatic,nn,nn
-2022-03-05T05:35:50.910Z,59.5634,-153.9754,137.7,2,ml,,,,0.35,ak,ak0222xxkzl6,2022-03-05T20:42:14.976Z,"26 km SSE of Pedro Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
